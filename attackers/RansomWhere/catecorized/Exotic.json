@@ -1,0 +1,19 @@
+[
+    {
+        "address": "14k81d3PhfB8A3GJAGa1wmbRdE7x7fgby8",
+        "balance": 638312,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:12.256Z",
+        "family": "Exotic",
+        "transactions": [
+            {
+                "hash": "27f890957d02b64326ca930dda85379f136301bc005f012c856ed8e7d6b1193c",
+                "time": 1477681986,
+                "amount": 638312,
+                "amountUSD": 4.40212509750312
+            }
+        ],
+        "updatedAt": "2021-09-11T15:50:07.221Z",
+        "balanceUSD": 4.40212509750312
+    }
+]

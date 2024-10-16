@@ -1,0 +1,49 @@
+[
+    {
+        "address": "19a93M9JGX377yfVzWRBs4abcUpwLfXsvE",
+        "balance": 12399782,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:13.100Z",
+        "family": "Cryptohitman",
+        "transactions": [
+            {
+                "hash": "bbcc6dd4d13081e61217aed6294f4cb5f31518b601f7563521c83758953cb609",
+                "time": 1569203845,
+                "amount": 1044873,
+                "amountUSD": 101.65908184679186
+            },
+            {
+                "hash": "aa43b031653fc207fc4e8aaf28f1f995f8ce4579ded062cbd3d3de08e5e98d61",
+                "time": 1544285917,
+                "amount": 661485,
+                "amountUSD": 22.9939776275781
+            },
+            {
+                "hash": "cc02657db49c178ba26019f0a31c2973b31e3b52755a0c742e991fe6bf8d2e0a",
+                "time": 1462219780,
+                "amount": 84869,
+                "amountUSD": 0.37738613870214005
+            },
+            {
+                "hash": "e1e143a29ce3cf8835815830a7cffc7eb3cb694d9afb2622c68025c06893bc74",
+                "time": 1462218748,
+                "amount": 263900,
+                "amountUSD": 1.173481506834
+            },
+            {
+                "hash": "7a99c36a95dffd955e3ed787cb4bfdaa26fd7993b39061226e0d7cf427a96c78",
+                "time": 1462113894,
+                "amount": 50000,
+                "amountUSD": 0.2259375
+            },
+            {
+                "hash": "0ad436f1885ca78caf62b220b2588144fd4063a9d67c06c61314011137d3e29d",
+                "time": 1461738394,
+                "amount": 10294655,
+                "amountUSD": 45.7789937152086
+            }
+        ],
+        "updatedAt": "2021-09-11T15:50:07.449Z",
+        "balanceUSD": 172.2088583351147
+    }
+]

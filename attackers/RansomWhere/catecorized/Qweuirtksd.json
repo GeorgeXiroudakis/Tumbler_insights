@@ -1,0 +1,19 @@
+[
+    {
+        "address": "1BhHZxek7iUTm1mdrgax6yVrPzViqLhr9u",
+        "balance": 8000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-08-11T02:19:53.136Z",
+        "family": "Qweuirtksd",
+        "transactions": [
+            {
+                "hash": "fec1dca88964ee78b3eb3cd8782e65bae6f32b9d00268a8ffd500aa528eb2f60",
+                "time": 1541611801,
+                "amount": 8000000,
+                "amountUSD": 522.4112109600001
+            }
+        ],
+        "updatedAt": "2021-09-11T15:59:58.939Z",
+        "balanceUSD": 522.4112109600001
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "address": "1Lud76Q98VRHCUiyK7XUs7AgFofrqXeP78",
+        "balance": 116162,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:30:55.335Z",
+        "family": "7ev3n",
+        "transactions": [
+            {
+                "hash": "4119a3aa35e594004e739e69961c8bd120a59a9232b5b82c31ba359a5302dd62",
+                "time": 1511941167,
+                "amount": 4937,
+                "amountUSD": 0.48820069307824004
+            },
+            {
+                "hash": "3d798b16362f0394a398e77c53024b62d028e25fb8da43f6011897dc8e4e6b97",
+                "time": 1461931258,
+                "amount": 111225,
+                "amountUSD": 0.50618162156625
+            }
+        ],
+        "updatedAt": "2021-09-11T15:50:06.971Z",
+        "balanceUSD": 0.9943823146444901
+    }
+]

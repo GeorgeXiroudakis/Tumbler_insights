@@ -1,0 +1,19 @@
+[
+    {
+        "address": "1KvmWVRxqw8HeFpR2tHBaoTJiTczU7PRzw",
+        "balance": 1376,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-08-11T02:19:53.167Z",
+        "family": "WannaSmile",
+        "transactions": [
+            {
+                "hash": "5e31ebc38af0020faf1b783af68c4ca02c869b1f69104fe80466af556635fbe1",
+                "time": 1510304906,
+                "amount": 1376,
+                "amountUSD": 0.09106560828512
+            }
+        ],
+        "updatedAt": "2021-09-11T15:59:59.010Z",
+        "balanceUSD": 0.09106560828512
+    }
+]

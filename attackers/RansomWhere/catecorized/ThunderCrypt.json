@@ -1,0 +1,32 @@
+[
+    {
+        "address": "14dqhE6XPoxkkttwwh7qTWmmSwXerWd2Ho",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:30:58.374Z",
+        "family": "ThunderCrypt",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:50:08.081Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "1HFY12o56xbHer3oeNxC99A7SGyXaR64hs",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:30:58.858Z",
+        "family": "ThunderCrypt",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:50:08.217Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "18yfx86BwNK5xYKw71uaHwAxPgCGRJaqgg",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:30:58.900Z",
+        "family": "ThunderCrypt",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:50:08.231Z",
+        "balanceUSD": 0
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "address": "1HpVz6uSgVjQxzJCeGgwYTbNAaD9tByR4u",
+        "balance": 1720000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:12.519Z",
+        "family": "NullByte",
+        "transactions": [
+            {
+                "hash": "976b58417a56aef8c02045ccd053c78cac55551627825969b18992026f8bac2f",
+                "time": 1472880709,
+                "amount": 1720000,
+                "amountUSD": 10.289245970000001
+            }
+        ],
+        "updatedAt": "2021-09-11T15:58:00.355Z",
+        "balanceUSD": 10.289245970000001
+    }
+]

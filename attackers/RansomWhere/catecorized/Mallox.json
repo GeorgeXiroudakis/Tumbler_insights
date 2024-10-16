@@ -1,0 +1,19 @@
+[
+    {
+        "address": "38uTYmRfywB9F96DHFRh8g15SbfQiZudEq",
+        "balance": 68746170,
+        "blockchain": "bitcoin",
+        "createdAt": "2024-02-17T03:23:38.357Z",
+        "family": "Mallox",
+        "transactions": [
+            {
+                "hash": "d2122977f2f75187252db3c378fe045d2110f5c625197f33c6d489f8ba60ae00",
+                "time": 1682612259,
+                "amount": 68746170,
+                "amountUSD": 20262.099791391225
+            }
+        ],
+        "updatedAt": "2024-03-12T23:42:28.663Z",
+        "balanceUSD": 20262.099791391225
+    }
+]

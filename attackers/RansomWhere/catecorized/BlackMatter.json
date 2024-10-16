@@ -1,0 +1,25 @@
+[
+    {
+        "address": "bc1q2855268hg3lm34qwk5jvnnjm762ef8rkdvyjez",
+        "balance": 9638631200,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-08-11T02:19:52.940Z",
+        "family": "BlackMatter",
+        "transactions": [
+            {
+                "hash": "12bef985403eb8527207483dd6e7a45ffa2253187734a43cf74a44c994a24ef3",
+                "time": 1627681405,
+                "amount": 9638600000,
+                "amountUSD": 4070915.42109375
+            },
+            {
+                "hash": "3bdb1d1deb8a638b4de7777876bb7724b885f873c905a81a383f90d2731bd7e4",
+                "time": 1627676483,
+                "amount": 31200,
+                "amountUSD": 13.177490624999999
+            }
+        ],
+        "updatedAt": "2021-09-11T15:59:58.690Z",
+        "balanceUSD": 4070928.598584375
+    }
+]

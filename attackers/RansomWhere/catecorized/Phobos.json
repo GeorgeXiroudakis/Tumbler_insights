@@ -1,0 +1,25 @@
+[
+    {
+        "address": "3BEohgnpisVfJDhyA3XywGjLs2vqcEG2hm",
+        "balance": 18446000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-08-11T02:18:11.158Z",
+        "family": "Phobos",
+        "transactions": [
+            {
+                "hash": "e765646b46384e14c4373c051f18803e445417e51c2a447d266b531b12b2dae4",
+                "time": 1626789475,
+                "amount": 9943000,
+                "amountUSD": 2963.7445774360804
+            },
+            {
+                "hash": "81cee7af89e95fbd56bd5a6b0ef1808a8e26b5493fb321c08fffcc157baf43f8",
+                "time": 1626767879,
+                "amount": 8503000,
+                "amountUSD": 2534.51877118968
+            }
+        ],
+        "updatedAt": "2021-09-11T15:58:01.149Z",
+        "balanceUSD": 5498.26334862576
+    }
+]

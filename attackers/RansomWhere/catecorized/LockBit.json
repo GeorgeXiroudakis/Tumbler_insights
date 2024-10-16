@@ -1,0 +1,101 @@
+[
+    {
+        "address": "1KsiEH5ZrfS3XhLVUU758rMKnP65kz2GYz",
+        "balance": 316559320,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-09-23T00:11:20.378Z",
+        "family": "LockBit",
+        "transactions": [
+            {
+                "hash": "87c6dffb5e103e24295a134d2449dccf15ac7a6147f19f2a39731cf121668108",
+                "time": 1608532202,
+                "amount": 29518,
+                "amountUSD": 6.73101375391058
+            },
+            {
+                "hash": "d4834cf20c45989861b616be6dc9d13e018e259692ec8a5f1c2c666abde9b038",
+                "time": 1607926376,
+                "amount": 33219346,
+                "amountUSD": 6393.609440142968
+            },
+            {
+                "hash": "b281bf3fca14c4ef50d5ed4028f3745654123a56e269455849734106353c9fe8",
+                "time": 1607906057,
+                "amount": 26000000,
+                "amountUSD": 5004.127578060001
+            },
+            {
+                "hash": "86217842acf7306179b4ac5c745c7a5b819c43d80f025f1da7486a8cc1e107aa",
+                "time": 1607064931,
+                "amount": 37124770,
+                "amountUSD": 6942.244978820313
+            },
+            {
+                "hash": "230fce94382a8677fac0e1009c652f0af890a9f3b3e5d09c10d30ec091eb8a93",
+                "time": 1607063996,
+                "amount": 67136070,
+                "amountUSD": 12554.287739835938
+            },
+            {
+                "hash": "5888bd1d2089e15293371cb027e1a84e7b5110965dac488ac35897213832ed2c",
+                "time": 1607043600,
+                "amount": 5100000,
+                "amountUSD": 953.6880468749999
+            },
+            {
+                "hash": "120fef3d1004c961d03e7420d83570d3d45b7cd574cf761b6e54dc4fe8029e54",
+                "time": 1606987141,
+                "amount": 67905816,
+                "amountUSD": 13204.556483775154
+            },
+            {
+                "hash": "bd2d3aad05f46bed022a6b57762fcf4a111edb9a438bfd57792a2d0ac5203f2b",
+                "time": 1606821586,
+                "amount": 79943800,
+                "amountUSD": 15031.831152697587
+            },
+            {
+                "hash": "c67d58c69b3b51a65deef2fc14fcd7b4a022ef3e57a37f996f868d53842a7ffd",
+                "time": 1606819854,
+                "amount": 100000,
+                "amountUSD": 18.802998047000003
+            }
+        ],
+        "updatedAt": "2021-09-23T00:11:20.378Z",
+        "balanceUSD": 60109.879432007874
+    },
+    {
+        "address": "bc1q9x0sg3w0gwl0yfyml78zp7mdpuan005scwvytu",
+        "balance": 287590000,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-11-10T17:49:15.069Z",
+        "family": "LockBit",
+        "transactions": [
+            {
+                "hash": "0e127a654482c23cbc9e8215bae019c72fa1239c890fa83a935df3473178177a",
+                "time": 1644099400,
+                "amount": 287590000,
+                "amountUSD": 119180.6437287817
+            }
+        ],
+        "updatedAt": "2023-02-06T15:32:06.032Z",
+        "balanceUSD": 119180.6437287817
+    },
+    {
+        "address": "bc1qyuunv9pz6f4qpgd0c0wmenu9zhr6u57yjf4afd",
+        "balance": 5310674450,
+        "blockchain": "bitcoin",
+        "createdAt": "2023-06-17T20:14:02.330Z",
+        "family": "LockBit",
+        "transactions": [
+            {
+                "hash": "0ed06d5b56f6ad8501fd336f7c78c9b66763201b2f152424404aa8d12787d2b7",
+                "time": 1662514046,
+                "amount": 5310674450,
+                "amountUSD": 1024446.319620595
+            }
+        ],
+        "updatedAt": "2023-06-20T00:14:57.397Z",
+        "balanceUSD": 1024446.319620595
+    }
+]

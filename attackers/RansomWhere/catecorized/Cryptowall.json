@@ -1,0 +1,31 @@
+[
+    {
+        "address": "1G6tQeWrwp6TU1qunLjdNmLTPQu7PnsMYd",
+        "balance": 43005794,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:46:03.444Z",
+        "transactions": [
+            {
+                "hash": "fcd5496bf98d7d77e3b22cc25ced4dbcdcbc9469e6f722240579f4aec14be13e",
+                "time": 1467160860,
+                "amount": 10796972,
+                "amountUSD": 69.0887457503458
+            },
+            {
+                "hash": "792f205584b0e22c178fc4fb2bb63a154931ac3a076a2c3cc91b8f4243a6b851",
+                "time": 1467050787,
+                "amount": 30000000,
+                "amountUSD": 196.5825072
+            },
+            {
+                "hash": "edbf8830534b671475cd985c8f766d471bea035885033568b8377b6f0cfcba67",
+                "time": 1462010196,
+                "amount": 2208822,
+                "amountUSD": 9.90254645934246
+            }
+        ],
+        "updatedAt": "2021-09-22T20:55:26.985Z",
+        "family": "Cryptowall",
+        "balanceUSD": 275.57379940968826
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "address": "bc1qnurh904jcnxm0amfg2cy3406k4ed2vd2x67s8p",
+        "balance": 172866,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-08-11T02:18:10.494Z",
+        "family": "Bagli",
+        "transactions": [
+            {
+                "hash": "6cbb87659f2de86724430bba6e6ec81f062d2322271cb7e7a7591fb5a2f144e9",
+                "time": 1625051973,
+                "amount": 2866,
+                "amountUSD": 1.0042703579830798
+            },
+            {
+                "hash": "8a9851692cb1e0815afbe5a0c88fc21472a7b9e8b7b2edab34ccdc098fa2aa46",
+                "time": 1618002263,
+                "amount": 170000,
+                "amountUSD": 99.01650664019999
+            }
+        ],
+        "updatedAt": "2021-09-11T15:58:00.409Z",
+        "balanceUSD": 100.02077699818307
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "address": "1JjKYDsYrJGPCzLGGmFL8nM7AvUncd2wYW",
+        "balance": 3990000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-08-11T02:19:53.206Z",
+        "family": "Black Mamba",
+        "transactions": [
+            {
+                "hash": "95a5ae82623a8700352ed56f5e9f5c21c7829623d023f39184d2d62917bda753",
+                "time": 1497892185,
+                "amount": 3990000,
+                "amountUSD": 103.3250439102
+            }
+        ],
+        "updatedAt": "2021-09-11T15:59:59.084Z",
+        "balanceUSD": 103.3250439102
+    }
+]

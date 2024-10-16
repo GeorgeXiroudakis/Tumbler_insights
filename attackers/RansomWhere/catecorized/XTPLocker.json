@@ -1,0 +1,37 @@
+[
+    {
+        "address": "16jX5RbF2pEcLYHPukazWhDCkxXTs7ZCxB",
+        "balance": 700000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:28.873Z",
+        "family": "XTPLocker",
+        "transactions": [
+            {
+                "hash": "0a4a07db1a47b365c3a76b42800e5a8147f8797379185f4ee1aeb6ae8421a6eb",
+                "time": 1476961244,
+                "amount": 200000000,
+                "amountUSD": 1261.71399
+            },
+            {
+                "hash": "9b379d19abeb07ac26fb69b420bae293eebc54b44cb83c5587095c2cd4bb7829",
+                "time": 1476306805,
+                "amount": 100000000,
+                "amountUSD": 636.192017
+            },
+            {
+                "hash": "6d53d25b834c13e763dc3cc871ecc89832935fa54f11086e9b991d2eeafb8aad",
+                "time": 1476271335,
+                "amount": 200000000,
+                "amountUSD": 1272.384034
+            },
+            {
+                "hash": "f21475d1b26546bdc922be005b389327850a1b7ed297c54feea42043539995e5",
+                "time": 1476245207,
+                "amount": 200000000,
+                "amountUSD": 1272.384034
+            }
+        ],
+        "updatedAt": "2021-09-11T15:58:01.042Z",
+        "balanceUSD": 4442.674075
+    }
+]

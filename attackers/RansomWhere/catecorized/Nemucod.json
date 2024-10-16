@@ -1,0 +1,32 @@
+[
+    {
+        "address": "12msFUcuvM4XJFMdnbGtTtf2q1g31JodGD",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:11.574Z",
+        "family": "Nemucod",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:58:00.114Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "189HtAYguwV22oAnny9wm9UpG7xFu7To4Z",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:13.427Z",
+        "family": "Nemucod",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:58:00.856Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "1GfcsTZP2ayn5MxLL4nCSjnswNuJCnEui1",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:15.541Z",
+        "family": "Nemucod",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:58:01.587Z",
+        "balanceUSD": 0
+    }
+]

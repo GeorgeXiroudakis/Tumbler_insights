@@ -1,0 +1,817 @@
+[
+    {
+        "address": "1Gn2XUUPpNA2UosDo2erhPHPNnx9r3oD9f",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:11.723Z",
+        "family": "Globe",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:50:07.001Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "1AM7Pmsdq5dViz9xkvpAQuCcFfdXz8eUza",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:12.162Z",
+        "family": "Globe",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:50:07.159Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "1MBwkTssJkqRvXmAFcSEZ3xTD39A9rkyYA",
+        "balance": 1805748701,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:12.566Z",
+        "family": "Globe",
+        "transactions": [
+            {
+                "hash": "81a3e2350391ff0b02191d59df81ab23946047a05b662bcc7901db07f4c65466",
+                "time": 1483697748,
+                "amount": 50079131,
+                "amountUSD": 451.8144151646056
+            },
+            {
+                "hash": "f8e4ddccbdd42361bd8399a64229aae8d8ae668e4b45470e007e3ed053b3f564",
+                "time": 1483679431,
+                "amount": 3600000,
+                "amountUSD": 32.479235603999996
+            },
+            {
+                "hash": "45d14dfb661d000e83971f4e869d4bb29f67ba36c831650d0ed3a89b976706ac",
+                "time": 1483677856,
+                "amount": 48745900,
+                "amountUSD": 439.785991896951
+            },
+            {
+                "hash": "705e6c6012d06c5e88571f1733996c52f8c408eb2c27222e51f16d2e77917bd7",
+                "time": 1483626609,
+                "amount": 154290504,
+                "amountUSD": 1563.5491171497251
+            },
+            {
+                "hash": "54eaf8d03b1639e106b15916ea1900ac4c740a0140c7ab89bd681a5426c9bc1e",
+                "time": 1483548836,
+                "amount": 92000000,
+                "amountUSD": 1062.3515816000001
+            },
+            {
+                "hash": "7235c86da43ca809fec1525ab7d95803df4291b332f97f168ad7502aa0f0515f",
+                "time": 1481883248,
+                "amount": 62691504,
+                "amountUSD": 492.06999201680924
+            },
+            {
+                "hash": "58987aa0ef408a53942e4d503d7e5b9c42afa533931da9ef385782fdc5208d4c",
+                "time": 1481870157,
+                "amount": 128195267,
+                "amountUSD": 1006.2136012765418
+            },
+            {
+                "hash": "ae577337eb616dc0720a26b632149762a1eafd56481bed51057bfa64a33d2964",
+                "time": 1481744838,
+                "amount": 90000000,
+                "amountUSD": 703.3329162
+            },
+            {
+                "hash": "94df7bf15ec356a8e58ec30fb6bb742c736fb6855ecc36f180b00164a7c93b77",
+                "time": 1481274093,
+                "amount": 65000000,
+                "amountUSD": 502.3161039
+            },
+            {
+                "hash": "5b9e0092f5092d15eb62b9424ef2b0354636f6db29005d77bde6b084717cbc0f",
+                "time": 1481232690,
+                "amount": 130000000,
+                "amountUSD": 1002.0529974
+            },
+            {
+                "hash": "a5a8eef79bdbb3470794f60d08da809015c152b967a6329c534a8b0b8140b05a",
+                "time": 1480934303,
+                "amount": 65993500,
+                "amountUSD": 500.69269241922007
+            },
+            {
+                "hash": "6831aa7c06e39e60a63e380fbe5c0d5813d2c04a549dad66a120abaae7c37658",
+                "time": 1480875662,
+                "amount": 100000000,
+                "amountUSD": 773.872009
+            },
+            {
+                "hash": "5b237682d02cef94bf0b8e7c2308b2a0dfb0b34ca4d41686b4c92ff90d7bafb6",
+                "time": 1480591636,
+                "amount": 100000000,
+                "amountUSD": 756.773987
+            },
+            {
+                "hash": "84c88350063eecea114ab9c341809433f5ae604145e27f14c7d0cb36c9858e29",
+                "time": 1480419206,
+                "amount": 100000000,
+                "amountUSD": 735.604004
+            },
+            {
+                "hash": "56d043fd797e6269ec7a9307500eff8ced35e9b2715980fad19a4b4d87a611a1",
+                "time": 1480410554,
+                "amount": 68895373,
+                "amountUSD": 506.79712235873495
+            },
+            {
+                "hash": "99523215abec115355dbd7c7d50a26bd36a73649e5fc7810fd09ab382146cc34",
+                "time": 1480338362,
+                "amount": 68257522,
+                "amountUSD": 502.2477121629574
+            },
+            {
+                "hash": "6e1077f3635ef4b95edaaf0f8dbb44e6c04bcc138ba62c82dad8d62174e46e3d",
+                "time": 1480305106,
+                "amount": 135000000,
+                "amountUSD": 993.3475338000001
+            },
+            {
+                "hash": "bd931dda960ea7f9dbe1cf075fff70f9d5ba2d07a5f01b76ce62d66683951f24",
+                "time": 1478878713,
+                "amount": 100000000,
+                "amountUSD": 716.411011
+            },
+            {
+                "hash": "23198c96d1b2e778b0ace1552246529130836336be22c64da9374fb4b672fbbf",
+                "time": 1478865371,
+                "amount": 100000000,
+                "amountUSD": 716.411011
+            },
+            {
+                "hash": "025b801f95a1e928aac097de493f00e5ee365f0565324342e4372e7a69d4ecea",
+                "time": 1478555958,
+                "amount": 43000000,
+                "amountUSD": 302.34632183
+            },
+            {
+                "hash": "a14ff8e22bffe044a9370632b40d9b10d8c80a8eed44bfaa28e76225d9df8e06",
+                "time": 1478549777,
+                "amount": 100000000,
+                "amountUSD": 703.130981
+            }
+        ],
+        "updatedAt": "2021-09-11T15:50:07.338Z",
+        "balanceUSD": 14463.60033777955
+    },
+    {
+        "address": "1Lc7xTpPQaH8sWcZ1JpqR3daewdhPDzDdK",
+        "balance": 947401678,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:15.201Z",
+        "family": "Globe",
+        "transactions": [
+            {
+                "hash": "c4edd8b7e9e9136d63e5e261a5ebf6034d256eb5ca81dde57b06461489ccdc0a",
+                "time": 1483207043,
+                "amount": 167882,
+                "amountUSD": 1.61795099136242
+            },
+            {
+                "hash": "b91c7cdbb3b120a669a883dee790dd7bec8540fe65d49cc71a04f20bd899f51f",
+                "time": 1481006056,
+                "amount": 50000000,
+                "amountUSD": 382.1119995
+            },
+            {
+                "hash": "5417229e00f317a8cfa65dc7d654e7e8967a4a6b99f0245f61fc0258bfd3e130",
+                "time": 1480947593,
+                "amount": 30000000,
+                "amountUSD": 227.6100036
+            },
+            {
+                "hash": "b747bab11a83e9b7dd8e16dc38fed1ed788ebccc77eabb312096db92832d6281",
+                "time": 1480808941,
+                "amount": 475321,
+                "amountUSD": 3.66546179539309
+            },
+            {
+                "hash": "cec9a406de964a8988790d37969ffbf711c7741d22cf0d6e2ce4a98c3547867c",
+                "time": 1480202568,
+                "amount": 535819,
+                "amountUSD": 3.94031658038561
+            },
+            {
+                "hash": "75fc5b95a6104c3d549738a0b7bd455d794798e27bb46310af1dc36fcefd571f",
+                "time": 1479983317,
+                "amount": 50000000,
+                "amountUSD": 370.1445005
+            },
+            {
+                "hash": "2b3a794eab90b14666a893b955face0652a36f081319eeb5f9712df9550f69a3",
+                "time": 1479903972,
+                "amount": 30000000,
+                "amountUSD": 223.37819819999999
+            },
+            {
+                "hash": "2e7261523910583c5c3e888ecdf67d8c4b2f943532d3ce58661177c1b8e48675",
+                "time": 1479797977,
+                "amount": 19980646,
+                "amountUSD": 150.12398130452308
+            },
+            {
+                "hash": "fccc49010c45d595e192edf2a4e2c19c1f54d9e35fac1edc347e347a749888d4",
+                "time": 1479513773,
+                "amount": 991583,
+                "amountUSD": 7.452896758923241
+            },
+            {
+                "hash": "9dead8ada10064a778956aacbdea3674ac0022e27cacf28854692c800733bbb1",
+                "time": 1479451225,
+                "amount": 30000000,
+                "amountUSD": 225.4755066
+            },
+            {
+                "hash": "0d407a2cc214a312260d0071d7a42b724edb83ed1d4acf7cb3aef6217d89ec6a",
+                "time": 1478993018,
+                "amount": 204594,
+                "amountUSD": 1.4424982134950401
+            },
+            {
+                "hash": "c6be4be8b6f8044d16b2ae517ff0811ba1a92e2761079e88a48d10885fa767f8",
+                "time": 1478858976,
+                "amount": 50000000,
+                "amountUSD": 358.2055055
+            },
+            {
+                "hash": "d7c93e0397976a6840976260e323389e3dd54af64e9850621391f60385d707c1",
+                "time": 1478720929,
+                "amount": 29147235,
+                "amountUSD": 210.8140839162735
+            },
+            {
+                "hash": "0d172e12c08ac8d11bbaab4b05b9b2d5969104c0819664d1b79757198accee23",
+                "time": 1478697239,
+                "amount": 50000000,
+                "amountUSD": 361.636505
+            },
+            {
+                "hash": "03bb3aa65e7288ff6a53bac49ac04f75854bd7153cc135529c00039bab57449e",
+                "time": 1478681901,
+                "amount": 28740941,
+                "amountUSD": 207.87546907302408
+            },
+            {
+                "hash": "75e7e9d4787ef74e5ebd1bb4932a38c4b3c7655808c354a57fd9a042d7323a5d",
+                "time": 1478192485,
+                "amount": 4000000,
+                "amountUSD": 27.548000480000002
+            },
+            {
+                "hash": "a445d3f61aa530fb7b9332546c42296d36715cdcec388c5489bf3e003c0492f8",
+                "time": 1478075824,
+                "amount": 11899877,
+                "amountUSD": 88.15773728135584
+            },
+            {
+                "hash": "f409aad5198064951d637e07fa080e4b365e1341c6d144f5344b2debfeb6df08",
+                "time": 1477394127,
+                "amount": 32621106,
+                "amountUSD": 214.5124827640238
+            },
+            {
+                "hash": "b0fe045c1644d1cfc4d5464cd22492e297eab68f0a989da0082ffbc7802b4acd",
+                "time": 1477394127,
+                "amount": 21070375,
+                "amountUSD": 138.55626029414876
+            },
+            {
+                "hash": "03977ee88cc705ff4da676de4613474308cb69c17991f2cd332796fb85c899de",
+                "time": 1477392895,
+                "amount": 32621106,
+                "amountUSD": 214.5124827640238
+            },
+            {
+                "hash": "09e805f611ddbc9361edb0e7a1fac045a93b60296980e9a1392612f9c25f5d07",
+                "time": 1476805254,
+                "amount": 24080000,
+                "amountUSD": 153.62077329759998
+            },
+            {
+                "hash": "4a5ecc48ecf722ae449047056070253377ff100ec3b34f32e29897b464f657a0",
+                "time": 1476805254,
+                "amount": 24090000,
+                "amountUSD": 153.6845692998
+            },
+            {
+                "hash": "2c5364c05856f4246b0f69e4136422a708278cdd2546b922219f6e108a8647be",
+                "time": 1476721568,
+                "amount": 49520219,
+                "amountUSD": 316.52976996625466
+            },
+            {
+                "hash": "dcd74c531226f3175217f7bb501bbfb486205d47b9fe08434a8893c1bf4af1a1",
+                "time": 1476711021,
+                "amount": 18067500,
+                "amountUSD": 115.486194010275
+            },
+            {
+                "hash": "5c77f3db3dc2ff0d179e3a8d0237e135e839415d1284600e0ee4c63d9107b090",
+                "time": 1476524451,
+                "amount": 32354000,
+                "amountUSD": 206.62752554583997
+            },
+            {
+                "hash": "ebabd165d3a836f0730953bd09053ecb1d8e6f80a9f1d53a568d7b1be49f4b2a",
+                "time": 1476471000,
+                "amount": 2305000,
+                "amountUSD": 14.76071269255
+            },
+            {
+                "hash": "c536db80446250141281c034fb4e989c3989bef78a02b4f3615f88e24122785b",
+                "time": 1476433000,
+                "amount": 24369900,
+                "amountUSD": 156.05947602870899
+            },
+            {
+                "hash": "8709f2a4ae85245d9a0cff05559582f2fede2c234130ec626727270c52ab91e4",
+                "time": 1476380712,
+                "amount": 50100000,
+                "amountUSD": 319.02979151100004
+            },
+            {
+                "hash": "a14c704047e5b95e650ab32180ba221fe2814272d7d8a082f71ad400fe0fb701",
+                "time": 1476260880,
+                "amount": 29470000,
+                "amountUSD": 187.4857874099
+            },
+            {
+                "hash": "9773836863484ff0662680ea073223afaa779d8de1b425b6201df8245ec01364",
+                "time": 1476218890,
+                "amount": 23971616,
+                "amountUSD": 153.67532315755935
+            },
+            {
+                "hash": "d5bdd19cb9cf8818b3169a2056e645e9acfaefbf4d93969a3514a4899767747d",
+                "time": 1476179365,
+                "amount": 23974656,
+                "amountUSD": 153.69481174699774
+            },
+            {
+                "hash": "de3e3485349ac3060c540fad4da301cb5bb96e79f168511242ed24c2308afd60",
+                "time": 1476024055,
+                "amount": 24068056,
+                "amountUSD": 148.44022011064783
+            },
+            {
+                "hash": "bd447dee42a99af256e86396486b802b71d8e947f1d243ae320520d395113eae",
+                "time": 1475937505,
+                "amount": 32918728,
+                "amountUSD": 203.8024689998089
+            },
+            {
+                "hash": "2ddafef682f5ba2f293788b622dcc93190f6de6eea297d02eb079c6d0ac8637b",
+                "time": 1475340090,
+                "amount": 197494,
+                "amountUSD": 1.21257952874674
+            },
+            {
+                "hash": "ec519278b24c92202d19d4bfdeeae3e1a34dac7c228b09203053613bef143f69",
+                "time": 1475011958,
+                "amount": 329598,
+                "amountUSD": 1.99791106541568
+            },
+            {
+                "hash": "d7409e2b5840b6ade19434f364ff529fc4d2370c3d3329aa08d560782528f242",
+                "time": 1474836476,
+                "amount": 497216,
+                "amountUSD": 2.98740294946624
+            },
+            {
+                "hash": "fa8021a5d4fa4ba87587512658f2c97ae4c94f66e8ebff5e5c65e7d2583038ca",
+                "time": 1474665475,
+                "amount": 2156000,
+                "amountUSD": 12.9972730888
+            },
+            {
+                "hash": "63fae47349a0b81fc07fda69c528c451eb46aa887d66b6a2775389d2322f386e",
+                "time": 1474487559,
+                "amount": 1005072,
+                "amountUSD": 6.001777266620641
+            },
+            {
+                "hash": "eb89c7840858a67a2c4b274bfcb05c7e4d839e6cf786e404b12f5229ac3396ea",
+                "time": 1474381580,
+                "amount": 3386844,
+                "amountUSD": 20.60257887970128
+            },
+            {
+                "hash": "06ef6b7e93274a7379ca4ea7fe0a719bf99fe238b045c3cdba9df081fc27fef6",
+                "time": 1474148118,
+                "amount": 2307942,
+                "amountUSD": 13.98575945699478
+            },
+            {
+                "hash": "b7371f0b9ee0bb373067d4cbb625ff44dca3c12004e49dcc0a55ea715378d0e3",
+                "time": 1474138840,
+                "amount": 290474,
+                "amountUSD": 1.76022599030266
+            },
+            {
+                "hash": "55c4e2d10ba8a8b253c48cfa72513942be3c50e67b3d1d2a7c6118aaab1b27c1",
+                "time": 1473994807,
+                "amount": 3249054,
+                "amountUSD": 19.720881250211878
+            },
+            {
+                "hash": "08235be2f992d929c99a30a5be2ec4c8bd78e3c17f22ab5b4e19054785f08304",
+                "time": 1473971471,
+                "amount": 13000000,
+                "amountUSD": 78.93015377
+            },
+            {
+                "hash": "49c43e4ee42fb15d42dd32d78367e3f7957f6d6202479f3a811ba03797c677fa",
+                "time": 1473706845,
+                "amount": 1315272,
+                "amountUSD": 8.00004962105832
+            },
+            {
+                "hash": "e45cd5b4f2c27cd8a4cad2eae9474e3c21af7489eade5957c4aa2023873a5920",
+                "time": 1473576716,
+                "amount": 4074421,
+                "amountUSD": 24.72028610252474
+            },
+            {
+                "hash": "fa22631424607c59f39b16fecf8009fc8d2b5dcbd84d08987cfc4f38702dc784",
+                "time": 1473524063,
+                "amount": 878347,
+                "amountUSD": 5.47657235029284
+            },
+            {
+                "hash": "081f3ad07a4ad903acc4cdc3fc879fc888ac21c2a19667ff9a0519361916a915",
+                "time": 1473511800,
+                "amount": 2406150,
+                "amountUSD": 15.002561129777998
+            },
+            {
+                "hash": "b03da3d9208462fe8729f759671661fb16e359a03d10146d39418805a393059c",
+                "time": 1472938794,
+                "amount": 998064,
+                "amountUSD": 5.970538366164001
+            },
+            {
+                "hash": "3d3e1480f0d046e958ae77697b1aae8e219f9e514810df07167637a9dc48013b",
+                "time": 1472927348,
+                "amount": 350502,
+                "amountUSD": 2.0967449366145003
+            },
+            {
+                "hash": "7e0fac63d840fa4b108588487c1817a10a4f57b72f74e6112ba2e7fc6f4e719f",
+                "time": 1472926464,
+                "amount": 1577034,
+                "amountUSD": 9.434006237821501
+            },
+            {
+                "hash": "26e635ebe2240acb33ef082d07835fe40e42ac1002909d270845a20eaca36a20",
+                "time": 1472919123,
+                "amount": 766896,
+                "amountUSD": 4.5876637077960005
+            },
+            {
+                "hash": "2ffecc07ef8f48df9eed21cfed59c87fb746b525bcf4f5201fb455293862f320",
+                "time": 1472896097,
+                "amount": 4099801,
+                "amountUSD": 24.525500533169755
+            },
+            {
+                "hash": "1e46b4296c7c9b01035011d8df291f3a339629b9ea9e6a494ab99f6468f5912d",
+                "time": 1472664980,
+                "amount": 2951389,
+                "amountUSD": 16.984416863371653
+            },
+            {
+                "hash": "c24efded259d254b7d54bbc0ca538d268dbdf3d1be1c22194fa5e9c233b44a37",
+                "time": 1472660024,
+                "amount": 972777,
+                "amountUSD": 5.59805911152345
+            },
+            {
+                "hash": "8257e3e9949eb9cb5654ac9528c932f08f4ec6a1aa0eb5e0548551fc1ede9ba0",
+                "time": 1472585994,
+                "amount": 3456380,
+                "amountUSD": 19.960697880325796
+            },
+            {
+                "hash": "e565f4502dc1f838e31c4be22a95170a0ca8c20a657b1be9bc484a2b24ced8a3",
+                "time": 1472507570,
+                "amount": 1563817,
+                "amountUSD": 8.97798278599915
+            },
+            {
+                "hash": "a64dec68c87f421032d961528586a037ee6f1139a3d292046a7752b5fa5e9493",
+                "time": 1472486867,
+                "amount": 1477968,
+                "amountUSD": 8.4851176718616
+            },
+            {
+                "hash": "627b90b4cab4ef6c2647b3362314bdb5b3fe9a1df0b14e4fdb8cdbc31c4d129c",
+                "time": 1472415152,
+                "amount": 524531,
+                "amountUSD": 3.01034628453097
+            },
+            {
+                "hash": "a1a633036d13d21f75e926bf66d46c2da635f5583d4b0793e074032aba648417",
+                "time": 1472314254,
+                "amount": 763043,
+                "amountUSD": 4.34894084744903
+            },
+            {
+                "hash": "795551511e9fe77c1138c5ab3a972f53d35dc42a8b59a3b6aee9afbcd89be456",
+                "time": 1472235191,
+                "amount": 1686364,
+                "amountUSD": 9.775025806503638
+            },
+            {
+                "hash": "b68aa4708547186b67a7ec1537afee08f792fd28b8f4a78745b5096729bc29ca",
+                "time": 1472058652,
+                "amount": 1755878,
+                "amountUSD": 10.18728822087146
+            },
+            {
+                "hash": "5ac191969e922c0a1bf224dff20f5ed5b503cf813eac445a9cf29f070f61588a",
+                "time": 1471882539,
+                "amount": 1852949,
+                "amountUSD": 10.872233679204589
+            },
+            {
+                "hash": "40d9eaf862fc08738436b3bf0e5b598dd5e63771ad0045bae17b1c72a25133b9",
+                "time": 1471709301,
+                "amount": 1754323,
+                "amountUSD": 10.20484462971783
+            },
+            {
+                "hash": "6353591c3d954b584c45c7f639225babff0c5dfd526705a1be1a21fa7ac19d02",
+                "time": 1471450880,
+                "amount": 1310104,
+                "amountUSD": 7.50972578394312
+            },
+            {
+                "hash": "8349f6fa6e0f05ca5ddeb21ca517c53504529089eefa147ed46e6a9cbfb26123",
+                "time": 1471277696,
+                "amount": 982634,
+                "amountUSD": 5.5738930033366
+            },
+            {
+                "hash": "a9753571e6c4d64ec8435489b7b466c2ffa52993baa11cb23a02eb56d686a232",
+                "time": 1471105756,
+                "amount": 412901,
+                "amountUSD": 2.41789876155713
+            },
+            {
+                "hash": "361a1395c905c44be33ada3e6a3c257d6736f85b52243a835693dab330678dfa",
+                "time": 1471019463,
+                "amount": 1297765,
+                "amountUSD": 7.625135328880651
+            },
+            {
+                "hash": "6e2bb893d580357d96814f300fe7198ea91c1fb498a6b0c64368f7b5fb6caed6",
+                "time": 1470851603,
+                "amount": 1115942,
+                "amountUSD": 6.60752636156434
+            },
+            {
+                "hash": "e0ab15838e86c8c64f01e6ce1c6e19aadedccf801dbe3b38c6cbc721d2d36e3b",
+                "time": 1470758833,
+                "amount": 1579830,
+                "amountUSD": 9.2862569332575
+            },
+            {
+                "hash": "5c3677079b26e053bf63d2c23f48fa6b46401a712a8681c5c7941be6146dba9d",
+                "time": 1470674464,
+                "amount": 853541,
+                "amountUSD": 5.044888358706561
+            },
+            {
+                "hash": "a43a3eb0afd320d0173c47b7446f9faa1f0876b865ae3547bcc714128a084946",
+                "time": 1470674338,
+                "amount": 1876425,
+                "amountUSD": 11.090685319728001
+            },
+            {
+                "hash": "fdcf55b407771e4d0ccf6a5f404e1caf1650adf6ed29252a23b984fb643343bf",
+                "time": 1470585825,
+                "amount": 1445790,
+                "amountUSD": 8.5690527799158
+            },
+            {
+                "hash": "712377998c1f1c3a39e4f0771d4a43bc84c3eaf42d5a80a4329a3b3088d41442",
+                "time": 1470500011,
+                "amount": 1040767,
+                "amountUSD": 6.11739961337505
+            },
+            {
+                "hash": "9348d1d52e40d02415d24e3e24e08d35195f3c18327eff2993c7a08474f59fbb",
+                "time": 1470341556,
+                "amount": 1226177,
+                "amountUSD": 7.09084672379177
+            },
+            {
+                "hash": "0d4b75f13b5634c1804a9b18b0b479360999cc5a059101a71e66e30268e47891",
+                "time": 1470327367,
+                "amount": 1599205,
+                "amountUSD": 9.24802661844205
+            },
+            {
+                "hash": "aa505da0f447ab4895702086e5b77bfb5443adb69ae9b6118e5c746b661891fe",
+                "time": 1470154580,
+                "amount": 1156061,
+                "amountUSD": 6.32902966578647
+            },
+            {
+                "hash": "e7c1f3d68140b64cd74e954f8f8db246a470e3704ecdcf9d075017762cda6234",
+                "time": 1470067819,
+                "amount": 1034442,
+                "amountUSD": 6.27153192294066
+            },
+            {
+                "hash": "01144de975de72d00dc0ca02806576494985972d5cc157b5a21193b8022a3c2a",
+                "time": 1469981130,
+                "amount": 1478103,
+                "amountUSD": 9.2334290448609
+            },
+            {
+                "hash": "8796696d2ec51a9715a3c153d45607363e9f4c9a371f63ad29934f1150ef359b",
+                "time": 1469965222,
+                "amount": 2539683,
+                "amountUSD": 15.864917923134898
+            },
+            {
+                "hash": "eb49fe6d162e1f55ae2ac0413c1c185e2aa57d144e8e32145ccf3223e34f1512",
+                "time": 1469896113,
+                "amount": 452999,
+                "amountUSD": 2.9673563459400305
+            },
+            {
+                "hash": "6017f8e1a0aeeb73439fd6f495b81a1e2400a76a41c633636a30241251cba5c0",
+                "time": 1469825113,
+                "amount": 1388653,
+                "amountUSD": 9.12333917330612
+            },
+            {
+                "hash": "d0ba73f5a0df355efea156ab791e3ec01f8ef7b86b035adf8fd329172b1db54f",
+                "time": 1469731628,
+                "amount": 2163164,
+                "amountUSD": 14.169480723345721
+            },
+            {
+                "hash": "0aee89ae652b1aab91f0ed5c83035bc79e695cd4881eff90b4bbf7a3a4eb1c3d",
+                "time": 1469635655,
+                "amount": 2153889,
+                "amountUSD": 14.0940155338911
+            },
+            {
+                "hash": "ffc67f32f5eb4ec7979156095fb01b549deb735c5f8df03f5c24b7ec8856f597",
+                "time": 1469553092,
+                "amount": 2476780,
+                "amountUSD": 16.1432556808966
+            },
+            {
+                "hash": "e6621929448e641bcf81a6fee40462c40ac264b25e06375a5e3b65be772902f4",
+                "time": 1469219962,
+                "amount": 1535391,
+                "amountUSD": 9.989545862014289
+            },
+            {
+                "hash": "9537ff2dbfa0530e5cbed52956992549f2230f51d5834a457ae7c4e87c11538e",
+                "time": 1468347363,
+                "amount": 916031,
+                "amountUSD": 6.08749339981775
+            },
+            {
+                "hash": "2970c429c64c15351e2c56ecf34ad3ba5f1950a4fed082aabbf7adcd9917105b",
+                "time": 1467320802,
+                "amount": 308404,
+                "amountUSD": 2.0765981643790004
+            },
+            {
+                "hash": "229baa736946d257c86181dffac1d241e7ee8722d33abcabc64d2887743527f7",
+                "time": 1467320802,
+                "amount": 1692943,
+                "amountUSD": 11.39921118467425
+            },
+            {
+                "hash": "6b082dcda86d40112b00f4f7aba76073972537c8e29a2218f1f312e84928466b",
+                "time": 1467231444,
+                "amount": 957686,
+                "amountUSD": 6.128137089052899
+            },
+            {
+                "hash": "22d40bb54c4915ab7a8b875a42c92ab0b9afffef042855d68384951fd1a79724",
+                "time": 1466862651,
+                "amount": 462963,
+                "amountUSD": 3.0792733296751797
+            },
+            {
+                "hash": "2476242094289de00f4e3c35112b9e5c97d35fe5a39e50ff72c8b7b7b329afa6",
+                "time": 1466802540,
+                "amount": 3333878,
+                "amountUSD": 22.180257361946577
+            },
+            {
+                "hash": "a03befbf14e27a21373ca83f66a57a694fe38b2e3f5e5d63e428fb079965e2a6",
+                "time": 1466462372,
+                "amount": 1278146,
+                "amountUSD": 9.422824796118979
+            },
+            {
+                "hash": "a99703261a349fa9d0ea66bda35b154fcacd488d24b12fa0637720a4b90f7496",
+                "time": 1466289383,
+                "amount": 1795411,
+                "amountUSD": 13.577382563428898
+            },
+            {
+                "hash": "da1c7d03b498e1ba4e5d472b89862b2f202e67d08ca442bafa524ce2df0f2af0",
+                "time": 1465939168,
+                "amount": 297567,
+                "amountUSD": 2.03999741201907
+            },
+            {
+                "hash": "0916f0e3295f3ac994d6d192620e9208c297a4dea1389dac6c5b7e18aae6ac45",
+                "time": 1465845519,
+                "amount": 890208,
+                "amountUSD": 6.27041129733216
+            },
+            {
+                "hash": "554653bd680b69a87e23c7c0f7087c34969e73e0ef8c8243cb110c394f5db796",
+                "time": 1465758148,
+                "amount": 1297017,
+                "amountUSD": 8.72612281436949
+            },
+            {
+                "hash": "bee8984ce891997af60ef03afbccc5b44a5bcc3f6a25519e6e4b96f223732a50",
+                "time": 1465681819,
+                "amount": 1056381,
+                "amountUSD": 6.4093486442319
+            },
+            {
+                "hash": "5377a740f9ae30ff521e889f971f2d636d8af7806cbe592103ac20d01bf37012",
+                "time": 1465591552,
+                "amount": 882130,
+                "amountUSD": 5.0940358551823
+            },
+            {
+                "hash": "3a2fbe4981a5baf090d615ff4331d46cedeb6262a3ab0508664efcbda331a9a4",
+                "time": 1465492043,
+                "amount": 1249864,
+                "amountUSD": 7.1820935656932
+            },
+            {
+                "hash": "823eacb961de69181b822a700b290f2166b40ba29b25e19c7f3a6d90529b1182",
+                "time": 1465413350,
+                "amount": 1226994,
+                "amountUSD": 7.1367494966988
+            },
+            {
+                "hash": "2ae3c1b19664a3077cbc0558e64912c69fab888687a99c280b3b07c109626c4d",
+                "time": 1465328359,
+                "amount": 1061385,
+                "amountUSD": 6.11991390924225
+            },
+            {
+                "hash": "5f03537b198ad864ae6302db9c6c8829a92fc71a9038a965218eaffd972d31d9",
+                "time": 1465239774,
+                "amount": 521976,
+                "amountUSD": 3.05636254326312
+            },
+            {
+                "hash": "73926e4ed882eaef4349500870a0afa66cd27aee1eccb13b35f9fc3cdcb05370",
+                "time": 1465238054,
+                "amount": 1564214,
+                "amountUSD": 9.15905152583218
+            },
+            {
+                "hash": "e29b56f2646b2fa04481dbe6d2f9293aa40346df4980aee79bedb03dd0b6d71f",
+                "time": 1465163834,
+                "amount": 1398601,
+                "amountUSD": 8.0416339319099
+            },
+            {
+                "hash": "8e1d43cb7070e09e971733b7af6b048484234c402aeabf89390b30271073d665",
+                "time": 1465156021,
+                "amount": 697873,
+                "amountUSD": 4.0126091694227
+            }
+        ],
+        "updatedAt": "2021-09-11T15:50:08.003Z",
+        "balanceUSD": 6407.661430423621
+    },
+    {
+        "address": "1EDG61uWUrsHQYUrBJABHHDCXv2MLJWiWs",
+        "balance": 28195359,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:15.591Z",
+        "family": "Globe",
+        "transactions": [
+            {
+                "hash": "993fab486d075791d3bfaf92ac9919f7fb70ed0e111fd4e0e3120fe5688974d7",
+                "time": 1477221601,
+                "amount": 28195359,
+                "amountUSD": 185.26352282363254
+            }
+        ],
+        "updatedAt": "2021-09-11T15:50:08.169Z",
+        "balanceUSD": 185.26352282363254
+    }
+]

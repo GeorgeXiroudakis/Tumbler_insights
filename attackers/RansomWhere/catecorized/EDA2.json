@@ -1,0 +1,60 @@
+[
+    {
+        "address": "18JJdvhdvHPwDTnht3N8LQWx7fdtuGnPxi",
+        "balance": 10000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:10.948Z",
+        "family": "EDA2",
+        "transactions": [
+            {
+                "hash": "7209b2d5facb3701464c36931648d21cc5f58f9c47f6d9d9af9cadc6731a1bc2",
+                "time": 1412135300,
+                "amount": 10000000,
+                "amountUSD": 38.361499
+            }
+        ],
+        "updatedAt": "2021-09-11T15:50:06.811Z",
+        "balanceUSD": 38.361499
+    },
+    {
+        "address": "192awRvM4V8LS24GSHj6o3v2fVQ5QYh4pB",
+        "balance": 151026355,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:12.701Z",
+        "family": "EDA2",
+        "transactions": [
+            {
+                "hash": "0f774a24d83aa62db0b3546285e19734698700e1e639404b0b636352ed351d8d",
+                "time": 1459383190,
+                "amount": 35523279,
+                "amountUSD": 148.03580676484117
+            },
+            {
+                "hash": "d596a496c1f556b875aab2658af002d37971121351a5e29f4766a96d4cb69e24",
+                "time": 1458998482,
+                "amount": 12812600,
+                "amountUSD": 53.54962196688199
+            },
+            {
+                "hash": "b0b6dab261fed6788798733d4dc539cec141720b3d80a6fd32b2dce905a4d070",
+                "time": 1458809344,
+                "amount": 51582984,
+                "amountUSD": 214.78845658691807
+            },
+            {
+                "hash": "257687d12916f9b261c43ccdeaf07ffad5ba420512eacd3ba79619ff9dbba14a",
+                "time": 1457637622,
+                "amount": 50006300,
+                "amountUSD": 208.591785253756
+            },
+            {
+                "hash": "06fe54e86569007160d116e2126689d8ecdc42c8cfdc9165b87a9e4367795667",
+                "time": 1457120376,
+                "amount": 1101192,
+                "amountUSD": 4.525227337820399
+            }
+        ],
+        "updatedAt": "2021-09-11T15:50:07.386Z",
+        "balanceUSD": 629.4908979102177
+    }
+]

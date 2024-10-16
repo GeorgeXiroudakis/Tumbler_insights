@@ -1,0 +1,19 @@
+[
+    {
+        "address": "1KdiPSdmqn7BsQFs9kqXdRqygruQeGzCx",
+        "balance": 256772,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:11.922Z",
+        "family": "Phoenix",
+        "transactions": [
+            {
+                "hash": "6581c14415926076c37406135c0c283c4153c44629ac120f05ec89ec2e85353d",
+                "time": 1481713824,
+                "amount": 256772,
+                "amountUSD": 2.00662443953896
+            }
+        ],
+        "updatedAt": "2021-09-11T15:58:00.207Z",
+        "balanceUSD": 2.00662443953896
+    }
+]

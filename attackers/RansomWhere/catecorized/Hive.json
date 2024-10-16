@@ -1,0 +1,25 @@
+[
+    {
+        "address": "bc1q4frmv39nmvdsxjnen8jm7ykgz68w7p38v5pry9",
+        "balance": 3504000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2023-06-20T00:14:57.324Z",
+        "family": "Hive",
+        "transactions": [
+            {
+                "hash": "df978e03670fd9b42c84518413bcbb5387f9bf6e6c04b8bd92a5e774e92b59d5",
+                "time": 1668693666,
+                "amount": 3503000000,
+                "amountUSD": 584563.74075734
+            },
+            {
+                "hash": "85c756604fb0ec4b381375f11d70e24976eaf649355bc7363287de37f44ccf5e",
+                "time": 1668692840,
+                "amount": 1000000,
+                "amountUSD": 166.87517578
+            }
+        ],
+        "updatedAt": "2023-06-20T00:14:57.324Z",
+        "balanceUSD": 584730.61593312
+    }
+]

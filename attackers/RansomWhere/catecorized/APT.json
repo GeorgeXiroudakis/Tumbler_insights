@@ -1,0 +1,79 @@
+[
+    {
+        "address": "377CY1m8W2qbQQX5HHjziimdh2faGjDeLv",
+        "balance": 1284594645,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:12.352Z",
+        "family": "APT",
+        "transactions": [
+            {
+                "hash": "21a36d6d457a7a3ed5a194a499590e15834a73a6edcfcf15c10f56e52776bd26",
+                "time": 1481744707,
+                "amount": 126313,
+                "amountUSD": 0.9871121182663398
+            },
+            {
+                "hash": "0cfa8473cbc155fb2477735fe1561b2896cfea382483f31d919a65acede3de18",
+                "time": 1481741017,
+                "amount": 23868195,
+                "amountUSD": 186.52541326422508
+            },
+            {
+                "hash": "5d3b658adcaac5fc50983d1fa29d56216403b95a82c97aeef65e8d35b8fea14a",
+                "time": 1475627862,
+                "amount": 438118,
+                "amountUSD": 2.68352088164348
+            },
+            {
+                "hash": "e9581605bdb52aeea3041f0484a81cefd94b711f9703049ea78c9c5f4443fe95",
+                "time": 1475625147,
+                "amount": 1000000000,
+                "amountUSD": 6102.03979
+            },
+            {
+                "hash": "c906d46606d1c71b33e70a08c764f197deffa0333fea76b1b005c81bae8fc7ae",
+                "time": 1475516858,
+                "amount": 398118,
+                "amountUSD": 2.43701164101528
+            },
+            {
+                "hash": "4ff9bf5a8797ff85f348a8a9503368715948469982fc822e02487ca8a59c0daf",
+                "time": 1475514689,
+                "amount": 57142857,
+                "amountUSD": 349.79028255409577
+            },
+            {
+                "hash": "cbc50bc987339bab0b4c4b1c0433effe7cb352093e3a7330532ddc7e3b05ddd5",
+                "time": 1474964931,
+                "amount": 1315261,
+                "amountUSD": 7.9726652037017605
+            },
+            {
+                "hash": "a6a5fe74ddcbd9b54a3f0cb5fc1baf11bd4f65da88412af10b9fccda28f8f12c",
+                "time": 1474949111,
+                "amount": 100000000,
+                "amountUSD": 606.166016
+            },
+            {
+                "hash": "f2ef226ee708a1e5c4b65f92354c37f15511edc32e783fb635db9218adb83e01",
+                "time": 1473960809,
+                "amount": 375261,
+                "amountUSD": 2.27841603337569
+            },
+            {
+                "hash": "7e065799d943c833c0eefb692e3380ee732fadc7ad492e81ae4c01e3bce04c69",
+                "time": 1473960585,
+                "amount": 26435261,
+                "amountUSD": 160.50301659077567
+            },
+            {
+                "hash": "27d4ad1003d1341d3ccd301cb16be6624641d624dc5c7d21aa32c6463247b021",
+                "time": 1473957543,
+                "amount": 74495261,
+                "amountUSD": 452.3017235281757
+            }
+        ],
+        "updatedAt": "2021-09-11T15:50:07.253Z",
+        "balanceUSD": 7873.684967815275
+    }
+]

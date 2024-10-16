@@ -1,0 +1,48 @@
+[
+    {
+        "address": "13rhLTYUKo9ijrR8vinojZqoZTpTe1fm8c",
+        "balance": 1561364882,
+        "blockchain": "bitcoin",
+        "createdAt": "2023-09-23T21:24:25.305Z",
+        "family": "Black Basta",
+        "transactions": [
+            {
+                "hash": "1b70e503a8ec88ea64483bc19373b98e9a41553b33eb2b431c345a3082b8b243",
+                "time": 1665613402,
+                "amount": 1561359882,
+                "amountUSD": 299116.6655332713
+            },
+            {
+                "hash": "e79d0f43b6fa1febedcf236f0a70b0f7cba0599eb4fdd001a1642212f88b6fdb",
+                "time": 1665507653,
+                "amount": 5000,
+                "amountUSD": 0.95257089845
+            }
+        ],
+        "updatedAt": "2024-03-12T23:42:27.584Z",
+        "balanceUSD": 299117.6181041698
+    },
+    {
+        "address": "1GnkF1JtPT6EJcgJRFjArKZHjQs873eUeE",
+        "balance": 2959000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2023-09-23T21:24:25.351Z",
+        "family": "Black Basta",
+        "transactions": [
+            {
+                "hash": "5e06aa53f82c7f7847f8cb33f161e7dc5c80c9a11d18b00b8ae6af03e1dcb657",
+                "time": 1670471163,
+                "amount": 2916000000,
+                "amountUSD": 502528.11959844
+            },
+            {
+                "hash": "62c888408a1475a2ff7ec5b70b161e2b045bce1807bcd4c496f494abab7702e9",
+                "time": 1670469471,
+                "amount": 43000000,
+                "amountUSD": 7410.39408187
+            }
+        ],
+        "updatedAt": "2024-03-12T23:42:27.678Z",
+        "balanceUSD": 509938.51368031
+    }
+]

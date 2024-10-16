@@ -1,0 +1,373 @@
+[
+    {
+        "address": "bc1qenjstexazw07gugftfz76gh9r4zkhhvc9eeh47",
+        "balance": 466636000,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-06-02T01:48:11.610Z",
+        "family": "Karakurt",
+        "transactions": [
+            {
+                "hash": "8d46c75c7269779c9b1a67c285506f7a6cb8a3ebb8ae5a1017bdb2733db7a859",
+                "time": 1641941404,
+                "amount": 466636000,
+                "amountUSD": 199420.88652632287
+            }
+        ],
+        "updatedAt": "2024-03-12T23:42:27.375Z",
+        "balanceUSD": 199420.88652632287
+    },
+    {
+        "address": "bc1q8ff3lrudpdkuvm3ehq6e27nczm393q9f4ydlgt",
+        "balance": 337534000,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-06-02T01:48:11.679Z",
+        "family": "Karakurt",
+        "transactions": [
+            {
+                "hash": "f864249e85fe766a5540d89dbea065585cf94496953f4ce48de092bff93d907a",
+                "time": 1641418616,
+                "amount": 337534000,
+                "amountUSD": 147060.20164407804
+            }
+        ],
+        "updatedAt": "2024-03-12T23:42:28.277Z",
+        "balanceUSD": 147060.20164407804
+    },
+    {
+        "address": "bc1qw77uss7stz7y7kkzz7qz9gt7xk7tfet8k30xax",
+        "balance": 810872282,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-06-02T01:48:11.704Z",
+        "family": "Karakurt",
+        "transactions": [
+            {
+                "hash": "d8b64a799d4a0a838e25fce20528429f36bc8ca012d3ba951a5e1458e864b16e",
+                "time": 1640548280,
+                "amount": 294582890,
+                "amountUSD": 149676.13952312656
+            },
+            {
+                "hash": "bfb1b04401f6a0846b63eaf8c1ce306a939ddfd9b28a574a3faa49691f6c30bf",
+                "time": 1638309163,
+                "amount": 516172196,
+                "amountUSD": 294246.15809293784
+            },
+            {
+                "hash": "66d7c4b36eeda232be0f6d1a866c3f3b00fbae804033201adff8da59b420893b",
+                "time": 1638296828,
+                "amount": 17196,
+                "amountUSD": 9.80265301730076
+            },
+            {
+                "hash": "d7993489c188ba587e8c618a31f6d16fd17251d445a21514b16e59662d1d6d91",
+                "time": 1638259395,
+                "amount": 100000,
+                "amountUSD": 57.005425781
+            }
+        ],
+        "updatedAt": "2024-03-12T23:42:27.479Z",
+        "balanceUSD": 443989.1056948627
+    },
+    {
+        "address": "bc1qa5v6amyey48dely2zq0g5c6se2keffvnjqm8ms",
+        "balance": 816329897,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-06-02T01:48:11.723Z",
+        "family": "Karakurt",
+        "transactions": [
+            {
+                "hash": "c10b17e9416e8c7c394e3893b0597d5fda09b18a1ce6de4c3f0c39323173ad81",
+                "time": 1631755832,
+                "amount": 518415300,
+                "amountUSD": 247716.24585398438
+            },
+            {
+                "hash": "15226f2dd15ccbf3b4e9d765c7ad21cb89e9a2a785fda9a295bc0606c194d5ef",
+                "time": 1630732437,
+                "amount": 297914597,
+                "amountUSD": 148792.32829191125
+            }
+        ],
+        "updatedAt": "2024-03-12T23:42:26.843Z",
+        "balanceUSD": 396508.57414589566
+    },
+    {
+        "address": "bc1qx9eu6k3yhtve9n6jtnagza8l2509y7uudwe9f6",
+        "balance": 124998502,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-06-02T01:48:11.741Z",
+        "family": "Karakurt",
+        "transactions": [
+            {
+                "hash": "c3559162a30efa7f164e5e16cca4b1e9f07e5eecf011512c22f538304df07700",
+                "time": 1641579809,
+                "amount": 124998502,
+                "amountUSD": 51946.75539262289
+            }
+        ],
+        "updatedAt": "2024-03-12T23:42:26.744Z",
+        "balanceUSD": 51946.75539262289
+    },
+    {
+        "address": "bc1q25km8usscsra6w2falmtt7wxyga8tnwd5s870g",
+        "balance": 1484334469,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-06-02T01:48:11.762Z",
+        "family": "Karakurt",
+        "transactions": [
+            {
+                "hash": "e7388938410cc35d21778edcdff76433d2001a2d068e3d6760b19b89145fe6f8",
+                "time": 1643060863,
+                "amount": 1484334469,
+                "amountUSD": 544072.8267397364
+            }
+        ],
+        "updatedAt": "2024-03-12T23:42:27.972Z",
+        "balanceUSD": 544072.8267397364
+    },
+    {
+        "address": "bc1qq427hlxpl7agmvffteflrnasxpu7wznjsu02nc",
+        "balance": 504000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-06-02T01:48:11.778Z",
+        "family": "Karakurt",
+        "transactions": [
+            {
+                "hash": "43d0ce29614ed83e9ddcfc3f77c5f7b9fbc115ba47be96f81ec5df79b82013b5",
+                "time": 1644881661,
+                "amount": 504000000,
+                "amountUSD": 214638.06656376002
+            }
+        ],
+        "updatedAt": "2024-03-12T23:42:28.469Z",
+        "balanceUSD": 214638.06656376002
+    },
+    {
+        "address": "bc1qta70dm5clfcxp4deqycxjf8l3h4uymzg7g6hn5",
+        "balance": 437052126,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-06-02T01:48:11.792Z",
+        "family": "Karakurt",
+        "transactions": [
+            {
+                "hash": "9c53ae2840fb0767694f0cbc0fcf4cd67df9a1637baf2255a4bfafddd95fde44",
+                "time": 1663176340,
+                "amount": 20000,
+                "amountUSD": 4.0482179687999995
+            },
+            {
+                "hash": "db24830217cb6bf5d3d66e0c2f3b128013bc01cc3f28369e3fb91a60cd8daab1",
+                "time": 1644514663,
+                "amount": 437032126,
+                "amountUSD": 190393.54076626265
+            }
+        ],
+        "updatedAt": "2024-03-12T23:42:28.072Z",
+        "balanceUSD": 190397.58898423146
+    },
+    {
+        "address": "bc1q6s0k4l8q9wf3p9wrywf92czrxaf9uvscyqp0fu",
+        "balance": 351845917,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-06-02T01:48:11.809Z",
+        "family": "Karakurt",
+        "transactions": [
+            {
+                "hash": "e8a5d88f1dedd15f915510737bbac1aff2c1a9986073680929de92c71cc6d3bf",
+                "time": 1640994595,
+                "amount": 351845917,
+                "amountUSD": 162927.33714162835
+            }
+        ],
+        "updatedAt": "2024-03-12T23:42:28.371Z",
+        "balanceUSD": 162927.33714162835
+    },
+    {
+        "address": "bc1qtm6gs5p4nr0y5vugc93wr0vqf2a0q3sjyxw03w",
+        "balance": 3214969716,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-06-02T01:48:11.826Z",
+        "family": "Karakurt",
+        "transactions": [
+            {
+                "hash": "3801b43d04d6414ed87dc223d16edc828a037bb7483cfa22f73dde5d5979a984",
+                "time": 1641594921,
+                "amount": 3214969716,
+                "amountUSD": 1336073.9749644543
+            }
+        ],
+        "updatedAt": "2024-03-12T23:42:26.244Z",
+        "balanceUSD": 1336073.9749644543
+    },
+    {
+        "address": "bc1q3xgr4z53cdaeyn03luhen24xu556y5spvyspt8",
+        "balance": 441000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-06-02T01:48:11.844Z",
+        "family": "Karakurt",
+        "transactions": [
+            {
+                "hash": "0c515944f79f894d886421bd423e07ce67f83005035cbe814d3097a3e311c074",
+                "time": 1643827753,
+                "amount": 441000000,
+                "amountUSD": 162962.66109375
+            }
+        ],
+        "updatedAt": "2024-03-12T23:42:27.775Z",
+        "balanceUSD": 162962.66109375
+    },
+    {
+        "address": "bc1qz9a0nyrqstqdlr64qu8jat03jx5smxfultwpm0",
+        "balance": 634609315,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-06-02T01:48:11.860Z",
+        "family": "Karakurt",
+        "transactions": [
+            {
+                "hash": "9c53ae2840fb0767694f0cbc0fcf4cd67df9a1637baf2255a4bfafddd95fde44",
+                "time": 1663176340,
+                "amount": 20000,
+                "amountUSD": 4.0482179687999995
+            },
+            {
+                "hash": "62368745c68c68da4b31d071ece48363ead55a7bc912b6bdafc6af3ac16f91a4",
+                "time": 1646440426,
+                "amount": 634589315,
+                "amountUSD": 250031.90840994052
+            }
+        ],
+        "updatedAt": "2024-03-12T23:42:28.875Z",
+        "balanceUSD": 250035.95662790933
+    },
+    {
+        "address": "bc1qrkcjtdjccpy8t4hcna0v9asyktwyg2fgdmc9al",
+        "balance": 519685000,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-06-02T01:48:11.878Z",
+        "family": "Karakurt",
+        "transactions": [
+            {
+                "hash": "8f3d29285dff70f75bcf8332de11f03c8a8e33893b8e222b83b7e1cc92666e1c",
+                "time": 1645583115,
+                "amount": 519685000,
+                "amountUSD": 193824.68143111403
+            }
+        ],
+        "updatedAt": "2024-03-12T23:42:26.636Z",
+        "balanceUSD": 193824.68143111403
+    },
+    {
+        "address": "bc1qfp3ym02dx7m94td4rdaxy08cwyhdamefwqk9hp",
+        "balance": 405985454,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-06-02T01:48:11.896Z",
+        "family": "Karakurt",
+        "transactions": [
+            {
+                "hash": "442d999365112814fb99de20666bf1d0edcca8bebcd31ac04c54a1d13fc1b198",
+                "time": 1636053458,
+                "amount": 405978124,
+                "amountUSD": 249482.61241420262
+            },
+            {
+                "hash": "53babe1b8a43fbc2cd8084b73d404e4835960907b566a2652b0fe721d16ae075",
+                "time": 1635980993,
+                "amount": 7330,
+                "amountUSD": 4.6157044359375
+            }
+        ],
+        "updatedAt": "2024-03-12T23:42:27.277Z",
+        "balanceUSD": 249487.22811863857
+    },
+    {
+        "address": "bc1qxfqe0l04cy4qgjx55j4qkkm937yh8sutwhlp4c",
+        "balance": 239200000,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-06-02T01:48:11.915Z",
+        "family": "Karakurt",
+        "transactions": [
+            {
+                "hash": "53091c962fe7b531ebfc32c852885daf233452c282be40600862a23b64a8a74d",
+                "time": 1641582175,
+                "amount": 239200000,
+                "amountUSD": 99406.502406848
+            }
+        ],
+        "updatedAt": "2024-03-12T23:42:27.048Z",
+        "balanceUSD": 99406.502406848
+    },
+    {
+        "address": "bc1qqp73up3xff6jz267n7vm22kd4p952y0mhcd9c8",
+        "balance": 57252148,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-06-02T01:48:11.932Z",
+        "family": "Karakurt",
+        "transactions": [
+            {
+                "hash": "7c1fa6c17ffee7777dff5a7ca69ffc18a6eaa71abed539a3283f0406e08478f6",
+                "time": 1634663808,
+                "amount": 57252148,
+                "amountUSD": 36791.3708752222
+            }
+        ],
+        "updatedAt": "2024-03-12T23:42:26.345Z",
+        "balanceUSD": 36791.3708752222
+    },
+    {
+        "address": "bc1qrtq27tn34pvxaxje4j33g3qzgte0hkwshtq7sq",
+        "balance": 285694329,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-06-02T01:48:11.951Z",
+        "family": "Karakurt",
+        "transactions": [
+            {
+                "hash": "8ad008200cb78dc704a0953ec7d17bee526baca7a54b417b7989bddd1836c7e3",
+                "time": 1640808578,
+                "amount": 106125838,
+                "amountUSD": 49289.83868963015
+            },
+            {
+                "hash": "dfc4529124e38827009f4198f26bc07cf5bfc51b646cb25be5b08b9c788b061b",
+                "time": 1639427567,
+                "amount": 179568491,
+                "amountUSD": 83925.78840960303
+            }
+        ],
+        "updatedAt": "2024-03-12T23:42:28.562Z",
+        "balanceUSD": 133215.62709923318
+    },
+    {
+        "address": "bc1qj7aksdmgrnvf4hwjcm5336wg8pcmpegvhzfmhw",
+        "balance": 314900004,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-06-02T01:48:11.970Z",
+        "family": "Karakurt",
+        "transactions": [
+            {
+                "hash": "4288155b5a597817de695850417fd90aaa1986722ad904a27e7ad84b89e8bd99",
+                "time": 1641420239,
+                "amount": 314900004,
+                "amountUSD": 137198.79504275415
+            }
+        ],
+        "updatedAt": "2024-03-12T23:42:26.443Z",
+        "balanceUSD": 137198.79504275415
+    },
+    {
+        "address": "bc1qq9ryhutrprmehapvksmefcr97z2sk3kdycpqtr",
+        "balance": 222553725,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-06-02T01:48:11.997Z",
+        "family": "Karakurt",
+        "transactions": [
+            {
+                "hash": "e991fe06900ee271139c2070975062af13c2d882d2b3a88b86ae683488c7fdc4",
+                "time": 1643307797,
+                "amount": 222553725,
+                "amountUSD": 82652.52400079297
+            }
+        ],
+        "updatedAt": "2024-03-12T23:42:27.872Z",
+        "balanceUSD": 82652.52400079297
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "address": "13nmJ3SsNB5pSyQrmX3e6zveY9kHGw8Vs3",
+        "balance": 41400065212,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:20.021Z",
+        "transactions": [
+            {
+                "hash": "eb4a367416e02d1fd77d78d530a0f7f1ff7f84cffb3b595deeb7d5ea399d9100",
+                "time": 1595895242,
+                "amount": 41300065212,
+                "amountUSD": 4507003.115416292
+            },
+            {
+                "hash": "58a22a5a40a8cb98df8398567f33402c577affbb8d3d0c993fa17289c24d2bc6",
+                "time": 1595894134,
+                "amount": 100000000,
+                "amountUSD": 10990.873047
+            }
+        ],
+        "updatedAt": "2021-09-22T20:55:24.090Z",
+        "family": "RagnarLocker",
+        "balanceUSD": 4517993.988463292
+    },
+    {
+        "address": "151Ls8urp6e2D1oXjEQAkvqogSn3TS8pp6",
+        "balance": 1947000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-05-03T03:42:43.751Z",
+        "family": "RagnarLocker",
+        "transactions": [
+            {
+                "hash": "4145e85c1c2632a0e51a58c38109d2c8f6e20b584496018065a1059b2b41ed31",
+                "time": 1614468299,
+                "amount": 1947000000,
+                "amountUSD": 899289.1823437499
+            }
+        ],
+        "updatedAt": "2022-05-03T03:42:43.751Z",
+        "balanceUSD": 899289.1823437499
+    },
+    {
+        "address": "1CG8RAqNaJCrmEdVLK7mm2mTuuK28dkzCU",
+        "balance": 2550000547,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-05-03T03:42:43.803Z",
+        "family": "RagnarLocker",
+        "transactions": [
+            {
+                "hash": "ed1587fa857b686bd129d995f55d4a700ab374705e531188ce4fa70d1a7b9840",
+                "time": 1616698801,
+                "amount": 100000000,
+                "amountUSD": 51704.160156
+            },
+            {
+                "hash": "2138420186c992150cd03bdec9727034843dfd1ae030c34ea6c2fc8b4ba4dc89",
+                "time": 1616206510,
+                "amount": 547,
+                "amountUSD": 0.31897563558457
+            },
+            {
+                "hash": "ba8ab5747276dce3dcd337aedb26e6dc6d47d0f2debe6dc23b0ff57d12c399e3",
+                "time": 1616195221,
+                "amount": 2350000000,
+                "amountUSD": 1371146.330084
+            },
+            {
+                "hash": "9c775e9b41cfb38386d68688e9ec91df849065008dfbe8e0459be39bb19c2fae",
+                "time": 1616189427,
+                "amount": 100000000,
+                "amountUSD": 58346.652344
+            }
+        ],
+        "updatedAt": "2022-05-03T03:42:43.803Z",
+        "balanceUSD": 1481197.4615596356
+    },
+    {
+        "address": "19kcqKevFZhiX7NFLa5wAw4JBjWLcpwp3e",
+        "balance": 6940000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-05-03T03:42:43.836Z",
+        "family": "RagnarLocker",
+        "transactions": [
+            {
+                "hash": "cc35f878142e2f434babccc2ee9af88be7b7a578c8885c5aa8ad8372e37e2e27",
+                "time": 1620417265,
+                "amount": 6840000000,
+                "amountUSD": 3923177.9203296006
+            },
+            {
+                "hash": "2ea17c8949710e80a34973b067e4e6eb23bd378c111bf5a38dbbbb0badd70aba",
+                "time": 1620413225,
+                "amount": 100000000,
+                "amountUSD": 57356.402344
+            }
+        ],
+        "updatedAt": "2022-05-03T03:42:43.836Z",
+        "balanceUSD": 3980534.3226736006
+    }
+]

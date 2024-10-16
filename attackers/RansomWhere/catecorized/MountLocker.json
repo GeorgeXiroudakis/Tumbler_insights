@@ -1,0 +1,25 @@
+[
+    {
+        "address": "1AGbpPF1o6WfJGoMnevDJQqTFo57x6HUEz",
+        "balance": 29850000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-14T16:21:45.508Z",
+        "family": "MountLocker",
+        "transactions": [
+            {
+                "hash": "67493f806083cfaf71d759860bb51f6d21ac138e2b6c46886038323edb0de909",
+                "time": 1604448996,
+                "amount": 29750000000,
+                "amountUSD": 4204777.8417225
+            },
+            {
+                "hash": "c5d930587238bcc9bb89a731516bb9939633485cacb019c28274abce4310e502",
+                "time": 1604446660,
+                "amount": 100000000,
+                "amountUSD": 13950.300781
+            }
+        ],
+        "updatedAt": "2021-09-22T20:55:21.825Z",
+        "balanceUSD": 4218728.1425035
+    }
+]

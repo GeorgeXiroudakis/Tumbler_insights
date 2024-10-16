@@ -1,0 +1,54 @@
+[
+    {
+        "address": "1P29xxkwy6wvLxJVA2cLoXBri2hZzaweSV",
+        "balance": 111955430,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:14.575Z",
+        "family": "Flyper",
+        "transactions": [
+            {
+                "hash": "109cc5fb53f2163c0f662b5be2d97a0c2e426e78490ee87e85b4acd1dfbfe092",
+                "time": 1530886075,
+                "amount": 2000000,
+                "amountUSD": 133.47
+            },
+            {
+                "hash": "073e96c53a6a147f39659d87788c0a9fa62c6df2405a776d0d59130851857916",
+                "time": 1525174941,
+                "amount": 109950000,
+                "amountUSD": 10026.351237717
+            },
+            {
+                "hash": "f7e2debfaeade9e758da97a84554a879e1430a347cc13e1bc5b01e77c9833694",
+                "time": 1475540029,
+                "amount": 5430,
+                "amountUSD": 0.0331340760597
+            }
+        ],
+        "updatedAt": "2021-09-11T15:50:07.874Z",
+        "balanceUSD": 10159.854371793059
+    },
+    {
+        "address": "1PniPmm5kiuuAhXpBWR3QJiUtpfAAFm2SS",
+        "balance": 48777439,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:14.627Z",
+        "family": "Flyper",
+        "transactions": [
+            {
+                "hash": "06214f640ebf9eda172484e228e97c45bf1e06e442279a8c961a54a97fa7bfad",
+                "time": 1529614617,
+                "amount": 14950000,
+                "amountUSD": 1006.096164983
+            },
+            {
+                "hash": "447a86dffc247848a51ac1539d3697a7a13a45a17776f857f825cf98e8336580",
+                "time": 1482479913,
+                "amount": 33827439,
+                "amountUSD": 311.8835782342295
+            }
+        ],
+        "updatedAt": "2021-09-11T15:50:07.889Z",
+        "balanceUSD": 1317.9797432172295
+    }
+]

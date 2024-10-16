@@ -1,0 +1,31 @@
+[
+    {
+        "address": "1MiGyooKN32XiiQ37x6EJwbbfw6mJ7d27G",
+        "balance": 339560844,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-09-23T00:11:20.210Z",
+        "family": "AvosLocker",
+        "transactions": [
+            {
+                "hash": "98cd916056bb449985580156d2df7db66e239a4f894859d3677a6689c5c43a70",
+                "time": 1631212182,
+                "amount": 159091479,
+                "amountUSD": 73804.79919006703
+            },
+            {
+                "hash": "aa8419ac67efe2e1caddfbf231ea628017b3fa2fb6fd42708212c3876ba0d4f9",
+                "time": 1631194417,
+                "amount": 180450000,
+                "amountUSD": 83713.3207734375
+            },
+            {
+                "hash": "de1003399d896bff7f717b6765bd6c92a03cc5275bf398042eca79f57195c6fa",
+                "time": 1631193545,
+                "amount": 19365,
+                "amountUSD": 8.98369884609375
+            }
+        ],
+        "updatedAt": "2021-09-23T00:11:20.210Z",
+        "balanceUSD": 157527.10366235065
+    }
+]

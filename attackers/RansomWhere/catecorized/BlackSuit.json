@@ -1,0 +1,31 @@
+[
+    {
+        "address": "bc1q0c03s0c80uuxjq4jcyfhs4k8w5wu6ca9xhxsw9",
+        "balance": 39017489984,
+        "blockchain": "bitcoin",
+        "createdAt": "2024-08-18T15:21:40.659Z",
+        "family": "BlackSuit",
+        "transactions": [
+            {
+                "hash": "81e8191920412dbe983585d8562fee5275518217411604ba3e74839b8fdd868b",
+                "time": 1719016040,
+                "amount": 280763051,
+                "amountUSD": 0
+            },
+            {
+                "hash": "8a41d7a6b75580f34f177628c39bd52ae9c8adc633fb5c874b3a09b253f3d4ef",
+                "time": 1719010559,
+                "amount": 38736725733,
+                "amountUSD": 0
+            },
+            {
+                "hash": "cf9bb538001a50733df0817ec716411087d6dcda9a2ff74fce049efceda7ef8e",
+                "time": 1719005199,
+                "amount": 1200,
+                "amountUSD": 0
+            }
+        ],
+        "updatedAt": "2024-08-18T15:21:40.659Z",
+        "balanceUSD": 0
+    }
+]

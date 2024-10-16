@@ -1,0 +1,104 @@
+[
+    {
+        "address": "1FEsU4nL3WBG4YWmzR9BwKtdn9ALqobWJ3",
+        "balance": 6585337,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-08-11T02:19:52.753Z",
+        "family": "HC6/HC7",
+        "transactions": [
+            {
+                "hash": "62d78aa7df504d921f3ea9fe5eafc2ad492a698df504cf145ddea180afa4e6a8",
+                "time": 1502523397,
+                "amount": 6585337,
+                "amountUSD": 255.82124240441854
+            }
+        ],
+        "updatedAt": "2021-09-11T15:59:58.397Z",
+        "balanceUSD": 255.82124240441854
+    },
+    {
+        "address": "1G7sCE1rSKZh4kif6a8hLU1fSn3sxg8Yp5",
+        "balance": 4622386,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-08-11T02:19:52.763Z",
+        "family": "HC6/HC7",
+        "transactions": [
+            {
+                "hash": "bd59e7cffc87de1cb3db1e9e16e519e8c1fe791b943f692945b689a53c8052cb",
+                "time": 1502915847,
+                "amount": 4622386,
+                "amountUSD": 202.30472698360836
+            }
+        ],
+        "updatedAt": "2021-09-11T15:59:58.505Z",
+        "balanceUSD": 202.30472698360836
+    },
+    {
+        "address": "1DdLF32aXfjiURL6VWbsW3rWSuaLZUBfrN",
+        "balance": 15241931,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-08-11T02:19:52.852Z",
+        "family": "HC6/HC7",
+        "transactions": [
+            {
+                "hash": "e951e431a20cb9c77ae719e7d0e088d03710b7bf9e50b59524467a76ed6319fa",
+                "time": 1511826132,
+                "amount": 15241931,
+                "amountUSD": 1496.50607274255
+            }
+        ],
+        "updatedAt": "2021-09-11T15:59:58.602Z",
+        "balanceUSD": 1496.50607274255
+    },
+    {
+        "address": "1NYeBBMrHgPpbLC7ExXqCx7wzfpeUcADs6",
+        "balance": 1080000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-08-11T02:19:52.910Z",
+        "family": "HC6/HC7",
+        "transactions": [
+            {
+                "hash": "359c7f3a64bc81e1da188a9073e7cbbf999e41345d17853f8c4036d9a148aeea",
+                "time": 1501546781,
+                "amount": 1080000,
+                "amountUSD": 29.357208108000002
+            }
+        ],
+        "updatedAt": "2021-09-11T15:59:58.662Z",
+        "balanceUSD": 29.357208108000002
+    },
+    {
+        "address": "1NYaVPJGEFzwCzYsvp5swNTDiU2so1BvKx",
+        "balance": 2928249,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-08-11T02:19:52.928Z",
+        "family": "HC6/HC7",
+        "transactions": [
+            {
+                "hash": "2b2d7799805d6da67ee96b5f305c4b2c9f3fd131f2bb578571be6b1463a4590c",
+                "time": 1502392967,
+                "amount": 2928249,
+                "amountUSD": 99.01229863639222
+            }
+        ],
+        "updatedAt": "2021-09-11T15:59:58.677Z",
+        "balanceUSD": 99.01229863639222
+    },
+    {
+        "address": "1DuMyrXt64es6BenRSHy9LPubqEq9YR99m",
+        "balance": 1600000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-08-11T02:19:52.953Z",
+        "family": "HC6/HC7",
+        "transactions": [
+            {
+                "hash": "772daec9d55a0f542ec9ce24aa6a3356f87acfbb5090a52851c1a761a9609671",
+                "time": 1501286535,
+                "amount": 1600000,
+                "amountUSD": 43.623199216
+            }
+        ],
+        "updatedAt": "2021-09-11T15:59:58.728Z",
+        "balanceUSD": 43.623199216
+    }
+]

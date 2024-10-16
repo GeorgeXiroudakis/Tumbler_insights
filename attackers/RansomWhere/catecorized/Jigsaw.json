@@ -1,0 +1,19 @@
+[
+    {
+        "address": "1P67AghL2mNLbgxLM19oJYXgsJxyLfcYiz",
+        "balance": 32000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-08-11T02:19:52.786Z",
+        "family": "Jigsaw",
+        "transactions": [
+            {
+                "hash": "9054e48be47d722654e6f817defd7665119ac74689bc087a4999cb9e0ff9945c",
+                "time": 1489613291,
+                "amount": 32000000,
+                "amountUSD": 399.8751952
+            }
+        ],
+        "updatedAt": "2021-09-11T15:59:58.519Z",
+        "balanceUSD": 399.8751952
+    }
+]

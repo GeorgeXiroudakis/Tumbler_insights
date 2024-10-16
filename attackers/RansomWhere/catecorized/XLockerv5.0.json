@@ -1,0 +1,66 @@
+[
+    {
+        "address": "1L2utMwJjCCYr8FHzVpvvvatLP2SHEGjry",
+        "balance": 900000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:28.153Z",
+        "family": "XLockerv5.0",
+        "transactions": [
+            {
+                "hash": "dd67325226cbda05ad5636ba746328f6bab4435dc3ba25d6d6746dfd0f95263b",
+                "time": 1487115244,
+                "amount": 300000000,
+                "amountUSD": 3013.649964
+            },
+            {
+                "hash": "88ac1fe27ad4471d9fafecccf3e725239e4bc9ae33b329d44d3fbbb94cf0be51",
+                "time": 1486446505,
+                "amount": 300000000,
+                "amountUSD": 3184.049928
+            },
+            {
+                "hash": "87ea8dcb84da794e779924e6e2c534a45818e8d8bd00ecece2e2b2821249c0f9",
+                "time": 1485552839,
+                "amount": 100000000,
+                "amountUSD": 919.75
+            },
+            {
+                "hash": "7a34479341830ca2349eb1adf437ef73d9c2d20aa1c92bf5e2f8e163dd9358db",
+                "time": 1485260898,
+                "amount": 100000000,
+                "amountUSD": 892.687012
+            },
+            {
+                "hash": "e648cfbb6611e02f500678771cc761956a5a8dabeb24a98620ca438022006fe1",
+                "time": 1485239497,
+                "amount": 100000000,
+                "amountUSD": 892.687012
+            }
+        ],
+        "updatedAt": "2021-09-11T15:58:00.100Z",
+        "balanceUSD": 8902.823916000001
+    },
+    {
+        "address": "1KTt5AUL58hYmkAR5zkuUR6vu5KKDi3QBx",
+        "balance": 300000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:28.269Z",
+        "family": "XLockerv5.0",
+        "transactions": [
+            {
+                "hash": "6bcb44f56085bfdc55093b96787eb0ce9155217d4c93c387a1ccc20d8f75d2ee",
+                "time": 1488863025,
+                "amount": 100000000,
+                "amountUSD": 1223.540039
+            },
+            {
+                "hash": "a389e40e5a12494892f28ac15ed7af7bdf2491a1cab4bebe68a03c37bdd14e56",
+                "time": 1488332352,
+                "amount": 200000000,
+                "amountUSD": 2445
+            }
+        ],
+        "updatedAt": "2021-09-11T15:58:00.151Z",
+        "balanceUSD": 3668.540039
+    }
+]

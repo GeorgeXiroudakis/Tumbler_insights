@@ -1,0 +1,19 @@
+[
+    {
+        "address": "3H1h39aTtzYjcRSNN11YnkAAMV8f9UnCDo",
+        "balance": 5000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-08-11T02:19:52.741Z",
+        "family": "Decryptiomega",
+        "transactions": [
+            {
+                "hash": "9e6d51e6930f90fd34b8170f73788762baa35b384f9c6694f99187ff45482664",
+                "time": 1565191562,
+                "amount": 5000000,
+                "amountUSD": 597.0984375
+            }
+        ],
+        "updatedAt": "2021-09-11T15:59:58.381Z",
+        "balanceUSD": 597.0984375
+    }
+]

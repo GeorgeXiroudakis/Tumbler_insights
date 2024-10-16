@@ -1,0 +1,117 @@
+[
+    {
+        "address": "1Jx89PqW8nUARMabarDc86Qc3NfsUgH6q3",
+        "balance": 42379675,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:29.069Z",
+        "family": "Xorist",
+        "transactions": [
+            {
+                "hash": "3bca3708d1d8ed7aefa73b24d6fff4b3bf8c43ab5edabba17242546c066bfef7",
+                "time": 1498644813,
+                "amount": 19771129,
+                "amountUSD": 509.06506008984036
+            },
+            {
+                "hash": "c0174096537d06fd7915458d150c8bc967c49b323f6193e848f12d9f623286a7",
+                "time": 1497723959,
+                "amount": 12380284,
+                "amountUSD": 328.8054722142677
+            },
+            {
+                "hash": "2a73ec11ff356f07dba473752af68934131cc458c3e002dd5b349bacff0bbe53",
+                "time": 1495836212,
+                "amount": 10228262,
+                "amountUSD": 225.26927996235565
+            }
+        ],
+        "updatedAt": "2021-09-11T15:58:01.547Z",
+        "balanceUSD": 1063.1398122664637
+    },
+    {
+        "address": "3FQyoeHS3ECatjxf7ePo4qNMkwtn8qMLqD",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:29.114Z",
+        "family": "Xorist",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:58:01.643Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "1NJNG57hFPPcmSmFYbxKmL33uc5nLwYLCK",
+        "balance": 374737550,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-08-11T02:18:10.475Z",
+        "family": "Xorist",
+        "transactions": [
+            {
+                "hash": "7f427c1c9461174ae9da8656076b4ac3d5d74ffc4ce2c581a9d0de98fc247c8d",
+                "time": 1499499736,
+                "amount": 200000000,
+                "amountUSD": 5142.680176
+            },
+            {
+                "hash": "bb2002e684c0123b28f8bbaaec2c5657d96937b698dd546d8132389260e99006",
+                "time": 1497085249,
+                "amount": 9602550,
+                "amountUSD": 283.0553228600055
+            },
+            {
+                "hash": "d881b179f7255b77c4b12700d32680ecf301b03f04f4a859a933daf2055c8cd2",
+                "time": 1497008595,
+                "amount": 17780000,
+                "amountUSD": 502.0734284902
+            },
+            {
+                "hash": "d5aca49ad65894c6aa281b799bbf2e04dc46d0f570c04fbc29e467daf532c34f",
+                "time": 1496873384,
+                "amount": 35570000,
+                "amountUSD": 971.8292806984001
+            },
+            {
+                "hash": "20a03a7f447175b119b9b7c8cb026290edbb2cf606e9075617a4413bbc7055a9",
+                "time": 1496790857,
+                "amount": 4685000,
+                "amountUSD": 134.14091770435002
+            },
+            {
+                "hash": "6727a76057902dca0ccd681507bbb00e38b023cb6a1bcd73b29752996631199b",
+                "time": 1496742073,
+                "amount": 200000,
+                "amountUSD": 5.726399902
+            },
+            {
+                "hash": "32687bb7564f16aa281ba881fc07de66a8f7c6ea64449bed91a27d51aab5fe9d",
+                "time": 1496731885,
+                "amount": 6900000,
+                "amountUSD": 197.56079661900003
+            },
+            {
+                "hash": "b5ff74f00e91b3f0a194a19f26fb48647dd229876f8a8827735f19ce3b74e763",
+                "time": 1496731763,
+                "amount": 100000000,
+                "amountUSD": 2863.199951
+            }
+        ],
+        "updatedAt": "2021-09-11T15:58:00.386Z",
+        "balanceUSD": 10100.266273273955
+    },
+    {
+        "address": "1B8G2L24xbn1sDbPurUNGMXwZWFgVXuYQv",
+        "balance": 2404424,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-08-11T02:18:10.930Z",
+        "family": "Xorist",
+        "transactions": [
+            {
+                "hash": "a39a2b6c8a532eb90998fc0e52f247227e067ef53cccead0da25db431570fa54",
+                "time": 1504907220,
+                "amount": 2404424,
+                "amountUSD": 101.67707990000001
+            }
+        ],
+        "updatedAt": "2021-09-11T15:58:00.900Z",
+        "balanceUSD": 101.67707990000001
+    }
+]

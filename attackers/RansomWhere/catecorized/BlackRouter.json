@@ -1,0 +1,25 @@
+[
+    {
+        "address": "3BaS629MFciJ5cJKHSg4A5vncVok5Hxw7H",
+        "balance": 228513,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-08-11T02:19:53.222Z",
+        "family": "BlackRouter",
+        "transactions": [
+            {
+                "hash": "2bbbf37966b74ccbc5ac328471d2f55963899617b41fd13950b31b56258a79a6",
+                "time": 1559078939,
+                "amount": 123513,
+                "amountUSD": 10.77028655883882
+            },
+            {
+                "hash": "1cd8b59df30334d140ed95922319773e563852b0c149865c6843040d13ab1960",
+                "time": 1545213604,
+                "amount": 105000,
+                "amountUSD": 3.9332482181999997
+            }
+        ],
+        "updatedAt": "2021-09-11T15:59:59.119Z",
+        "balanceUSD": 14.703534777038819
+    }
+]

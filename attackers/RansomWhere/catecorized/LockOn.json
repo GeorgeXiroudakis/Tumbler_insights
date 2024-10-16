@@ -1,0 +1,19 @@
+[
+    {
+        "address": "1EhHaeQ5x8Q4wF62QwqRUfoFrbYo2PLR7c",
+        "balance": 500000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-08-11T02:19:52.839Z",
+        "family": "LockOn",
+        "transactions": [
+            {
+                "hash": "26e3dfbf1a869ff14179feb032d0d7837e6834bead88d02577bc0a65ab390fff",
+                "time": 1503765240,
+                "amount": 500000,
+                "amountUSD": 21.761999510000003
+            }
+        ],
+        "updatedAt": "2021-09-11T15:59:58.588Z",
+        "balanceUSD": 21.761999510000003
+    }
+]

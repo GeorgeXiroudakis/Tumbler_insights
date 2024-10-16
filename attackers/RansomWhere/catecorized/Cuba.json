@@ -1,0 +1,307 @@
+[
+    {
+        "address": "bc1qhtwfcysclc7pck2y3vmjtpzkaezhcm6perc99x",
+        "balance": 24719272375,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-12-02T21:23:32.757Z",
+        "family": "Cuba",
+        "transactions": [
+            {
+                "hash": "017d7b0ca8953b1f60a36eadade28b3a5296985af5acfad22b6e04b817a6aef5",
+                "time": 1619462788,
+                "amount": 24719272375,
+                "amountUSD": 13353784.489776341
+            }
+        ],
+        "updatedAt": "2023-02-06T15:32:04.900Z",
+        "balanceUSD": 13353784.489776341
+    },
+    {
+        "address": "bc1qzz7xweq8ee2j35tq6r5m687kctq9huskt50edv",
+        "balance": 11250000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-12-02T21:23:32.829Z",
+        "family": "Cuba",
+        "transactions": [
+            {
+                "hash": "30dc44231e85cd34b71b73558826bbc5b839081c522e3060dd934f81cbab2b61",
+                "time": 1587139481,
+                "amount": 11250000000,
+                "amountUSD": 798320.764125
+            }
+        ],
+        "updatedAt": "2023-02-06T15:32:05.198Z",
+        "balanceUSD": 798320.764125
+    },
+    {
+        "address": "bc1qaselp9nhejc3safcq3vn5wautx6w33x0llk7dl",
+        "balance": 11776000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-12-02T21:23:32.864Z",
+        "family": "Cuba",
+        "transactions": [
+            {
+                "hash": "b7171e0b372e08f292634900f53107f759c5274b47f5be77005870c835609dae",
+                "time": 1591819286,
+                "amount": 11776000000,
+                "amountUSD": 1162302.35505152
+            }
+        ],
+        "updatedAt": "2023-02-06T15:32:05.242Z",
+        "balanceUSD": 1162302.35505152
+    },
+    {
+        "address": "bc1q5uc0fdnz0ve5pg4nl4upa9ly586t6wmnghfe7x",
+        "balance": 10330074406,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-12-02T21:23:32.900Z",
+        "family": "Cuba",
+        "transactions": [
+            {
+                "hash": "8d88000d7ca8905deae3e8a22e3adf36172955ce66ccfd09e85a524956d32b56",
+                "time": 1589995118,
+                "amount": 10330074406,
+                "amountUSD": 983731.0689380739
+            }
+        ],
+        "updatedAt": "2023-02-06T15:32:05.556Z",
+        "balanceUSD": 983731.0689380739
+    },
+    {
+        "address": "bc1q4vr25xkth35qslenqwd7aw020w85qrvlrhv7hc",
+        "balance": 3723548878,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-12-02T21:23:32.935Z",
+        "family": "Cuba",
+        "transactions": [
+            {
+                "hash": "da5befe2f6aa9a4ae47ef2786eadf5377d9f8b2fa6c92c06d3c113ccb8a2b7eb",
+                "time": 1632613813,
+                "amount": 3723548878,
+                "amountUSD": 1590573.247297943
+            }
+        ],
+        "updatedAt": "2023-02-06T15:32:05.654Z",
+        "balanceUSD": 1590573.247297943
+    },
+    {
+        "address": "bc1qjep0vx2lap93455p7h29unruvr05cs242mrcah",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-12-02T21:23:32.967Z",
+        "family": "Cuba",
+        "transactions": [],
+        "updatedAt": "2023-02-06T15:32:05.698Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "bc1qgsuf5m9tgxuv4ylxcmx8eeqn3wmlmu7f49zkus",
+        "balance": 6787100000,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-12-02T21:23:33.001Z",
+        "family": "Cuba",
+        "transactions": [
+            {
+                "hash": "ecc5eec108abf5dc8e846a92e13eba803572dabf63447cc06b0a4e1b4b11c14a",
+                "time": 1585072563,
+                "amount": 6787100000,
+                "amountUSD": 457097.86266928096
+            }
+        ],
+        "updatedAt": "2023-02-06T15:32:05.804Z",
+        "balanceUSD": 457097.86266928096
+    },
+    {
+        "address": "bc1q6zkemtyyrre2mkk23g93zyq98ygrygvx7z2q0t",
+        "balance": 34215592100,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-12-02T21:23:33.032Z",
+        "family": "Cuba",
+        "transactions": [
+            {
+                "hash": "568192e293c8ae61a884fe67c3fdfa8b87e34b6418eb8e3d756b1e34aa72d475",
+                "time": 1654243999,
+                "amount": 34215592100,
+                "amountUSD": 10163533.13204064
+            }
+        ],
+        "updatedAt": "2023-02-06T15:32:05.866Z",
+        "balanceUSD": 10163533.13204064
+    },
+    {
+        "address": "bc1qr9l0gcl0nvmngap6ueyy5gqdwvm34kdmtevjyx",
+        "balance": 7142750245,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-12-02T21:23:33.065Z",
+        "family": "Cuba",
+        "transactions": [
+            {
+                "hash": "ce8b2eb2913d0b4b8aa214484ae2ace846311f9a9f5075f8f9b2fe1f9c86d9ff",
+                "time": 1634248301,
+                "amount": 7142750245,
+                "amountUSD": 4094333.2558054775
+            }
+        ],
+        "updatedAt": "2023-02-06T15:32:05.982Z",
+        "balanceUSD": 4094333.2558054775
+    },
+    {
+        "address": "bc1qc48q628t93xwzljtvurpqhcvahvesadpwqtsza",
+        "balance": 209001985,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-12-02T21:23:33.137Z",
+        "family": "Cuba",
+        "transactions": [
+            {
+                "hash": "c2bbd8261490409a6f40711122ad5acda80c9b3426c5cc95c3f97c06739af2dd",
+                "time": 1634679822,
+                "amount": 209001985,
+                "amountUSD": 134308.83927346492
+            }
+        ],
+        "updatedAt": "2023-02-06T15:32:06.069Z",
+        "balanceUSD": 134308.83927346492
+    },
+    {
+        "address": "bc1qft3s53ur5uq5ru6sl3zyr247dpr55mnggwucd3",
+        "balance": 31811936268,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-12-02T21:23:33.199Z",
+        "family": "Cuba",
+        "transactions": [
+            {
+                "hash": "6bc37bd391154bc68e626eaf3e17aacb25f693c49d2df62a2c52ba2e99dd1def",
+                "time": 1604023668,
+                "amount": 31811936268,
+                "amountUSD": 4309411.091823625
+            }
+        ],
+        "updatedAt": "2023-02-06T15:32:06.109Z",
+        "balanceUSD": 4309411.091823625
+    },
+    {
+        "address": "bc1q9cj0n9k2m282x0nzj6lhqjvhkkd4h95sewek83",
+        "balance": 5004000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-12-02T21:23:33.234Z",
+        "family": "Cuba",
+        "transactions": [
+            {
+                "hash": "91a534efc1d084cb14868227e6321101386f532de4b97e35125d9368ae8ef24a",
+                "time": 1636587763,
+                "amount": 5004000000,
+                "amountUSD": 3252361.33266876
+            }
+        ],
+        "updatedAt": "2023-02-06T15:32:06.182Z",
+        "balanceUSD": 3252361.33266876
+    },
+    {
+        "address": "bc1qvpk8ksl3my6kjezjss9p28cqj4dmpmmjx5yl3y",
+        "balance": 14100000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-12-02T21:23:33.263Z",
+        "family": "Cuba",
+        "transactions": [
+            {
+                "hash": "374e7aa78b8897cdbece5dcb31fa5b120c94a7c9daff62efa7df5298f9d71d87",
+                "time": 1617487753,
+                "amount": 14100000000,
+                "amountUSD": 8122148.578125
+            }
+        ],
+        "updatedAt": "2023-02-06T15:32:06.357Z",
+        "balanceUSD": 8122148.578125
+    },
+    {
+        "address": "bc1qp7h9fszlqxjwyfhv0upparnsgx56x7v7wfx4x7",
+        "balance": 3779344406,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-12-02T21:23:33.296Z",
+        "family": "Cuba",
+        "transactions": [
+            {
+                "hash": "d15969a9665cb001bdf0ad2a47c47519585661fa85f0f869fc622846272cf84c",
+                "time": 1607444023,
+                "amount": 3779344406,
+                "amountUSD": 692419.1509475235
+            }
+        ],
+        "updatedAt": "2023-02-06T15:32:06.447Z",
+        "balanceUSD": 692419.1509475235
+    },
+    {
+        "address": "bc1qhpepeeh7hlz5jvrp50uhkz59lhakcfvme0w9qh",
+        "balance": 5132000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-12-02T21:23:33.363Z",
+        "family": "Cuba",
+        "transactions": [
+            {
+                "hash": "e73e693ce952afa435fbb9a969ab471c8da1ad5d18b45cdf42e352a8299baad7",
+                "time": 1595712035,
+                "amount": 5132000000,
+                "amountUSD": 496629.45358092
+            }
+        ],
+        "updatedAt": "2023-02-06T15:32:06.511Z",
+        "balanceUSD": 496629.45358092
+    },
+    {
+        "address": "bc1qyd05q2m5qt3nwpd3gcqkyer0gspqx5p6evcf7h",
+        "balance": 3797075612,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-12-02T21:23:33.400Z",
+        "family": "Cuba",
+        "transactions": [
+            {
+                "hash": "3836b76a175bc971f87fb2f141501ea5cfed0d09fe06122f35139ac5132a9b85",
+                "time": 1590329283,
+                "amount": 3797075612,
+                "amountUSD": 333776.9257602561
+            }
+        ],
+        "updatedAt": "2023-02-06T15:32:06.647Z",
+        "balanceUSD": 333776.9257602561
+    },
+    {
+        "address": "bc1qs3lv77udkap2enxv928x59yuact5df4t95rsqr",
+        "balance": 2600097052,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-12-02T21:23:33.431Z",
+        "family": "Cuba",
+        "transactions": [
+            {
+                "hash": "1a61862ac0cd15227cd8509c5c79e647ee516f216ee31b4175c015daa6aac8f3",
+                "time": 1582823473,
+                "amount": 2600097052,
+                "amountUSD": 228405.3731932537
+            }
+        ],
+        "updatedAt": "2023-02-06T15:32:06.683Z",
+        "balanceUSD": 228405.3731932537
+    },
+    {
+        "address": "bc1q6rsj3cn37dngypu5kad9gdw5ykhctpwhjvun3z",
+        "balance": 25426122532,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-12-02T21:23:33.465Z",
+        "family": "Cuba",
+        "transactions": [
+            {
+                "hash": "29bb03600607beb26f21e955c665a3431b69860275c820d436f766cc531e56b2",
+                "time": 1651100145,
+                "amount": 25413379133,
+                "amountUSD": 9972494.879657859
+            },
+            {
+                "hash": "d924c8fd163bbabe44c1f1c7615eb029d87c0d7ecadd86fb43d82007df5c3953",
+                "time": 1651097075,
+                "amount": 12743399,
+                "amountUSD": 5000.652633081585
+            }
+        ],
+        "updatedAt": "2023-02-06T15:32:06.818Z",
+        "balanceUSD": 9977495.532290941
+    }
+]

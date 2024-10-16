@@ -1,0 +1,746 @@
+[
+    {
+        "address": "1Cyh35KqhhDewmXy63yp9ZMqBnAWe4oJRr",
+        "balance": 279993008,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:14.547Z",
+        "transactions": [
+            {
+                "hash": "d058c1a8748a5ed815d0a2fca4260dd3d8bf3231e0392030a5fd361ff93bd259",
+                "time": 1547895248,
+                "amount": 279993008,
+                "amountUSD": 10439.73070370034
+            }
+        ],
+        "updatedAt": "2021-09-22T20:53:58.550Z",
+        "family": "Ryuk",
+        "balanceUSD": 10439.73070370034
+    },
+    {
+        "address": "1Kx9TT76PHwk8sw7Ur6PsMWyEtaogX7wWY",
+        "balance": 18299996680,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:15.026Z",
+        "transactions": [
+            {
+                "hash": "864e0cdab84c5af945597b0943ea920663b9d2fb28938c5d9788ae5ea3827657",
+                "time": 1546018640,
+                "amount": 1500000000,
+                "amountUSD": 58858.780515
+            },
+            {
+                "hash": "05e5cb03d1c3db93e48ee0ff2ca1affe29616f0cee0d704ff893a096a0ad67f8",
+                "time": 1545724321,
+                "amount": 799950000,
+                "amountUSD": 30522.0180386385
+            },
+            {
+                "hash": "466daaeca820aba488c499511ebeefe4c76790adbdc49bd06b91906a44349d4d",
+                "time": 1545466105,
+                "amount": 99950000,
+                "amountUSD": 4012.1755256915003
+            },
+            {
+                "hash": "990cb320e154bb584e7a3f3c476e9bf9818078557f1b6857624ecdf9a55032ae",
+                "time": 1545404182,
+                "amount": 2500000000,
+                "amountUSD": 97413.592525
+            },
+            {
+                "hash": "396ae0a61f02571aac07a29b0b483ef5e3b5ef6383911a6227dd03710b156afe",
+                "time": 1545394570,
+                "amount": 100000000,
+                "amountUSD": 3896.543701
+            },
+            {
+                "hash": "c7eb67905a6350713f993098b893a7f979ae9b42ab54207dcf547f1847bb9bc6",
+                "time": 1545339601,
+                "amount": 1300000000,
+                "amountUSD": 53747.738278
+            },
+            {
+                "hash": "d974492909b7e0b218910e14f6d5c277faed956fab3dde651218ffac3c8ad58d",
+                "time": 1545255439,
+                "amount": 500000000,
+                "amountUSD": 18729.75342
+            },
+            {
+                "hash": "176d8b38c2911545d0607a2c635bedebd0349f2dae25a33aae20fe5da5c639cf",
+                "time": 1545212910,
+                "amount": 1500096680,
+                "amountUSD": 56192.881845121294
+            },
+            {
+                "hash": "dfa3238b59cb5208056f605254be6ffff86dec93c354a8bfdc23773755b1e3ba",
+                "time": 1543684666,
+                "amount": 9999975000,
+                "amountUSD": 421466.1338320313
+            },
+            {
+                "hash": "5ba1390db8f3140a44df3304710e6870200113beb0979d0e2d14d386cf379ca5",
+                "time": 1543674117,
+                "amount": 25000,
+                "amountUSD": 1.0536679687500001
+            }
+        ],
+        "updatedAt": "2021-09-22T20:53:59.987Z",
+        "family": "Ryuk",
+        "balanceUSD": 744840.6713484513
+    },
+    {
+        "address": "12vsQry1XrPjPCaH8gWzDJeYT7dhTmpcjL",
+        "balance": 5500000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:16.369Z",
+        "transactions": [
+            {
+                "hash": "ea2e7957baa7934e9e01162c8ec361b8649a0151579128477faf80d30c790370",
+                "time": 1543953783,
+                "amount": 200000000,
+                "amountUSD": 7913.787598
+            },
+            {
+                "hash": "9c59e10f010571a6574f1d3f5234b78a5e38ed5dd74ed5b85b5e2305583f00bd",
+                "time": 1543863947,
+                "amount": 2800000000,
+                "amountUSD": 109035.664052
+            },
+            {
+                "hash": "9db782215925774a7589a1e510c2965648dd3facac22743592ba8e9370cf3065",
+                "time": 1543589151,
+                "amount": 2500000000,
+                "amountUSD": 100431.713875
+            }
+        ],
+        "updatedAt": "2021-09-22T20:54:05.401Z",
+        "family": "Ryuk",
+        "balanceUSD": 217381.165525
+    },
+    {
+        "address": "1E4fQqzCvS8wgqy5T7n1DW8JMNMaUbeFAS",
+        "balance": 100000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:16.627Z",
+        "transactions": [
+            {
+                "hash": "af8937e00b910e5a6911ea62d8237e1f781db0e015f390be2fc1b4e3934b8033",
+                "time": 1540603893,
+                "amount": 100000,
+                "amountUSD": 6.4803798829999995
+            }
+        ],
+        "updatedAt": "2021-09-22T20:54:06.541Z",
+        "family": "Ryuk",
+        "balanceUSD": 6.4803798829999995
+    },
+    {
+        "address": "1GXgngwDMSJZ1Vahmf6iexKVePPXsxGS6H",
+        "balance": 3000217032,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:16.917Z",
+        "transactions": [
+            {
+                "hash": "473535f5b3003e7d414ccf0cd9c23cf2789ed43ffd8b63f1b90d9506ba80b1d9",
+                "time": 1543010472,
+                "amount": 1500092032,
+                "amountUSD": 65210.64867714911
+            },
+            {
+                "hash": "676535a2ced576214dcda0c7379e77383a50e521db3cae8d586bd68d733171d9",
+                "time": 1542836251,
+                "amount": 1500000000,
+                "amountUSD": 69032.54883
+            },
+            {
+                "hash": "4d3c5ec8237112203085cae9880a01e53dd47134167b945286661ebb4f1dcf21",
+                "time": 1542823475,
+                "amount": 125000,
+                "amountUSD": 5.7527124025
+            }
+        ],
+        "updatedAt": "2021-09-22T20:54:07.347Z",
+        "family": "Ryuk",
+        "balanceUSD": 134248.9502195516
+    },
+    {
+        "address": "14aJo5L9PTZhv8XX6qRPncbTXecb8Qohqb",
+        "balance": 2500016544,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:16.959Z",
+        "transactions": [
+            {
+                "hash": "85005dd0f8a1b771de8f451fae38666d53a1525f78c1b04adc446b6884a8e563",
+                "time": 1543436507,
+                "amount": 16544,
+                "amountUSD": 0.70434755189568
+            },
+            {
+                "hash": "aafb41f7dd44dc5641779057cab504036e04c201e2585d736e27548a4886ec1d",
+                "time": 1542762909,
+                "amount": 2500000000,
+                "amountUSD": 115054.24805
+            }
+        ],
+        "updatedAt": "2021-09-22T20:54:07.430Z",
+        "family": "Ryuk",
+        "balanceUSD": 115054.9523975519
+    },
+    {
+        "address": "1FtQnqvjxEK5GJD9PthHM4MtdmkAeTeoRt",
+        "balance": 4825000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:17.467Z",
+        "transactions": [
+            {
+                "hash": "1ced2130b8707077ee76b8ff5d48b6fc28240c3a1b7f9bf6cd2b9fc3c6658929",
+                "time": 1545301300,
+                "amount": 1500000000,
+                "amountUSD": 62016.62109
+            },
+            {
+                "hash": "6007de91b915afdbe7c7064dad3752d41b5bc95f8cb5310c2e0d310a1b6a4bea",
+                "time": 1545246946,
+                "amount": 1500000000,
+                "amountUSD": 56189.260259999995
+            },
+            {
+                "hash": "b663b3ab221ae2a7ae0a8c5813a9356cd4427cbc228e89486ffa7be71c05ba56",
+                "time": 1545235905,
+                "amount": 950000000,
+                "amountUSD": 35586.531498
+            },
+            {
+                "hash": "0be5da023190ce6c5e72dafd9098b5a90ed0666aef61415f5b1a16f860e57573",
+                "time": 1543595051,
+                "amount": 875000000,
+                "amountUSD": 35151.09985625
+            }
+        ],
+        "updatedAt": "2021-09-22T20:54:08.770Z",
+        "family": "Ryuk",
+        "balanceUSD": 188943.51270425
+    },
+    {
+        "address": "1CW4kTqeoedinSmZiPYH7kvn4qP3mDJQVa",
+        "balance": 2407700000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:19.049Z",
+        "transactions": [
+            {
+                "hash": "3816e8efd71a4ed50f9bcc7afb2b32b2b608d4b125a0be1b42fe22f6a0fcddf9",
+                "time": 1536595605,
+                "amount": 1663700000,
+                "amountUSD": 105307.222144215
+            },
+            {
+                "hash": "5244571976f7b7105f8b955654d7befe5635a364b8bf829aa09b78dbbc4d142c",
+                "time": 1536297377,
+                "amount": 744000000,
+                "amountUSD": 48114.99949056
+            }
+        ],
+        "updatedAt": "2021-09-22T20:55:20.882Z",
+        "family": "Ryuk",
+        "balanceUSD": 153422.221634775
+    },
+    {
+        "address": "15FC73BdkpDMUWmxo7e7gtLRtM8gQgXyb4",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:19.145Z",
+        "transactions": [],
+        "updatedAt": "2021-09-22T20:55:21.197Z",
+        "family": "Ryuk",
+        "balanceUSD": 0
+    },
+    {
+        "address": "18eu6KrFgzv8yTMVvKJkRM3YBAyHLonk5G",
+        "balance": 3000000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:19.189Z",
+        "transactions": [
+            {
+                "hash": "695fb5a5b57a1a5acc7fb3ac45f737898a9852c33fe04ed53fa7be00dd8fd102",
+                "time": 1539103588,
+                "amount": 3000000000,
+                "amountUSD": 199279.20411000002
+            }
+        ],
+        "updatedAt": "2021-09-22T20:55:21.279Z",
+        "family": "Ryuk",
+        "balanceUSD": 199279.20411000002
+    },
+    {
+        "address": "1KUbXkjDZL6HC3Er34HwJiQUAE9H81Wcsr",
+        "balance": 1000000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:19.233Z",
+        "transactions": [
+            {
+                "hash": "f045936ebf5f7404b5e2288c71284405f7d8777e28fb51e158bcc04122d5c079",
+                "time": 1537362910,
+                "amount": 1000000000,
+                "amountUSD": 63985.40039
+            }
+        ],
+        "updatedAt": "2021-09-22T20:55:21.357Z",
+        "family": "Ryuk",
+        "balanceUSD": 63985.40039
+    },
+    {
+        "address": "129L4gRSYgVJTRCgbPDtvYPabnk2QnY9sq",
+        "balance": 649951670,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:19.278Z",
+        "transactions": [
+            {
+                "hash": "1eb5d8465b89b4901939dbcb6ceb71504591e85cc56348e206f47c7a0cb6947b",
+                "time": 1547739263,
+                "amount": 649951670,
+                "amountUSD": 23908.887922535716
+            }
+        ],
+        "updatedAt": "2021-09-22T20:55:21.512Z",
+        "family": "Ryuk",
+        "balanceUSD": 23908.887922535716
+    },
+    {
+        "address": "1CbP3cgi1Bcjuz6g2Fwvk4tVhqohqAVpDQ",
+        "balance": 1300000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:19.322Z",
+        "transactions": [
+            {
+                "hash": "ed17226c777e51c0b02dc7aac468b8c9c95c202ec92dc05a9476c2888a1a2116",
+                "time": 1541947478,
+                "amount": 300000000,
+                "amountUSD": 19233.81006
+            },
+            {
+                "hash": "ecb4ba2683180f387ea7d41d56350a991f21da85b5a766e40d4bb25bb20e5b20",
+                "time": 1541943010,
+                "amount": 1000000000,
+                "amountUSD": 64112.7002
+            }
+        ],
+        "updatedAt": "2021-09-22T20:55:21.668Z",
+        "family": "Ryuk",
+        "balanceUSD": 83346.51026
+    },
+    {
+        "address": "1NuMXQMUxCngJ7MNQ276KdaXQgGjpjFPhK",
+        "balance": 1000000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:19.366Z",
+        "transactions": [
+            {
+                "hash": "e5a905dbd1ab0648571994f0ad19e145b9c63c4ad9e1f11969fb079f60ab8016",
+                "time": 1543408281,
+                "amount": 1000000000,
+                "amountUSD": 42574.19922
+            }
+        ],
+        "updatedAt": "2021-09-22T20:55:21.903Z",
+        "family": "Ryuk",
+        "balanceUSD": 42574.19922
+    },
+    {
+        "address": "14dpmsn9rmdcS4dKD4GeqY2dYY6pwu4nVV",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:19.459Z",
+        "transactions": [],
+        "updatedAt": "2021-09-22T20:55:22.219Z",
+        "family": "Ryuk",
+        "balanceUSD": 0
+    },
+    {
+        "address": "1C8n86EEttnDjNKM9Tjm7QNVgwGBncQhDs",
+        "balance": 3000821708,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:19.507Z",
+        "transactions": [
+            {
+                "hash": "1654008e04d695192a089e6b9c9460c09cf2189b3664eec4d07af4683e2004a1",
+                "time": 1537985854,
+                "amount": 3000000000,
+                "amountUSD": 194850
+            },
+            {
+                "hash": "d15fd387515da1b9921fd599a13d1a2aa6de4a984be54bece884a957cac3b018",
+                "time": 1537544257,
+                "amount": 821708,
+                "amountUSD": 55.3416245483306
+            }
+        ],
+        "updatedAt": "2021-09-22T20:55:22.379Z",
+        "family": "Ryuk",
+        "balanceUSD": 194905.34162454834
+    },
+    {
+        "address": "1L9fYHJJxeLMD2yyhh1cMFU2EWF5ihgAmJ",
+        "balance": 4003500000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:19.651Z",
+        "transactions": [
+            {
+                "hash": "c80c6265cc8547ef0c52aad9822bd4517a2ba377c3245f69fce1231d674bff76",
+                "time": 1540572165,
+                "amount": 450000000,
+                "amountUSD": 29136.375
+            },
+            {
+                "hash": "e401f35686b6a96f726e2fc66e0a8b093867938ad891ea6c74be438730dce8c7",
+                "time": 1540562733,
+                "amount": 1550000000,
+                "amountUSD": 100358.625
+            },
+            {
+                "hash": "0f9203817e257543ec9f4bb70c4c4c67a869acf63aa09150f72ac9705617f6b8",
+                "time": 1540553646,
+                "amount": 3500000,
+                "amountUSD": 226.61625
+            },
+            {
+                "hash": "ddb7d42b6f882c487d8b7f82309cbb463089adb35e267fbea5b62b372ef43a1c",
+                "time": 1540044368,
+                "amount": 2000000000,
+                "amountUSD": 129783.79882
+            }
+        ],
+        "updatedAt": "2021-09-22T20:55:22.781Z",
+        "family": "Ryuk",
+        "balanceUSD": 259505.41507
+    },
+    {
+        "address": "12UbZzhJrdDvdyv9NdCox1Zj1FAQ5onwx3",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:19.743Z",
+        "transactions": [],
+        "updatedAt": "2021-09-22T20:55:23.100Z",
+        "family": "Ryuk",
+        "balanceUSD": 0
+    },
+    {
+        "address": "15RLWdVnY5n1n7mTvU1zjg67wt86dhYqNj",
+        "balance": 7541099315,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:19.786Z",
+        "transactions": [
+            {
+                "hash": "a590027037166aa5ca851453c6ec7ff9fb16915d8bca78f518184a0137c798c7",
+                "time": 1577757407,
+                "amount": 2500099315,
+                "amountUSD": 179847.12234796703
+            },
+            {
+                "hash": "ac052f38c320a953b270eb05df991be9db8cd187613be05a060aeff6426fcd88",
+                "time": 1534891490,
+                "amount": 30000000,
+                "amountUSD": 1946.6279298
+            },
+            {
+                "hash": "d4c966c21dc8f65831296674a91915242edbfc19ddd0ca12dc61f36218e4145f",
+                "time": 1534544445,
+                "amount": 5000000000,
+                "amountUSD": 329031.49415
+            },
+            {
+                "hash": "b2cb8b55a03e625f7e1b50fb670107a40fa6f6738a5ee362b3f772b809e55b07",
+                "time": 1534536581,
+                "amount": 11000000,
+                "amountUSD": 723.86928713
+            }
+        ],
+        "updatedAt": "2021-09-22T20:55:23.339Z",
+        "family": "Ryuk",
+        "balanceUSD": 511549.113714897
+    },
+    {
+        "address": "1NMgARKzfaDExDSEsNijeT3QWbvTF7FXxS",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:19.874Z",
+        "transactions": [],
+        "updatedAt": "2021-09-22T20:55:23.571Z",
+        "family": "Ryuk",
+        "balanceUSD": 0
+    },
+    {
+        "address": "13rTF3AYsf8xEdafUMT5W1E5Ab2aqPhkPi",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:19.925Z",
+        "transactions": [],
+        "updatedAt": "2021-09-22T20:55:23.648Z",
+        "family": "Ryuk",
+        "balanceUSD": 0
+    },
+    {
+        "address": "1NQ42zc51stA4WAVkUK8uqFAjo1DbWv4Kz",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:19.976Z",
+        "transactions": [],
+        "updatedAt": "2021-09-22T20:55:23.804Z",
+        "family": "Ryuk",
+        "balanceUSD": 0
+    },
+    {
+        "address": "1KURvApbe1yC7qYxkkkvtdZ7hrNjdp18sQ",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:20.116Z",
+        "transactions": [],
+        "updatedAt": "2021-09-22T20:55:24.499Z",
+        "family": "Ryuk",
+        "balanceUSD": 0
+    },
+    {
+        "address": "1ChnbV4Rt7nsb5acw5YfYyvBFDj1RXcVQu",
+        "balance": 2800000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:20.164Z",
+        "transactions": [
+            {
+                "hash": "4caba9da363b0e5d744aaa08e16dba3acdcd973fadcf2f4d7bf75cc6faa13dc4",
+                "time": 1539453963,
+                "amount": 1800000000,
+                "amountUSD": 113147.82421199999
+            },
+            {
+                "hash": "67cd7ab8637f10b2a33f8833f37827229ce3e38db5a72b2f16e2da6fecdd3667",
+                "time": 1539285118,
+                "amount": 1000000000,
+                "amountUSD": 62562.40234
+            }
+        ],
+        "updatedAt": "2021-09-22T20:55:24.578Z",
+        "family": "Ryuk",
+        "balanceUSD": 175710.22655199998
+    },
+    {
+        "address": "bc1qlnzcep4l4ac0ttdrq7awxev9ehu465f2vpt9x0",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:20.212Z",
+        "transactions": [],
+        "updatedAt": "2021-09-22T20:55:24.656Z",
+        "family": "Ryuk",
+        "balanceUSD": 0
+    },
+    {
+        "address": "1LKULheYnNtJXgQNWMo24MeLrBBCouECH7",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:20.256Z",
+        "transactions": [],
+        "updatedAt": "2021-09-22T20:55:24.732Z",
+        "family": "Ryuk",
+        "balanceUSD": 0
+    },
+    {
+        "address": "1K6MBjz79QqfLBN7XBnwxCJb8DYUmmDWAt",
+        "balance": 170004113,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:20.313Z",
+        "transactions": [
+            {
+                "hash": "a7d2d94a467484fe8bc50f5fc2607cded064b7da9f0f682338ceb4665d2fb6eb",
+                "time": 1536028917,
+                "amount": 50000,
+                "amountUSD": 3.680830078
+            },
+            {
+                "hash": "f4f1d76c0e2b5dae84ad9053267de89b1173e48702037db73ac93f8f08345ec9",
+                "time": 1536028917,
+                "amount": 169954113,
+                "amountUSD": 12511.444220204217
+            }
+        ],
+        "updatedAt": "2021-09-22T20:55:24.809Z",
+        "family": "Ryuk",
+        "balanceUSD": 12515.125050282217
+    },
+    {
+        "address": "1ET85GTps8eFbgF1MvVhFVZQeNp2a6LeGw",
+        "balance": 332500000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:20.356Z",
+        "transactions": [
+            {
+                "hash": "e16451829c60d24bd7f6fa1410d9f145bc4ca821f7f451a605c8b1fc275017b6",
+                "time": 1545242991,
+                "amount": 332500000,
+                "amountUSD": 12455.2860243
+            }
+        ],
+        "updatedAt": "2021-09-22T20:55:24.967Z",
+        "family": "Ryuk",
+        "balanceUSD": 12455.2860243
+    },
+    {
+        "address": "1EoyVz2tbGXWL1sLZuCnSX72eR7Ju6qohH",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:20.443Z",
+        "transactions": [],
+        "updatedAt": "2021-09-22T20:55:25.281Z",
+        "family": "Ryuk",
+        "balanceUSD": 0
+    },
+    {
+        "address": "17zTcgKhF8XkWvkD4Y1N8634Qw37KwYkZT",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:20.529Z",
+        "transactions": [],
+        "updatedAt": "2021-09-22T20:55:25.770Z",
+        "family": "Ryuk",
+        "balanceUSD": 0
+    },
+    {
+        "address": "1CN2iQbBikFK9jM34Nb3WLx5DCenQLnbXp",
+        "balance": 1500000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:20.664Z",
+        "transactions": [
+            {
+                "hash": "6007915c9cc9699e04e82e1fe876f150e1d1d2030e5ddcfc6eb94f6486d4c227",
+                "time": 1534017717,
+                "amount": 1500000000,
+                "amountUSD": 94435.9497
+            }
+        ],
+        "updatedAt": "2021-09-22T20:55:26.171Z",
+        "family": "Ryuk",
+        "balanceUSD": 94435.9497
+    },
+    {
+        "address": "1FRNVupsCyTjUvF36GxHZrvLaPtY6hgkTm",
+        "balance": 3899998590,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:20.706Z",
+        "transactions": [
+            {
+                "hash": "d588f02894c38be00c6e4231bf8eda59c2fd277465e2d59503caa4c14d1376e6",
+                "time": 1541728551,
+                "amount": 500000000,
+                "amountUSD": 31928.100585
+            },
+            {
+                "hash": "d819ae6fc63f5ee487432a203159da41982d9234726ded223b3868a3f87acce6",
+                "time": 1541093928,
+                "amount": 899998590,
+                "amountUSD": 57399.92813830503
+            },
+            {
+                "hash": "6a78f46b9ac3443184e8ea38764eee0c20ad61557deea9acb9d2889e9990d0ad",
+                "time": 1541012479,
+                "amount": 2500000000,
+                "amountUSD": 157940.246575
+            }
+        ],
+        "updatedAt": "2021-09-22T20:55:26.460Z",
+        "family": "Ryuk",
+        "balanceUSD": 247268.27529830503
+    },
+    {
+        "address": "1Jq3WwsaPA7LXwRNYsfySsd8aojdmkFnW",
+        "balance": 3500000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:46:03.268Z",
+        "transactions": [
+            {
+                "hash": "a29c1aaed568aa5d5a263f0249b514d048143208a95ba60e99238c7ed270bcec",
+                "time": 1541038690,
+                "amount": 3500000000,
+                "amountUSD": 223222.292475
+            }
+        ],
+        "updatedAt": "2021-09-22T20:55:26.540Z",
+        "family": "Ryuk",
+        "balanceUSD": 223222.292475
+    },
+    {
+        "address": "17v2cu8RDXhAxufQ1YKiauBq6GGAZzfnFw",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:46:03.312Z",
+        "transactions": [],
+        "updatedAt": "2021-09-22T20:55:26.629Z",
+        "family": "Ryuk",
+        "balanceUSD": 0
+    },
+    {
+        "address": "12N7W9ycLhuck9Q2wT8E6BaN6XzZ4DMLau",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:46:03.551Z",
+        "transactions": [],
+        "updatedAt": "2021-09-22T20:55:27.503Z",
+        "family": "Ryuk",
+        "balanceUSD": 0
+    },
+    {
+        "address": "19AE1YN6Jo8ognKdJQ3xeQQL1mSZyX16op",
+        "balance": 2500000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:46:03.639Z",
+        "transactions": [
+            {
+                "hash": "4b6b580c76cab7e84bc4590b1874877be5f09e655bcb67a6ee5b5809e50c6ffc",
+                "time": 1538418637,
+                "amount": 2500000000,
+                "amountUSD": 164740.502925
+            }
+        ],
+        "updatedAt": "2021-09-22T20:55:28.100Z",
+        "family": "Ryuk",
+        "balanceUSD": 164740.502925
+    },
+    {
+        "address": "15LsUgfnuGc1PsHJPcfLQJEnHm2FnGAgYC",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:46:03.731Z",
+        "transactions": [],
+        "updatedAt": "2021-09-22T20:54:07.905Z",
+        "family": "Ryuk",
+        "balanceUSD": 0
+    },
+    {
+        "address": "162DVnddxsbXeVgdCy66RxEPADPETBGVBR",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:46:03.819Z",
+        "transactions": [],
+        "updatedAt": "2021-09-22T20:55:28.930Z",
+        "family": "Ryuk",
+        "balanceUSD": 0
+    },
+    {
+        "address": "3LE4u2csMS9y1MdfgBZ3pDmnDg7VCtX322",
+        "balance": 9000195545,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-11T21:43:41.139Z",
+        "family": "Ryuk",
+        "transactions": [
+            {
+                "hash": "5a17b28d934a762f98aec5adadbbe82639dfa0bda157a38febcda01f37949474",
+                "time": 1569587176,
+                "amount": 7500100000,
+                "amountUSD": 618896.6795707031
+            },
+            {
+                "hash": "715a5bc13673f9e3c9d23f43497caada3ec3ae149039ddbfba66948151a8eb1e",
+                "time": 1564602326,
+                "amount": 1500095545,
+                "amountUSD": 151294.05526320572
+            }
+        ],
+        "updatedAt": "2021-09-22T20:55:27.158Z",
+        "balanceUSD": 770190.7348339087
+    }
+]

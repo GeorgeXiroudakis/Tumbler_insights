@@ -1,0 +1,25 @@
+[
+    {
+        "address": "1382JAg5xbQv7QNwq1svDeyw6ELtNCmujG",
+        "balance": 115121000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:30:54.977Z",
+        "family": "DMALocker",
+        "transactions": [
+            {
+                "hash": "e09438033e99b78455976cc1b39ae2228dd8ac999a6937e5acfa4b5078900a67",
+                "time": 1451943669,
+                "amount": 55121000,
+                "amountUSD": 238.72409176362999
+            },
+            {
+                "hash": "e84a01ad349599dce060a1db8bf70776cef53c70e11a938897e02a1f9eafaba2",
+                "time": 1451308690,
+                "amount": 60000000,
+                "amountUSD": 253.3673952
+            }
+        ],
+        "updatedAt": "2021-09-11T15:50:06.839Z",
+        "balanceUSD": 492.09148696363
+    }
+]

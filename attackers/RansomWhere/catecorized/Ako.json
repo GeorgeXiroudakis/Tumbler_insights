@@ -1,0 +1,85 @@
+[
+    {
+        "address": "1DUBrMcH9T13oFSa59jxtFDM5eWTP8v2yc",
+        "balance": 366785007,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-08-11T02:19:52.888Z",
+        "family": "Ako",
+        "transactions": [
+            {
+                "hash": "49be83110bc7df11570c2d6ff2ed3d8edad61e27f2d2de625ad1fd55abbc70d0",
+                "time": 1581354459,
+                "amount": 24900000,
+                "amountUSD": 2454.2962206720003
+            },
+            {
+                "hash": "80cc5d1b9cd4c16b82569dba4c513a31f5865f4e7459af9f6bf15aa053aef381",
+                "time": 1581107482,
+                "amount": 20000,
+                "amountUSD": 1.9591886718000002
+            },
+            {
+                "hash": "4e300fbd2914c366ec3e88f7afecfbffd6ea13d3e359058db58c18addf3f3d74",
+                "time": 1581100493,
+                "amount": 47040000,
+                "amountUSD": 4608.0117560736
+            },
+            {
+                "hash": "93319be6e21303ec47d34d611aeb5867e505a25ee58d0d9a3f398870bf69b800",
+                "time": 1580846845,
+                "amount": 50600000,
+                "amountUSD": 4645.567222846
+            },
+            {
+                "hash": "03c4a6a2769128a4b67ff4ce33d71d3edeb8f3cd48c195948410874a873f3068",
+                "time": 1580585353,
+                "amount": 32098356,
+                "amountUSD": 3014.9584561350002
+            },
+            {
+                "hash": "57da827c0b7581e8b8b77c94770d0a6b28217ffb01b5699dbd807ea2ed8a33e6",
+                "time": 1580582559,
+                "amount": 49050000,
+                "amountUSD": 4607.2051875
+            },
+            {
+                "hash": "24cd2c33b8318a7479806f1f9d94c2e36428945145e584800a077acc009f65dc",
+                "time": 1580149709,
+                "amount": 24908607,
+                "amountUSD": 2219.3118828142497
+            },
+            {
+                "hash": "a4a6dd60733dbed9c7b6a846ca4a60eaa6aaa355365fc9c44ac872d1f2d73a2e",
+                "time": 1579994340,
+                "amount": 29000000,
+                "amountUSD": 2426.6758202399997
+            },
+            {
+                "hash": "0d9d2c0288bbd4bcf18ad11e5d42128d935a1b4f50c6f61e1b6451b78d6463d4",
+                "time": 1579992622,
+                "amount": 1000000,
+                "amountUSD": 83.67847656000001
+            },
+            {
+                "hash": "30f2065438ab1497568b93ee16c8ad4dac10aa844872478cc6284c858258c6b2",
+                "time": 1578997068,
+                "amount": 36579501,
+                "amountUSD": 3229.1522576928064
+            },
+            {
+                "hash": "9d3b70ca2ae3e1b6456d1282e424c3fcc5b94c8adf70fd69c1a45b7055a13baa",
+                "time": 1578994176,
+                "amount": 46940000,
+                "amountUSD": 4143.7527257712
+            },
+            {
+                "hash": "8f5d9ed1fc94be8c34d487ebd9029810a84ce39cd2d0d5b4644c1b92fa1dbb0d",
+                "time": 1578885995,
+                "amount": 24648543,
+                "amountUSD": 2007.4252429125245
+            }
+        ],
+        "updatedAt": "2021-09-11T15:59:58.647Z",
+        "balanceUSD": 33441.99443788918
+    }
+]

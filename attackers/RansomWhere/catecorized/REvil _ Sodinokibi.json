@@ -1,0 +1,133 @@
+[
+    {
+        "address": "3BeQ9H5tByJK9CeeZftDsBFhgt1i5Q7AQK",
+        "balance": 38149706,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:11.057Z",
+        "transactions": [
+            {
+                "hash": "1b5a91a603f645688bc26850d0f580a6ce579aba2586d733dac390367cbab95e",
+                "time": 1578591410,
+                "amount": 55000,
+                "amountUSD": 4.333489208950001
+            },
+            {
+                "hash": "d5ef2a9c37406447af4edca3973077d9129960655d0bec4aaecefea642289e53",
+                "time": 1578590102,
+                "amount": 55000,
+                "amountUSD": 4.333489208950001
+            },
+            {
+                "hash": "52d576271c924c34d2b2cf7b9e790bd305eb78f9ae3bb09fb1b93a58c2e58581",
+                "time": 1578587714,
+                "amount": 38039706,
+                "amountUSD": 2997.1755538660104
+            }
+        ],
+        "updatedAt": "2021-09-22T20:54:02.819Z",
+        "family": "REvil / Sodinokibi",
+        "balanceUSD": 3005.8425322839103
+    },
+    {
+        "address": "3L7ECcRBCypxrS5U9Kw9WexcsHmX4wKYz6",
+        "balance": 30100000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:12.304Z",
+        "transactions": [
+            {
+                "hash": "3629b08e3e75195ee97754e5563b6c2cf4669a9c3a963079bc61ecef2df131c1",
+                "time": 1622588932,
+                "amount": 30100000000,
+                "amountUSD": 11042162.660081
+            }
+        ],
+        "updatedAt": "2021-09-22T20:54:08.385Z",
+        "family": "REvil / Sodinokibi",
+        "balanceUSD": 11042162.660081
+    },
+    {
+        "address": "34mMCqo83wc8GeLWjSPeQE8QiY9LKnkNuj",
+        "balance": 129500000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-14T16:48:43.346Z",
+        "family": "REvil / Sodinokibi",
+        "transactions": [
+            {
+                "hash": "0b94e47af9238968542105be79fa8aa099affc4dc45b99b27828e6b4a97008dc",
+                "time": 1622784292,
+                "amount": 129500000,
+                "amountUSD": 47778.256093749995
+            }
+        ],
+        "updatedAt": "2021-09-22T20:55:27.421Z",
+        "balanceUSD": 47778.256093749995
+    },
+    {
+        "address": "3JYLAk26kZPw62W6UD2Jyk5i9jhCAPJjg4",
+        "balance": 600602500,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-14T16:48:43.358Z",
+        "family": "REvil / Sodinokibi",
+        "transactions": [
+            {
+                "hash": "181ea2cc5359d49a46b898040ceb9396a2eca7dbff2046306e0e84c6acb437e2",
+                "time": 1619704582,
+                "amount": 600602500,
+                "amountUSD": 321653.3257839844
+            }
+        ],
+        "updatedAt": "2021-09-22T20:55:28.360Z",
+        "balanceUSD": 321653.3257839844
+    },
+    {
+        "address": "3Jxwt3fmXhUwDNDQ4sWYCgahLGDVjy1SQm",
+        "balance": 1106600000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-14T16:48:43.362Z",
+        "family": "REvil / Sodinokibi",
+        "transactions": [
+            {
+                "hash": "53ee7e07e3cad3b00c5cb0f7af12bf2026721477c78a36be80d55c36721573de",
+                "time": 1622040704,
+                "amount": 1106600000,
+                "amountUSD": 434829.6085574541
+            }
+        ],
+        "updatedAt": "2021-09-22T20:55:28.446Z",
+        "balanceUSD": 434829.6085574541
+    },
+    {
+        "address": "3HTHHMm2YwNdwEDkGc6dRyxxKvByymeVqV",
+        "balance": 767000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-14T16:48:43.371Z",
+        "family": "REvil / Sodinokibi",
+        "transactions": [
+            {
+                "hash": "42d17e29e06ff35970e8105c5d8f7ba3c7946e0018386617a3437ddea9096bbc",
+                "time": 1623434345,
+                "amount": 767000000,
+                "amountUSD": 286354.83601946
+            }
+        ],
+        "updatedAt": "2021-09-22T20:55:29.093Z",
+        "balanceUSD": 286354.83601946
+    },
+    {
+        "address": "3E9F7gE3upQ8rgsPjwiKH7ugfdneypPjqj",
+        "balance": 2526,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-10-12T16:43:37.905Z",
+        "family": "REvil / Sodinokibi",
+        "transactions": [
+            {
+                "hash": "aa7d2a09feed735c066c10375744eb02fc6bad8b75361a879c2976719fb8d599",
+                "time": 1578423396,
+                "amount": 2526,
+                "amountUSD": 0.20621486959458
+            }
+        ],
+        "updatedAt": "2021-10-12T16:43:37.905Z",
+        "balanceUSD": 0.20621486959458
+    }
+]

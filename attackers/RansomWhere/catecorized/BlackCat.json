@@ -1,0 +1,61 @@
+[
+    {
+        "address": "14Q5xgBHAkWxDVrnHautcm4PPGmy5cfw6b",
+        "balance": 140169534466,
+        "blockchain": "bitcoin",
+        "createdAt": "2024-03-12T23:42:28.766Z",
+        "family": "BlackCat",
+        "transactions": [
+            {
+                "hash": "5068651ac1b390aafe45c2477a7fabcbacfe67718b464e5e7c79b89066d52a3d",
+                "time": 1709490501,
+                "amount": 21114800,
+                "amountUSD": 13337.664071755913
+            },
+            {
+                "hash": "0638cde84571c5f14c32909ba9c1e461d6cdc1dc5979e7252e562acef2c26ba8",
+                "time": 1709490486,
+                "amount": 5021136800,
+                "amountUSD": 3171720.1155933966
+            },
+            {
+                "hash": "fc1ec51cba958011fe3f98ecb989e15475b3d45e1b4239013d058e76523fde02",
+                "time": 1709490452,
+                "amount": 10021158800,
+                "amountUSD": 6330102.567115038
+            },
+            {
+                "hash": "e47821201f1da9b2b067082fa31b394485057d4d855c15834f90980deb96dce8",
+                "time": 1709490428,
+                "amount": 15021180800,
+                "amountUSD": 9488485.018636677
+            },
+            {
+                "hash": "fadaef3b685106d21f53176b446dbbbaeda1e4f56d792841298a901b6a699b11",
+                "time": 1709490414,
+                "amount": 20021202800,
+                "amountUSD": 12646867.47015832
+            },
+            {
+                "hash": "45cd1479e907e6187263d121789d3b670ef767d70535404242c3a5696c8c94f8",
+                "time": 1709490398,
+                "amount": 25021224800,
+                "amountUSD": 15805249.921679959
+            },
+            {
+                "hash": "383559d4a8cf4359a748ff7dacff5b0f00d1b161595da39082b2b66a4d43856c",
+                "time": 1709490389,
+                "amount": 30021246800,
+                "amountUSD": 18963632.3732016
+            },
+            {
+                "hash": "9467a41c9c966b0ff990b8b8753dd44f60d7e20ed299c15f77695c40f3df5d27",
+                "time": 1709332823,
+                "amount": 35021268866,
+                "amountUSD": 21867501.89907255
+            }
+        ],
+        "updatedAt": "2024-08-18T15:21:40.907Z",
+        "balanceUSD": 88286897.0295293
+    }
+]

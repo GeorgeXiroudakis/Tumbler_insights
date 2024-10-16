@@ -1,0 +1,59 @@
+[
+    {
+        "address": "1B32S72NM1yv2ctHtNp5ReuKAic6KjPDWu",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:30:55.289Z",
+        "family": "TeslaCrypt",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:50:06.940Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "18Vfp5yaeqJcrQ5dGqYbR8qvfnAznw1oVv",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:30:55.550Z",
+        "family": "TeslaCrypt",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:50:07.118Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "15Y2TmHrxjmRFxfNUttwb9aU4DifvDpWKM",
+        "balance": 10000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:30:55.596Z",
+        "family": "TeslaCrypt",
+        "transactions": [
+            {
+                "hash": "d495d523b8a30c8828ede2f17484c20d9ddf302347f242d22798240f78eb8606",
+                "time": 1426448605,
+                "amount": 10000,
+                "amountUSD": 0.028639300500000003
+            }
+        ],
+        "updatedAt": "2021-09-11T15:50:07.132Z",
+        "balanceUSD": 0.028639300500000003
+    },
+    {
+        "address": "1LUECx65WwPpxWuQvAkPJajJGiknFe5YCw",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:30:55.971Z",
+        "family": "TeslaCrypt",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:50:07.272Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "1NRn15kJnVRrptTSQJJnMD9KJcWkVFh1Gv",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:30:56.436Z",
+        "family": "TeslaCrypt",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:50:07.419Z",
+        "balanceUSD": 0
+    }
+]

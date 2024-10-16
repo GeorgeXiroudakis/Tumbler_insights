@@ -1,0 +1,19 @@
+[
+    {
+        "address": "1HssDyDTZj1hVdwhdpF49wLKLPQoCRJB9T",
+        "balance": 203320001,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:10.848Z",
+        "family": "ComradeCircle",
+        "transactions": [
+            {
+                "hash": "9b094a7e5200a0e68c786b7eeb54a9e5cf5c24331ab34592ddf91a36c397f6ff",
+                "time": 1476807327,
+                "amount": 203320001,
+                "amountUSD": 1297.10032311
+            }
+        ],
+        "updatedAt": "2021-09-11T15:50:06.770Z",
+        "balanceUSD": 1297.10032311
+    }
+]

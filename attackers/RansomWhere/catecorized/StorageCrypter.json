@@ -1,0 +1,25 @@
+[
+    {
+        "address": "1HUqiacJ6F6yLwTeGwohEdgWVuehibEegq",
+        "balance": 78794200,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-08-11T02:19:53.177Z",
+        "family": "StorageCrypter",
+        "transactions": [
+            {
+                "hash": "b846b094a54c786ab3b5e76834ee74859b4ea926e7d7d39a6c286d5953261a76",
+                "time": 1511989317,
+                "amount": 38765300,
+                "amountUSD": 3833.349468783856
+            },
+            {
+                "hash": "abe05baf101c7823dc356ae038a4faa9595c49e268822e9d208f4cd8520e5d3e",
+                "time": 1511878972,
+                "amount": 40028900,
+                "amountUSD": 4026.426915143645
+            }
+        ],
+        "updatedAt": "2021-09-11T15:59:59.039Z",
+        "balanceUSD": 7859.776383927501
+    }
+]

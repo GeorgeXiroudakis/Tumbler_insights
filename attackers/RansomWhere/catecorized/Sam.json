@@ -1,0 +1,25 @@
+[
+    {
+        "address": "1Ha4Y7QegJL2t577XK6nSUdCYAKKQC99sG",
+        "balance": 2900000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:15.074Z",
+        "family": "Sam",
+        "transactions": [
+            {
+                "hash": "0209ed61234c09ecc5eb22755ca31d61ec331e255f3b8a6adfdcd7c32e28a9a1",
+                "time": 1474960305,
+                "amount": 1500000000,
+                "amountUSD": 9092.490240000001
+            },
+            {
+                "hash": "4c6ea9fd824672fec71809758e54c4a4d87904befe64e7796f6116432f6c8dc0",
+                "time": 1474939072,
+                "amount": 1400000000,
+                "amountUSD": 8486.324224
+            }
+        ],
+        "updatedAt": "2021-09-11T15:58:01.475Z",
+        "balanceUSD": 17578.814464000003
+    }
+]

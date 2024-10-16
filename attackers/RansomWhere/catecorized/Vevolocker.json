@@ -1,0 +1,25 @@
+[
+    {
+        "address": "1MjMSV1TSJ5eyAUg4nY98k19FrntRYZ8gm",
+        "balance": 1511395,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-08-11T02:19:52.975Z",
+        "family": "Vevolocker",
+        "transactions": [
+            {
+                "hash": "392f1c4c61a3a12392a6f9a8cc84d1d9a52c227445cb001387d7d1d094224f11",
+                "time": 1510861002,
+                "amount": 97895,
+                "amountUSD": 7.705990867741949
+            },
+            {
+                "hash": "79b66d4517956395da8117832b7d7cbaca9f8239fc8afba9c2f69cb09eb03e31",
+                "time": 1509671521,
+                "amount": 1413500,
+                "amountUSD": 101.88168429241
+            }
+        ],
+        "updatedAt": "2021-09-11T15:59:58.752Z",
+        "balanceUSD": 109.58767516015195
+    }
+]

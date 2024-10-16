@@ -1,0 +1,59 @@
+[
+    {
+        "address": "bc1q7eqww9dmm9p48hx5yz5gcvmncu65w43wfytpsf",
+        "balance": 7500000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:12.393Z",
+        "transactions": [
+            {
+                "hash": "fc78327d4e46dac01dc313067b1ac7f274cdb3a07ea9f28f6f71473145f1b264",
+                "time": 1620494952,
+                "amount": 7499998307,
+                "amountUSD": 4410282.30525205
+            },
+            {
+                "hash": "915fb4f0a030937f2c1d2210996e8eb32b5a41b331965c7ec78961923775bd62",
+                "time": 1620494441,
+                "amount": 1693,
+                "amountUSD": 0.99554795043392
+            }
+        ],
+        "updatedAt": "2021-09-11T15:23:35.545Z",
+        "family": "DarkSide",
+        "balanceUSD": 4410283.3008
+    },
+    {
+        "address": "bc1qjhdw0582hu8sl2l56dyu9l4rk366hhu7j5xpgu",
+        "balance": 520856738,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-14T16:48:43.284Z",
+        "family": "DarkSide",
+        "transactions": [
+            {
+                "hash": "9a79383033811ad7ec2e39846561c9f48f87995b8fdaebe06e1365e6e1a5988c",
+                "time": 1613428514,
+                "amount": 520856738,
+                "amountUSD": 249725.06822489706
+            }
+        ],
+        "updatedAt": "2021-09-22T20:55:21.746Z",
+        "balanceUSD": 249725.06822489706
+    },
+    {
+        "address": "bc1qhq37atw5ldcppf2fd0fsmsmejxkvp2qfy472pq",
+        "balance": 7850000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-09-23T00:11:19.976Z",
+        "family": "DarkSide",
+        "transactions": [
+            {
+                "hash": "72dbd8edc8a56e15be7b5911592407f3608eaf652ee71773f6e47666bd2b2873",
+                "time": 1620766531,
+                "amount": 7850000000,
+                "amountUSD": 4451309.0761915
+            }
+        ],
+        "updatedAt": "2021-09-23T00:11:19.976Z",
+        "balanceUSD": 4451309.0761915
+    }
+]

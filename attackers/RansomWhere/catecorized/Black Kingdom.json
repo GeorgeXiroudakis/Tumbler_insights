@@ -1,0 +1,36 @@
+[
+    {
+        "address": "3MdnThXfyPfjCVihXkbR3i15m4BFN3Rhi7",
+        "balance": 55035000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:19.832Z",
+        "transactions": [
+            {
+                "hash": "d40e9c7e51adb6d183f57895f6b27794526e4b22051298ee73c089def963a7d1",
+                "time": 1583526109,
+                "amount": 55035000,
+                "amountUSD": 5020.593134964301
+            }
+        ],
+        "updatedAt": "2021-09-22T20:55:23.416Z",
+        "family": "Black Kingdom",
+        "balanceUSD": 5020.593134964301
+    },
+    {
+        "address": "1Lf8ZzcEhhRiXpk6YNQFpCJcUisiXb34FT",
+        "balance": 17300000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:20.402Z",
+        "transactions": [
+            {
+                "hash": "58e15fbef61ec133b3a788bd1f583736da9537c50431c512ff29b5720d3efd6b",
+                "time": 1616093390,
+                "amount": 17300000,
+                "amountUSD": 10009.593484375
+            }
+        ],
+        "updatedAt": "2021-09-22T20:55:25.045Z",
+        "family": "Black Kingdom",
+        "balanceUSD": 10009.593484375
+    }
+]

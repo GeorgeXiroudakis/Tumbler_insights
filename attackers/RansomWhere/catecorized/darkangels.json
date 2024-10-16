@@ -1,0 +1,25 @@
+[
+    {
+        "address": "bc1q0wf73xmcqkvrvs7tj49hznxqqgt6tp359gk0az",
+        "balance": 3814012345,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-09-04T16:21:09.028Z",
+        "family": "darkangels",
+        "transactions": [
+            {
+                "hash": "466f2e0a234f5959210b14d40466dfbf367e37fdfb9f10af628dae5297cb5cfc",
+                "time": 1651672776,
+                "amount": 3814000000,
+                "amountUSD": 1514095.8735251601
+            },
+            {
+                "hash": "77ad47850de4c6a95c0e65e8c316685311a82b71d6e12ec99d6230b7a34cb680",
+                "time": 1651653524,
+                "amount": 12345,
+                "amountUSD": 4.9007639115543
+            }
+        ],
+        "updatedAt": "2022-09-04T16:21:09.028Z",
+        "balanceUSD": 1514100.7742890718
+    }
+]

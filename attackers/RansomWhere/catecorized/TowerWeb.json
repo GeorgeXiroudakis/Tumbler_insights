@@ -1,0 +1,31 @@
+[
+    {
+        "address": "1HxkJ3vz2tvpcHgdt9yyY4XivdY9jKkcZH",
+        "balance": 70730028,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:30:59.768Z",
+        "family": "TowerWeb",
+        "transactions": [
+            {
+                "hash": "5d9910a5f25f41b9d22ba2573a022eff487a06c87d261d3f3953f156406aef97",
+                "time": 1466828982,
+                "amount": 17780028,
+                "amountUSD": 118.25905314523608
+            },
+            {
+                "hash": "5001ce458a5ce5d6813ea0b0b1162e68c30937969d69dded70cd9d514c7dedde",
+                "time": 1466460235,
+                "amount": 10950000,
+                "amountUSD": 80.7262484235
+            },
+            {
+                "hash": "01f08c8fcbb2d4db42c2da1d9f21d2cdcab15f2d61a3273c959b0241d661c828",
+                "time": 1461954596,
+                "amount": 42000000,
+                "amountUSD": 191.1407337
+            }
+        ],
+        "updatedAt": "2021-09-11T15:50:08.569Z",
+        "balanceUSD": 390.1260352687361
+    }
+]

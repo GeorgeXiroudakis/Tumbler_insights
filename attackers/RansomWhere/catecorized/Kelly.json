@@ -1,0 +1,19 @@
+[
+    {
+        "address": "1FuPAucXqBXvhzzXguCyQAH7AbGHg6xfrM",
+        "balance": 5000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-09-06T16:01:20.598Z",
+        "family": "Kelly",
+        "transactions": [
+            {
+                "hash": "ba2ff832a3e6dc83484251f72bd80f27103df5c6d648f8337d14a8ae95c69ffe",
+                "time": 1599646028,
+                "amount": 5000000,
+                "amountUSD": 512.1173828
+            }
+        ],
+        "updatedAt": "2021-09-11T15:59:59.101Z",
+        "balanceUSD": 512.1173828
+    }
+]

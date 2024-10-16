@@ -1,0 +1,22 @@
+[
+    {
+        "address": "19oLXZPUirBimZQ3jLviDMRzF9NAZDjG8K",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:14.471Z",
+        "family": "Globev2",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:50:07.833Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "1KCGP2CLEhBxxfHtNE4dE4SZduxmjRuUR7",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:15.682Z",
+        "family": "Globev2",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:58:01.657Z",
+        "balanceUSD": 0
+    }
+]

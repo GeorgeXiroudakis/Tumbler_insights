@@ -1,0 +1,19 @@
+[
+    {
+        "address": "18AVPLKGBamXtGpdT3kP2b5Dv3iBUDpjKv",
+        "balance": 200000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:30:59.660Z",
+        "family": "CryptoHost",
+        "transactions": [
+            {
+                "hash": "c518ce957da6c3378ade0fbfe899162c53ee8ddb728bd8bb95752e48e5ffed49",
+                "time": 1465733312,
+                "amount": 200000,
+                "amountUSD": 1.345567994
+            }
+        ],
+        "updatedAt": "2021-09-11T15:50:08.488Z",
+        "balanceUSD": 1.345567994
+    }
+]

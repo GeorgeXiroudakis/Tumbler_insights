@@ -1,0 +1,895 @@
+[
+    {
+        "address": "14ggugtbDt7fkNKr9DwrSU95fzJdKWjubP",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:10.773Z",
+        "family": "SamSam",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:57:59.938Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "13R8c99CsCMr7iz73NYYEWjsEqYp9fLtdt",
+        "balance": 3800000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:10.901Z",
+        "family": "SamSam",
+        "transactions": [
+            {
+                "hash": "6f126e165445349c1186823f098c7b048c5596ea3e9082e76d6022d5db948901",
+                "time": 1478640367,
+                "amount": 1000000000,
+                "amountUSD": 7098.48022
+            },
+            {
+                "hash": "329b4cfbe2463fd5c40439589308e710a12bcbda19befd9f61004ddeef56d075",
+                "time": 1478574125,
+                "amount": 1400000000,
+                "amountUSD": 9937.872308
+            },
+            {
+                "hash": "ec83bbfc2dd0b51dd53207ec668ffea3fe872b89b2703b179a080fa8191868be",
+                "time": 1478546681,
+                "amount": 1400000000,
+                "amountUSD": 9843.833734
+            }
+        ],
+        "updatedAt": "2021-09-11T15:57:59.989Z",
+        "balanceUSD": 26880.186262
+    },
+    {
+        "address": "1Gmjyb9wd6Ju9phn5tREmLYwPsPFusqEx6",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:11.673Z",
+        "family": "SamSam",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:58:00.139Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "1D6KWQmrVPG7ordHPkAs9J11mYd23Qq3L3",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:11.769Z",
+        "family": "SamSam",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:58:00.165Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "1GWQv1LmYCVk6cKikarV2hC6RJBULZ26am",
+        "balance": 2970000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:11.814Z",
+        "family": "SamSam",
+        "transactions": [
+            {
+                "hash": "50ac13f963b09c5bc95f30d09f70a28f52a7f630dd966b34e4612b18992f6c38",
+                "time": 1486560208,
+                "amount": 170000000,
+                "amountUSD": 1807.2189082
+            },
+            {
+                "hash": "f9545dc8b3564ee25b813ae80baa780b99ac9e3b8744974fe34fc0a9ef64ebbc",
+                "time": 1485910068,
+                "amount": 2800000000,
+                "amountUSD": 27692.64428
+            }
+        ],
+        "updatedAt": "2021-09-11T15:58:00.191Z",
+        "balanceUSD": 29499.8631882
+    },
+    {
+        "address": "15gbE7z9cbxg5Gvh2rDFPdU1a1VLu9rnBa",
+        "balance": 2800000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:12.114Z",
+        "family": "SamSam",
+        "transactions": [
+            {
+                "hash": "70448a3a3214cf1f9f565560d20a7eaf952868563f3a1ff9f557028e46dc8390",
+                "time": 1478945209,
+                "amount": 1400000000,
+                "amountUSD": 9870.756224
+            },
+            {
+                "hash": "25962540507931160d20caf21ca89bd0c779f54501adc31a132077a152a1905e",
+                "time": 1478877918,
+                "amount": 1400000000,
+                "amountUSD": 10029.754154
+            }
+        ],
+        "updatedAt": "2021-09-11T15:58:00.282Z",
+        "balanceUSD": 19900.510378
+    },
+    {
+        "address": "152YUceczz6wUrqpxetyoRZBMQuitfZw3F",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:12.399Z",
+        "family": "SamSam",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:58:00.322Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "19iq6bKkGBrzBr3puVDv1j8zRNchTjGwy5",
+        "balance": 2770000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:12.955Z",
+        "family": "SamSam",
+        "transactions": [
+            {
+                "hash": "7761c7bdc17b5a42f26635f30fbec308afb1fd8d995d5d2b8f39610cab7051b8",
+                "time": 1481586811,
+                "amount": 1300000000,
+                "amountUSD": 10141.130675
+            },
+            {
+                "hash": "5b64ca84dbf9f22af1fc9a606c1486a04adacd894b4b2e0e84ebcd2fda03c2a7",
+                "time": 1481580314,
+                "amount": 1300000000,
+                "amountUSD": 10141.130675
+            },
+            {
+                "hash": "c3b1152b383864b6c26f4c2655e67062e9b1068c3118227f03b16b4dbe94cd01",
+                "time": 1481305881,
+                "amount": 170000000,
+                "amountUSD": 1313.7498102
+            }
+        ],
+        "updatedAt": "2021-09-11T15:58:00.669Z",
+        "balanceUSD": 21596.0111602
+    },
+    {
+        "address": "156Sfpz3eu615fjjhHZ3cH1czkj7i1bTRZ",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:13.239Z",
+        "family": "SamSam",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:58:00.774Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "115XeVa3r6bRzSZ55RAbzL3GCiVTXeKsDP",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:13.376Z",
+        "family": "SamSam",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:58:00.812Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "16VckpWyEzDCC7zD2uGTwjYAVXE3EZctBY",
+        "balance": 2972800000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:13.828Z",
+        "family": "SamSam",
+        "transactions": [
+            {
+                "hash": "148bd9a839973ba358cd78b6189ccc78852dda60285ca2e8a71ccef587abb782",
+                "time": 1485420260,
+                "amount": 2800000000,
+                "amountUSD": 25692.407972
+            },
+            {
+                "hash": "9397120d8bae3f2a468b30ed3918df24874e85bbdf032bd9ddb42b6790824bde",
+                "time": 1485420260,
+                "amount": 2800000,
+                "amountUSD": 25.692407972
+            },
+            {
+                "hash": "7d035d74b96746a398fc20547096f59a807ae02fefc38782a19d57b2060ce7c4",
+                "time": 1485261183,
+                "amount": 170000000,
+                "amountUSD": 1517.5679203999998
+            }
+        ],
+        "updatedAt": "2021-09-11T15:58:00.982Z",
+        "balanceUSD": 27235.668300372003
+    },
+    {
+        "address": "19CbDoaZDLTzkkT1uQrMPM42AUvfQN4Kds",
+        "balance": 200097091,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:13.876Z",
+        "family": "SamSam",
+        "transactions": [
+            {
+                "hash": "d87d0919b4b626f0ad14786971e287793cecf8b37c1951ffbc3643d6140f3d42",
+                "time": 1453485712,
+                "amount": 7091,
+                "amountUSD": 0.027122508003639998
+            },
+            {
+                "hash": "167c2561919fc2e50adc037229958c1f524fb1f97b0a48a8cc30cb5cecb37c6a",
+                "time": 1453473356,
+                "amount": 100000000,
+                "amountUSD": 382.492004
+            },
+            {
+                "hash": "6d8d78eb991f4d504109e5eb039a943d3b40b0f703888d4cf164714cf4d9c88d",
+                "time": 1452775973,
+                "amount": 90000,
+                "amountUSD": 0.3872754
+            },
+            {
+                "hash": "44db26393e732d002c3e78e1935fe54db0cb852b063949166cbce49bf9caf704",
+                "time": 1452654946,
+                "amount": 100000000,
+                "amountUSD": 432.371002
+            }
+        ],
+        "updatedAt": "2021-09-11T15:58:00.998Z",
+        "balanceUSD": 815.2774039080036
+    },
+    {
+        "address": "1G8CNAevnbz4iu2PUGMU65FyoNgZeNVYQY",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:15.300Z",
+        "family": "SamSam",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:58:01.508Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "13Tdj8ER4kFggUPxiHjFSqPk6KTNSLNi99",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:15.495Z",
+        "family": "SamSam",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:58:01.560Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "1HCvm76tKdTEHfrsVBGm3hiPRHCSHTVLf8",
+        "balance": 2800000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:15.637Z",
+        "family": "SamSam",
+        "transactions": [
+            {
+                "hash": "eb99e11621d4e9837a2f67ed73e402fa3220250d5f11b834f378381c2ea0d111",
+                "time": 1482382726,
+                "amount": 2800000000,
+                "amountUSD": 24207.119384
+            }
+        ],
+        "updatedAt": "2021-09-11T15:58:01.614Z",
+        "balanceUSD": 24207.119384
+    },
+    {
+        "address": "14UKG6AFQCsch2iJVsZKrDMxTEbkj2cdPP",
+        "balance": 170000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:15.741Z",
+        "family": "SamSam",
+        "transactions": [
+            {
+                "hash": "f2f21eaece06b5102700cd18546934c5038fc312171aa02ac8d0958ac7d27e83",
+                "time": 1482384885,
+                "amount": 170000000,
+                "amountUSD": 1469.7179626
+            }
+        ],
+        "updatedAt": "2021-09-11T15:58:01.676Z",
+        "balanceUSD": 1469.7179626
+    },
+    {
+        "address": "12Z7QctstwkxxfWdrFJs1oEpDLT3jpqcPq",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:15.845Z",
+        "family": "SamSam",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:58:01.706Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "1597m4mvFKvhcTHFDyqHqsSCgkMthK34kw",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:15.941Z",
+        "family": "SamSam",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:58:01.760Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "1CMJGvv6usQ5tz4z8miDngQeRzrgvBuz8H",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:16.038Z",
+        "family": "SamSam",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:58:01.809Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "1DqU3NwULyDYKSSYeo42WSTQXRm2dPRQJ1",
+        "balance": 2800000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:16.179Z",
+        "family": "SamSam",
+        "transactions": [
+            {
+                "hash": "bd8649174f9d36c8ca4984deb3653ee873ca8cc19d3a6090920b3c00959c8753",
+                "time": 1481129531,
+                "amount": 1400000000,
+                "amountUSD": 10753.848266
+            },
+            {
+                "hash": "741d7573406f7a4425b1a0d1f1c2592608ea0a94ebcd379bd87a48ac675ef4de",
+                "time": 1481087661,
+                "amount": 1400000000,
+                "amountUSD": 10753.848266
+            }
+        ],
+        "updatedAt": "2021-09-11T15:58:01.922Z",
+        "balanceUSD": 21507.696532
+    },
+    {
+        "address": "193D1yarHanBhTETzvEAZ7qxnTzgD2Pqor",
+        "balance": 2800000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:16.292Z",
+        "family": "SamSam",
+        "transactions": [
+            {
+                "hash": "ddf997c6216ad3ad9aef7290d36070f4ab62b144ab2aa94367f2d7f975c7b65e",
+                "time": 1483638217,
+                "amount": 1400000000,
+                "amountUSD": 14187.32007
+            },
+            {
+                "hash": "0bed1537b8f202502b5f6c0deb8a13475b86b6537715f7676e7bed7394f71cd7",
+                "time": 1483626975,
+                "amount": 1400000000,
+                "amountUSD": 14187.32007
+            }
+        ],
+        "updatedAt": "2021-09-11T15:58:01.957Z",
+        "balanceUSD": 28374.64014
+    },
+    {
+        "address": "1Fe8bA251AQwLkoiz1UWEfYT4mF3XX2VL5",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:16.345Z",
+        "family": "SamSam",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:58:01.971Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "1KPYskd2ThsgQs3mjDY869V5oT9SWtAjru",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:16.537Z",
+        "family": "SamSam",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:58:02.037Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "1Fom8GLdBzZL9dMTipd98AWHMRvZ42pYqi",
+        "balance": 2899975725,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:16.632Z",
+        "family": "SamSam",
+        "transactions": [
+            {
+                "hash": "e9677abf71aebd560cef0d1b625a06bf3e7cc2028a35124b48a91487d5583e1a",
+                "time": 1474731875,
+                "amount": 1364975725,
+                "amountUSD": 8225.68496278125
+            },
+            {
+                "hash": "c104c99490d8623595edf489ff578bd5306d803014d38c434eae0d134d69743d",
+                "time": 1474726352,
+                "amount": 1365000000,
+                "amountUSD": 8225.831250000001
+            },
+            {
+                "hash": "28edb947840b0355b2a43e33de3e58f60f60ca1cb423449262eed19f6923b87b",
+                "time": 1474659141,
+                "amount": 170000000,
+                "amountUSD": 1024.8313660000001
+            }
+        ],
+        "updatedAt": "2021-09-11T15:58:02.054Z",
+        "balanceUSD": 17476.34757878125
+    },
+    {
+        "address": "15uXkNgYwUTEtDQSLG4WT9B3zwckXoLXY4",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:28.032Z",
+        "family": "SamSam",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:58:00.059Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "1Lmio7ee8nBk98ZWBEWi98NL3qBCWvshuJ",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:28.112Z",
+        "family": "SamSam",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:58:00.079Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "1KzVLJcZky4wDjhCKjJiS8HnxurGusjCnG",
+        "balance": 2200000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:28.222Z",
+        "family": "SamSam",
+        "transactions": [
+            {
+                "hash": "354d4a03636bce0ccf279afaad956472c15162ae870f5a6c880e96fb697a8d9a",
+                "time": 1489246242,
+                "amount": 1100000000,
+                "amountUSD": 12934.129516
+            },
+            {
+                "hash": "7d51698a289358e1c909992bcaa8630b32bafa5cdf490f305389d3f747cb774e",
+                "time": 1489207012,
+                "amount": 1100000000,
+                "amountUSD": 12934.129516
+            }
+        ],
+        "updatedAt": "2021-09-11T15:58:00.124Z",
+        "balanceUSD": 25868.259032
+    },
+    {
+        "address": "19XJ6o45oDizxm5dHnHUbYkjro77vno6X7",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:28.360Z",
+        "family": "SamSam",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:58:00.219Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "1NHgHGYm2f5Acu4XC17EKoMLDAHC5143G8",
+        "balance": 1205000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:28.408Z",
+        "family": "SamSam",
+        "transactions": [
+            {
+                "hash": "3df536b46aa7a7d3cb60ddce966f63aad5311fc7baa3cd3456bc6b6a6dc8260b",
+                "time": 1496754284,
+                "amount": 1205000000,
+                "amountUSD": 34501.559409550006
+            }
+        ],
+        "updatedAt": "2021-09-11T15:58:00.339Z",
+        "balanceUSD": 34501.559409550006
+    },
+    {
+        "address": "1996kabPqs9MPuuVHnvjguee9t18H7QYYJ",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:28.452Z",
+        "family": "SamSam",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:58:00.371Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "1K39qMN5YDnGLzcCE5hcm1eoCckNNDWWy",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:28.495Z",
+        "family": "SamSam",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:58:00.729Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "1DA1gyQNpCRM1292nV3xY53tkDzeJ7SgZ4",
+        "balance": 170000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:28.542Z",
+        "family": "SamSam",
+        "transactions": [
+            {
+                "hash": "26e04f7d5757b788774bd67118a2a2b6238bdd7d5a002983e4929ba6047a8f12",
+                "time": 1481247900,
+                "amount": 170000000,
+                "amountUSD": 1313.7498102
+            }
+        ],
+        "updatedAt": "2021-09-11T15:58:00.747Z",
+        "balanceUSD": 1313.7498102
+    },
+    {
+        "address": "1LPM3qWFNdCgdEJSqG7rf6JQFMRuZ9gh7a",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:28.588Z",
+        "family": "SamSam",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:58:00.824Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "1KTTcnF5246KGt3wXA6iWMJ49Zr1HdYmTV",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:28.632Z",
+        "family": "SamSam",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:58:00.870Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "17e4voMLsoMW8x8T5ACYzBYHjMnMQZ2J6G",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:28.683Z",
+        "family": "SamSam",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:58:00.887Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "1F2K3zxpjTWDL7aBt497cVqUJUG3G85rkE",
+        "balance": 1200000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:28.730Z",
+        "family": "SamSam",
+        "transactions": [
+            {
+                "hash": "1b807b25e17adf429f4774769082f896973eb677e4d60b5657b0630e7520dfe9",
+                "time": 1497915866,
+                "amount": 600000000,
+                "amountUSD": 15537.600588
+            },
+            {
+                "hash": "8ecbde4b4469de74ced1998ac66053ff5def94dd404aba63393e55014dd178aa",
+                "time": 1497814132,
+                "amount": 600000000,
+                "amountUSD": 15289.740234
+            }
+        ],
+        "updatedAt": "2021-09-11T15:58:00.933Z",
+        "balanceUSD": 30827.340822
+    },
+    {
+        "address": "15zpJyi4DaqRhTS2PRDHt4z1WQiGm5gsMZ",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:28.778Z",
+        "family": "SamSam",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:58:01.012Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "1DcCFq3n5ptvxZpCD485sHX2EJmpCBK3Ds",
+        "balance": 2400000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:28.825Z",
+        "family": "SamSam",
+        "transactions": [
+            {
+                "hash": "38cfc522a98d44d1e881527a760a0e821229669d93d216103d9d73d67ccdba34",
+                "time": 1490564838,
+                "amount": 1200000000,
+                "amountUSD": 11600.699712
+            },
+            {
+                "hash": "1508767e58c356f391cd45d95a213f7045db69d0b60434f6458eae964ac66c7d",
+                "time": 1490546702,
+                "amount": 1200000000,
+                "amountUSD": 11600.699712
+            }
+        ],
+        "updatedAt": "2021-09-11T15:58:01.028Z",
+        "balanceUSD": 23201.399424
+    },
+    {
+        "address": "1Ar31oJp7ALcErh61KGiu18WsmjWpHc9pi",
+        "balance": 1470000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:28.929Z",
+        "family": "SamSam",
+        "transactions": [
+            {
+                "hash": "c6999fe6aee81af2a1eb53baf029858d9438e3adec7c1716da34acc84e7f74c4",
+                "time": 1481591181,
+                "amount": 1300000000,
+                "amountUSD": 10147.22839
+            },
+            {
+                "hash": "0543b162646bbe82461a7cfdbe2f37103228e55f2d0b9c88177ebda621a9aca9",
+                "time": 1481276390,
+                "amount": 170000000,
+                "amountUSD": 1313.7498102
+            }
+        ],
+        "updatedAt": "2021-09-11T15:58:01.136Z",
+        "balanceUSD": 11460.9782002
+    },
+    {
+        "address": "1DxYrRu3fkqj2iLjL4a55e4n3bWAF9mBNU",
+        "balance": 1100000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:29.022Z",
+        "family": "SamSam",
+        "transactions": [
+            {
+                "hash": "3b248d1bc74782cab4b14bb0300582af11400006edc0c9259e5f679c3e82f19f",
+                "time": 1498864751,
+                "amount": 1100000000,
+                "amountUSD": 27289.240968
+            }
+        ],
+        "updatedAt": "2021-09-11T15:58:01.534Z",
+        "balanceUSD": 27289.240968
+    },
+    {
+        "address": "18jhFWgSeXDqbhmb6HxBbGB6bu28tBUMxD",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:29.265Z",
+        "family": "SamSam",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:58:01.779Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "1Mr3hCCa99QWPHuidFviEbiXtpWRviAXEW",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:29.315Z",
+        "family": "SamSam",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:58:01.793Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "1pCaYWsQnbpARBJqkvgE9eEHdZnCMAJxG",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:29.359Z",
+        "family": "SamSam",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:58:01.824Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "1A1rUVvjVLWvUeBNHbxyur9ebs3p8UTKjL",
+        "balance": 3800000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:29.406Z",
+        "family": "SamSam",
+        "transactions": [
+            {
+                "hash": "892a8820a4f53b8d243a0262b5899f89bc1f08525890bbcf1b3dd8c08773b94e",
+                "time": 1467315677,
+                "amount": 3120000000,
+                "amountUSD": 21008.11362
+            },
+            {
+                "hash": "9cfc806e0c0e6209ca524257d228b52fbd3373954e9c34b3fcf8f4e941888568",
+                "time": 1467280839,
+                "amount": 340000000,
+                "amountUSD": 2289.345715
+            },
+            {
+                "hash": "36777ba4f291da170d5b39613733018e93bf360eadcd88eceb7764317fecd504",
+                "time": 1467272976,
+                "amount": 340000000,
+                "amountUSD": 2289.345715
+            }
+        ],
+        "updatedAt": "2021-09-11T15:58:01.841Z",
+        "balanceUSD": 25586.80505
+    },
+    {
+        "address": "1KwgwwWdoL9VFcg9VuCDGBiVZ2LNzGnrov",
+        "balance": 5950000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-08-11T02:18:10.507Z",
+        "family": "SamSam",
+        "transactions": [
+            {
+                "hash": "6ae3b2dce8354da5676764307132a23ea8bbd55e8d2a09ff4098889b7544ed7e",
+                "time": 1455023895,
+                "amount": 799990000,
+                "amountUSD": 3008.1943331008
+            },
+            {
+                "hash": "bd54a2bc9ef5bba10592b1992f5d27087967143125ae9421c14fd218f81afc33",
+                "time": 1454969419,
+                "amount": 1800000000,
+                "amountUSD": 6722.045838
+            },
+            {
+                "hash": "3500c294089f4427eebaee194e385a0f975fd1f59072fd43e7037141fed2e8ef",
+                "time": 1454948403,
+                "amount": 20000,
+                "amountUSD": 0.0746893982
+            },
+            {
+                "hash": "0e6d9c810817b0e21a960aa320f3370b7ed4ef10e3b6d80c3bb53c08ffac7227",
+                "time": 1454948017,
+                "amount": 1149990000,
+                "amountUSD": 4294.6030518009
+            },
+            {
+                "hash": "25aaedb4e1433f0bb615b1d9b2de84e799218610fa53990e185849a429f79ae0",
+                "time": 1454891952,
+                "amount": 2200000000,
+                "amountUSD": 8215.833802000001
+            }
+        ],
+        "updatedAt": "2021-09-11T15:58:00.428Z",
+        "balanceUSD": 22240.751714299902
+    },
+    {
+        "address": "136hcUpNwhpKQQL7iXXWmwUnikX7n98xsL",
+        "balance": 342080000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-08-11T02:18:11.172Z",
+        "family": "SamSam",
+        "transactions": [
+            {
+                "hash": "b0240616ff45dd7b7ac7146b7aad002d93c842f08e43d36c3bca1f23e0f2d237",
+                "time": 1457998615,
+                "amount": 80000,
+                "amountUSD": 0.33315039040000005
+            },
+            {
+                "hash": "567d03e9e5fe9213b096c70ea5d982a3d7d4305bf98373113816594ee10d2d5e",
+                "time": 1457973814,
+                "amount": 171000000,
+                "amountUSD": 712.1089594800001
+            },
+            {
+                "hash": "762e58abf6bb813c54f55b21b6035b0b6d3d1c35954275ad15726174878f610c",
+                "time": 1457906423,
+                "amount": 171000000,
+                "amountUSD": 708.05115342
+            }
+        ],
+        "updatedAt": "2021-09-11T15:58:01.163Z",
+        "balanceUSD": 1420.4932632904001
+    },
+    {
+        "address": "1JnxLRQSHkCw5aEhu5VQptUq4XmxntAvL2",
+        "balance": 1100020000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-08-11T02:18:11.852Z",
+        "family": "SamSam",
+        "transactions": [
+            {
+                "hash": "3f1d4b0913a53c66bc74c94fc05029669e0190f18502564524a4cd4b012133f7",
+                "time": 1453286436,
+                "amount": 10000,
+                "amountUSD": 0.0420230011
+            },
+            {
+                "hash": "d7bfab85043e2983d06a7a3411d995e32591ea35eada000cdc8cf1be38e43380",
+                "time": 1453042372,
+                "amount": 100000000,
+                "amountUSD": 382.299011
+            },
+            {
+                "hash": "02439716db9efd2bfa440139035eb66e7266bf0d8abddd9bdc794ab728b8e899",
+                "time": 1452774012,
+                "amount": 20000,
+                "amountUSD": 0.0860612
+            },
+            {
+                "hash": "71dd3b1add3b1a26ceba5d9850bda0b912da53f6b85ec10abec57d62717efbd6",
+                "time": 1452772212,
+                "amount": 99990000,
+                "amountUSD": 430.2629694
+            },
+            {
+                "hash": "1dce0d2c79a695fa4b1aa31ac72c65423e9f3cf947ff4bf5fc63dc7f21e8ea5d",
+                "time": 1452739595,
+                "amount": 100000000,
+                "amountUSD": 430.306
+            },
+            {
+                "hash": "751018a1eb08a7d32a94ae116adf5721732cae3962f94ebd24fcd98010a7c40e",
+                "time": 1452738626,
+                "amount": 100000000,
+                "amountUSD": 430.306
+            },
+            {
+                "hash": "731ae14873769264c8b5aa08b1923bfd429746d559fe5c99ba5be78ffd7b958a",
+                "time": 1452738626,
+                "amount": 100000000,
+                "amountUSD": 430.306
+            },
+            {
+                "hash": "e679db7fd9404773c90bc07e9493ff0a2ad4a70766c36f72b4b3368d5a0c1b06",
+                "time": 1452738626,
+                "amount": 100000000,
+                "amountUSD": 430.306
+            },
+            {
+                "hash": "d4bebfcf52683ff78eefcffbe24ab904ba7ee6d4c0aebda9b8905dac687f60cf",
+                "time": 1452735215,
+                "amount": 100000000,
+                "amountUSD": 430.306
+            },
+            {
+                "hash": "1cfe178d5cd0fa143f3dc2c1e9e7e416f95d3804ea1e68b7767875fb493e2e60",
+                "time": 1452735215,
+                "amount": 100000000,
+                "amountUSD": 430.306
+            },
+            {
+                "hash": "8f9e7e0aadc5e61cceaad4ac12687b61555861a26415b20712391b06f596fbfb",
+                "time": 1452728969,
+                "amount": 100000000,
+                "amountUSD": 432.371002
+            },
+            {
+                "hash": "d192db6e9b78f58a1427a2ec411ba948d1f53a2f5cd7784bf78a7301d4534c46",
+                "time": 1452728457,
+                "amount": 100000000,
+                "amountUSD": 432.371002
+            },
+            {
+                "hash": "0f18d395adc49215cf58a5d24ef3ce45873644b0e3fb4c6ba6a077a01820b00e",
+                "time": 1452643505,
+                "amount": 100000000,
+                "amountUSD": 432.371002
+            }
+        ],
+        "updatedAt": "2021-09-11T15:58:01.939Z",
+        "balanceUSD": 4691.6390706011
+    },
+    {
+        "address": "1ETLG9xnFwZ1H9xaHz6u4MX8KYvWJesMab",
+        "balance": 2200451000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-08-11T02:18:11.911Z",
+        "family": "SamSam",
+        "transactions": [
+            {
+                "hash": "5404a59f1d8861c40c4366eb8a672031dec8eae035f21b9339822dcf7ad335da",
+                "time": 1456356691,
+                "amount": 220500,
+                "amountUSD": 0.937025746335
+            },
+            {
+                "hash": "bc429290ccd2aabd60ce7f1a16262d2223e60301ad57667c373f41c67a86abb4",
+                "time": 1456266047,
+                "amount": 2050000000,
+                "amountUSD": 8625.087836
+            },
+            {
+                "hash": "822ef9e54fc67c2df9eba3bc1ba7a5eba730239180577331e54be78b76aa9913",
+                "time": 1456118351,
+                "amount": 150000000,
+                "amountUSD": 656.621979
+            },
+            {
+                "hash": "02b551febcf81eaa553a9e25ccf0a2a5cf8e6d0e11ef3caccf239f742ee6d482",
+                "time": 1456081935,
+                "amount": 230500,
+                "amountUSD": 1.01142939922
+            }
+        ],
+        "updatedAt": "2021-09-11T15:58:02.005Z",
+        "balanceUSD": 9283.658270145554
+    }
+]

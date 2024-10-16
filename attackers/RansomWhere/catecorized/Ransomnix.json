@@ -1,0 +1,61 @@
+[
+    {
+        "address": "1VirusnmipsYSA5jMv8NKstL8FkVjNB9o",
+        "balance": 252704157,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-08-11T02:19:53.123Z",
+        "family": "Ransomnix",
+        "transactions": [
+            {
+                "hash": "8d3c6f8eb92ef5a3f19322602406435657358ff3b0bf701f7506d0c0aa388936",
+                "time": 1530719242,
+                "amount": 4995360,
+                "amountUSD": 329.571363939048
+            },
+            {
+                "hash": "23d2911951180e131f8d664269b18020f6714fe343cbeb41bb3a6b00b525fe5f",
+                "time": 1530715093,
+                "amount": 19993171,
+                "amountUSD": 1319.0594143238166
+            },
+            {
+                "hash": "40894193076c735b20e370beca651152f6d734979fdec949bc846402e0075a83",
+                "time": 1524233482,
+                "amount": 468702,
+                "amountUSD": 41.46058249218756
+            },
+            {
+                "hash": "789bf4baa4f1ca4b071634f1ddb91e1da5144d2d87087849ecd9046eb8e2f4f5",
+                "time": 1523439098,
+                "amount": 5176004,
+                "amountUSD": 360.680512823033
+            },
+            {
+                "hash": "81bac5420c241ae56b819bbb9faeeffb1a4b4f6249cdb8ae8d1fbd82345a3bb6",
+                "time": 1523294551,
+                "amount": 20000000,
+                "amountUSD": 1354.1459960000002
+            },
+            {
+                "hash": "a9900d4a3ce8147e47088f216bf24f34c813bbac0e185e86df271c6eaf65dc94",
+                "time": 1511448445,
+                "amount": 43373650,
+                "amountUSD": 3486.70797277973
+            },
+            {
+                "hash": "be3614fefcc1ef923fde7389d7905e4d53582392cd420d36a9ccaa8c1d0158a5",
+                "time": 1511292643,
+                "amount": 78726270,
+                "amountUSD": 6354.201755782528
+            },
+            {
+                "hash": "1e43e82b5c57dcb6da7c2c157b6dbec95589adce8d329911442beb6b84f0fae1",
+                "time": 1511260944,
+                "amount": 79971000,
+                "amountUSD": 6454.667147467861
+            }
+        ],
+        "updatedAt": "2021-09-11T15:59:58.922Z",
+        "balanceUSD": 19700.4947456082
+    }
+]

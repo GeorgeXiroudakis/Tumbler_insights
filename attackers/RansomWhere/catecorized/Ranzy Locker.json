@@ -1,0 +1,19 @@
+[
+    {
+        "address": "17PPcJsY6aSmmjFnshiBEEp6kgct8G7wuU",
+        "balance": 21000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-14T20:00:03.391Z",
+        "family": "Ranzy Locker",
+        "transactions": [
+            {
+                "hash": "26c0cf261bcf8787c0d191d6f3d56cf21857a6de8b7f7907c9c96dbba49e0dce",
+                "time": 1614367800,
+                "amount": 21000000,
+                "amountUSD": 9731.34996099
+            }
+        ],
+        "updatedAt": "2021-09-22T20:55:27.240Z",
+        "balanceUSD": 9731.34996099
+    }
+]

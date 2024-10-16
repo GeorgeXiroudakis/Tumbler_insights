@@ -1,0 +1,19 @@
+[
+    {
+        "address": "1DGMeKSALSkYGkedYDUgcvV8mP77WEGusQ",
+        "balance": 200000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-08-11T02:19:52.813Z",
+        "family": "Ecovector",
+        "transactions": [
+            {
+                "hash": "d5b1e475b6da416a18e8f3acbc69cbdc485c42fb30e49c2a7711e5d7b8fbbfcc",
+                "time": 1463833693,
+                "amount": 200000000,
+                "amountUSD": 886.375976
+            }
+        ],
+        "updatedAt": "2021-09-11T15:59:58.561Z",
+        "balanceUSD": 886.375976
+    }
+]

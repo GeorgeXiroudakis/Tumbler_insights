@@ -1,0 +1,105 @@
+[
+    {
+        "address": "bc1qandfxc4knaf943njca77edl9mmegzs83tv8lpx",
+        "balance": 241407011,
+        "blockchain": "bitcoin",
+        "createdAt": "2023-09-23T21:24:25.125Z",
+        "family": "Akira",
+        "transactions": [
+            {
+                "hash": "69eaee0c9aa554d6aff944ad6ca010613751223fcee0ad6a19c044b97143d53e",
+                "time": 1689267029,
+                "amount": 241407011,
+                "amountUSD": 75985.38865657532
+            }
+        ],
+        "updatedAt": "2024-02-17T03:23:35.952Z",
+        "balanceUSD": 75985.38865657532
+    },
+    {
+        "address": "bc1qr0pqfghr9cksfc5arr2rak3lt2y50v03pc76nh",
+        "balance": 3855847013,
+        "blockchain": "bitcoin",
+        "createdAt": "2023-09-23T21:24:25.253Z",
+        "family": "Akira",
+        "transactions": [
+            {
+                "hash": "3ee376d6978c9563ae1439dd79fcfbe42d293744ba4ad390ac0ebbcc1354ea8f",
+                "time": 1693656517,
+                "amount": 3855837013,
+                "amountUSD": 997458.7200285342
+            },
+            {
+                "hash": "1fc54936ad6556bc3d635ad1c8bfe7f5463206f6960c961e818b9ce4be01ecb7",
+                "time": 1693608753,
+                "amount": 10000,
+                "amountUSD": 2.5800724609000003
+            }
+        ],
+        "updatedAt": "2024-03-12T23:42:26.536Z",
+        "balanceUSD": 997461.3001009951
+    },
+    {
+        "address": "bc1qpwwtck0zhzrj56fxeayz6wz5546nlp607qzpvh",
+        "balance": 395475769,
+        "blockchain": "bitcoin",
+        "createdAt": "2023-09-23T21:24:25.406Z",
+        "family": "Akira",
+        "transactions": [
+            {
+                "hash": "e68ec1103af29e7f758398d49ba24c93add00483c9779911daace3012531e873",
+                "time": 1693350205,
+                "amount": 395474769,
+                "amountUSD": 109654.84174756864
+            },
+            {
+                "hash": "2dc4a71cf6c3a852f6b942d27bacea4478940cb314e43e7868b453d5dbb30f7e",
+                "time": 1693343647,
+                "amount": 1000,
+                "amountUSD": 0.27727392578
+            }
+        ],
+        "updatedAt": "2024-02-17T03:23:37.461Z",
+        "balanceUSD": 109655.11902149442
+    },
+    {
+        "address": "bc1qghj85gz0dkr9jeucana3z4xu50ujtllj50rvj0",
+        "balance": 298600000,
+        "blockchain": "bitcoin",
+        "createdAt": "2024-02-17T03:23:36.560Z",
+        "family": "Akira",
+        "transactions": [
+            {
+                "hash": "c78ff4d4d29bf1b6ab0e9958fde9b3ce872c4605fc1be39724d9373737e8bcac",
+                "time": 1699995916,
+                "amount": 297800000,
+                "amountUSD": 105831.09378125
+            },
+            {
+                "hash": "16c52b9ac871410763775926327591752478e446fc7f57b1898cc5e28df13b6c",
+                "time": 1699949499,
+                "amount": 800000,
+                "amountUSD": 284.301125
+            }
+        ],
+        "updatedAt": "2024-03-12T23:42:26.943Z",
+        "balanceUSD": 106115.39490625
+    },
+    {
+        "address": "bc1qcnw5v94y40ast06eatgalnjpluu2p067qewh46",
+        "balance": 369315708,
+        "blockchain": "bitcoin",
+        "createdAt": "2024-02-17T03:23:37.837Z",
+        "family": "Akira",
+        "transactions": [
+            {
+                "hash": "e1164e539e1854891b348cfe1bacf47801f4452612e56a8f8189c265b287b552",
+                "time": 1696007887,
+                "amount": 369315708,
+                "amountUSD": 99389.21184926703
+            }
+        ],
+        "updatedAt": "2024-03-12T23:42:28.182Z",
+        "balanceUSD": 99389.21184926703
+    }
+]

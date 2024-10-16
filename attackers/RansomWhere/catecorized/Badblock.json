@@ -1,0 +1,22 @@
+[
+    {
+        "address": "15Lzdg8mhQWXgNjfbEWSmc9kPnUk78eeFy",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:13.524Z",
+        "family": "Badblock",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:50:07.579Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "19zvMSm7qSQgFXCckXBjstdVdbT99ZuWBP",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:13.738Z",
+        "family": "Badblock",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:50:07.610Z",
+        "balanceUSD": 0
+    }
+]

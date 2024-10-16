@@ -1,0 +1,155 @@
+[
+    {
+        "address": "13ELQVGgkM79nW34ncBe7Jz7xhXsXmRruM",
+        "balance": 2098547805,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:19.412Z",
+        "transactions": [
+            {
+                "hash": "5b78370e024218c27c6635b392572105f1f0fd9bcfbd052dad24f375a8426e72",
+                "time": 1605828111,
+                "amount": 2098547805,
+                "amountUSD": 373900.1478361399
+            }
+        ],
+        "updatedAt": "2021-09-22T20:55:22.062Z",
+        "family": "Egregor",
+        "balanceUSD": 373900.1478361399
+    },
+    {
+        "address": "1PDSGRqkBF7yEJhTNDaxNm6UQT63rrzTGk",
+        "balance": 733379781,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:19.600Z",
+        "transactions": [
+            {
+                "hash": "7114530ef48249129d3a1a2b4bf700ac1b10196e5da3ae1d1d8b682e4f3121ee",
+                "time": 1604091725,
+                "amount": 733379781,
+                "amountUSD": 99347.45675759761
+            }
+        ],
+        "updatedAt": "2021-09-22T20:55:22.617Z",
+        "family": "Egregor",
+        "balanceUSD": 99347.45675759761
+    },
+    {
+        "address": "1GZV41rSAHAj63pNjLCBwo7rfioxU8JPE9",
+        "balance": 1681520094,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:19.697Z",
+        "transactions": [
+            {
+                "hash": "381247ff52f2b4cf7d01068591461877e351e73a231758be8e0e93d389c52273",
+                "time": 1605718724,
+                "amount": 1681520094,
+                "amountUSD": 299377.9360560223
+            }
+        ],
+        "updatedAt": "2021-09-22T20:55:22.860Z",
+        "family": "Egregor",
+        "balanceUSD": 299377.9360560223
+    },
+    {
+        "address": "1MPdDiRhWFawgN2GVi1Jamm8DdC4qypoGL",
+        "balance": 1555000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:20.065Z",
+        "transactions": [
+            {
+                "hash": "be5bab8dc2f80cb2b22d454b7dae78290144bd4e842f4cec71ca7a0d6431f9c8",
+                "time": 1606775584,
+                "amount": 1555000000,
+                "amountUSD": 305181.74883590004
+            }
+        ],
+        "updatedAt": "2021-09-22T20:55:24.252Z",
+        "family": "Egregor",
+        "balanceUSD": 305181.74883590004
+    },
+    {
+        "address": "1D2ZiHwE4pQb8X6NNcXdfHwncHa3yrDdYr",
+        "balance": 2026068751,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:20.486Z",
+        "transactions": [
+            {
+                "hash": "bca2ed5791959a2326acca66c9638e32247114d7d16972b4ccdf56861333a028",
+                "time": 1604797950,
+                "amount": 2026068751,
+                "amountUSD": 313626.6775369515
+            }
+        ],
+        "updatedAt": "2021-09-22T20:55:25.363Z",
+        "family": "Egregor",
+        "balanceUSD": 313626.6775369515
+    },
+    {
+        "address": "1LdrbQEAersWLi6A83JrCzERyXEZWD4hBP",
+        "balance": 2186270223,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:20.576Z",
+        "transactions": [
+            {
+                "hash": "5cb7fad138f7c12925555d3a7ac4f30ac3803e173179660c76aa5022fbb92ae0",
+                "time": 1604798133,
+                "amount": 2186270223,
+                "amountUSD": 338425.1723437494
+            }
+        ],
+        "updatedAt": "2021-09-22T20:55:25.850Z",
+        "family": "Egregor",
+        "balanceUSD": 338425.1723437494
+    },
+    {
+        "address": "1GJ4dp5vwK2E9PZ4eF7FVujJiTHERDTFJX",
+        "balance": 6190752563,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:46:03.356Z",
+        "transactions": [
+            {
+                "hash": "0f0e6aedda37a46255ec6f6eceabd046b3e39b48b3741bf1087681f2989c2ef8",
+                "time": 1603490338,
+                "amount": 6190752563,
+                "amountUSD": 800559.5859780187
+            }
+        ],
+        "updatedAt": "2021-09-22T20:55:26.717Z",
+        "family": "Egregor",
+        "balanceUSD": 800559.5859780187
+    },
+    {
+        "address": "1Mk96FcixjayGZgdPgo4GrnPPSn7rL1jpE",
+        "balance": 2802300000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:46:03.399Z",
+        "transactions": [
+            {
+                "hash": "f9961be7e6d24db493627e84596b9f89d83fbc5ca0619b7041f21b18a788c663",
+                "time": 1606597285,
+                "amount": 2802300000,
+                "amountUSD": 496495.09428744897
+            }
+        ],
+        "updatedAt": "2021-09-22T20:55:26.901Z",
+        "family": "Egregor",
+        "balanceUSD": 496495.09428744897
+    },
+    {
+        "address": "112yZpAs3Va6az6JTKZ7iQZEAWdvD5DYoj",
+        "balance": 521700000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:46:03.777Z",
+        "transactions": [
+            {
+                "hash": "6195dbe29f0222ba06fcd29ad5933f001f118bcc434f669e9c18afd9352aa80b",
+                "time": 1607367580,
+                "amount": 521700000,
+                "amountUSD": 100122.738191403
+            }
+        ],
+        "updatedAt": "2021-09-22T20:55:28.849Z",
+        "family": "Egregor",
+        "balanceUSD": 100122.738191403
+    }
+]

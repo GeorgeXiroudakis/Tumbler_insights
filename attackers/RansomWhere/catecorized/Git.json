@@ -1,0 +1,31 @@
+[
+    {
+        "address": "1ES14c7qLb5CYhLMUekctxLgc1FV2Ti9DA",
+        "balance": 74825,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-08-11T02:19:52.799Z",
+        "family": "Git",
+        "transactions": [
+            {
+                "hash": "e7ee5ea5622236db00979db2ebe587bb64720d2296fc3987c9b49b89fc250522",
+                "time": 1582321196,
+                "amount": 21268,
+                "amountUSD": 2.06011235822808
+            },
+            {
+                "hash": "984c0e857dcb762fd72588871d472f5af724de7f4e1689cd57c9f26410ce12a3",
+                "time": 1558742507,
+                "amount": 1032,
+                "amountUSD": 0.0831022535124
+            },
+            {
+                "hash": "68f76d8a9f2044ca95a3c81b308c812a825704824f295cfb5754352fbf905f85",
+                "time": 1556927421,
+                "amount": 52525,
+                "amountUSD": 3.0297940866627497
+            }
+        ],
+        "updatedAt": "2021-09-11T15:59:58.533Z",
+        "balanceUSD": 5.17300869840323
+    }
+]

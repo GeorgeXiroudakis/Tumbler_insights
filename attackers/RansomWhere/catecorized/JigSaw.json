@@ -1,0 +1,219 @@
+[
+    {
+        "address": "1Cf55htjGATCj3U97EfwjLc39YG36anMuj",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:30:54.908Z",
+        "family": "JigSaw",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:50:06.825Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "18zvwScQrbRH4Uh3C2zSzTmciMe7HYjvX",
+        "balance": 104250000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:30:55.147Z",
+        "family": "JigSaw",
+        "transactions": [
+            {
+                "hash": "56b46b35ab4bcd6f0b808f108a031d8eb18fc7eb1eb0774850761fc12d481495",
+                "time": 1481214671,
+                "amount": 10000000,
+                "amountUSD": 77.0809998
+            },
+            {
+                "hash": "e9a0f4336a7c0ce9b4a6b5bbc35fc6749465aa517c513ad86621c36ac2f4246d",
+                "time": 1481155030,
+                "amount": 25000000,
+                "amountUSD": 192.03300475
+            },
+            {
+                "hash": "896ef275b0f362bd491b7138a5c46bf8f400a917e40d9d325fe7ed514412d0ea",
+                "time": 1480700931,
+                "amount": 25000000,
+                "amountUSD": 194.4859925
+            },
+            {
+                "hash": "135003663bf759800f9fbed060c0d80ad89b3e7658fced1aca619a3eb4341b0c",
+                "time": 1463851775,
+                "amount": 44250000,
+                "amountUSD": 196.11068469
+            }
+        ],
+        "updatedAt": "2021-09-11T15:50:06.885Z",
+        "balanceUSD": 659.71068174
+    },
+    {
+        "address": "1MkafmzCi2DYJyXb1hqtUJntkPg2sAyz3H",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:30:55.199Z",
+        "family": "JigSaw",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:50:06.913Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "12YHmaLEAbWx3o3p6BvegG9WH47EYs8t1V",
+        "balance": 200000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:30:56.526Z",
+        "family": "JigSaw",
+        "transactions": [
+            {
+                "hash": "06a38bc38df0017ed2f32782031070ec855324cd4c0cd80edeaa1c86d2456274",
+                "time": 1470655674,
+                "amount": 200000,
+                "amountUSD": 1.1821080320000001
+            }
+        ],
+        "updatedAt": "2021-09-11T15:50:07.433Z",
+        "balanceUSD": 1.1821080320000001
+    },
+    {
+        "address": "1FNiZfWYQPEcZFL8i5bwvMC75RuB78LwaB",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:30:57.328Z",
+        "family": "JigSaw",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:50:07.625Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "18Rvo1q63i7tmwBxaBXZ7iQtFRdHiNiJFF",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:30:57.572Z",
+        "family": "JigSaw",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:50:07.707Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "15fbyNgDnqYQR5vSHJ8PTAEJbKy4dwNBCZ",
+        "balance": 200000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:30:57.666Z",
+        "family": "JigSaw",
+        "transactions": [
+            {
+                "hash": "c1424a65740387f3d7148ae5eda524290c05cafc1ced2417300770e986a3edc2",
+                "time": 1465731216,
+                "amount": 200000,
+                "amountUSD": 1.345567994
+            }
+        ],
+        "updatedAt": "2021-09-11T15:50:07.737Z",
+        "balanceUSD": 1.345567994
+    },
+    {
+        "address": "1FLjcTFpz9MhwLdZ4xm9onpAnUGfRbGdXg",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:30:58.152Z",
+        "family": "JigSaw",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:50:07.904Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "1LGxbfoqmrtdzvKQL2FTWBTMbTEQLR3jJ1",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:30:59.366Z",
+        "family": "JigSaw",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:50:08.378Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "1L9GdBW65Rt6e8UY69bnWNWomsppFFFR2X",
+        "balance": 15938957,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:30:59.411Z",
+        "family": "JigSaw",
+        "transactions": [
+            {
+                "hash": "0e348cd3dd8055b90a2ac5369be325e67ebc98e58f0c1cf2885e3ce1239bf655",
+                "time": 1460140678,
+                "amount": 558600,
+                "amountUSD": 2.348069508414
+            },
+            {
+                "hash": "443fcfc3259137e9030b32500a331a1314fe9e56cc2b119904f0905a03f7b48e",
+                "time": 1460140678,
+                "amount": 118000,
+                "amountUSD": 0.49601181882
+            },
+            {
+                "hash": "0c4daeebbac22e09118467a9b5fc0f31aec12a8c6a6b9528b63227139e94260c",
+                "time": 1460005386,
+                "amount": 61249,
+                "amountUSD": 0.25892708198755005
+            },
+            {
+                "hash": "5a7516dbcefd5967de6e0aa49645046bba785758fe2b309f0c7ec9bfbcb0b9de",
+                "time": 1459998052,
+                "amount": 139707,
+                "amountUSD": 0.5906043501646501
+            },
+            {
+                "hash": "6cb909c82fe2d2439aaeb49527c106d23950fb689853419bd321cd5349dbe333",
+                "time": 1459449742,
+                "amount": 1149707,
+                "amountUSD": 4.79116253001828
+            },
+            {
+                "hash": "ac253edb431c3705d51630878141a95f2125f174329a62c99d2ce2dfa39d57ee",
+                "time": 1459285499,
+                "amount": 1864212,
+                "amountUSD": 7.76474108614092
+            },
+            {
+                "hash": "a7f97173189fe2b1734f6473641572a73a7c3305e2f903dd32c5fcc456c0b0e6",
+                "time": 1459262342,
+                "amount": 1908741,
+                "amountUSD": 7.9502114917733095
+            },
+            {
+                "hash": "bb72ccc46f4cd616c89641f1f514c9c9bcdc764daeca49f7564b58830987b36d",
+                "time": 1459233966,
+                "amount": 10138741,
+                "amountUSD": 42.22947755107331
+            }
+        ],
+        "updatedAt": "2021-09-11T15:50:08.389Z",
+        "balanceUSD": 66.42920541839202
+    },
+    {
+        "address": "18sn8Q5L1T3LbZuvz5hqHu2aFXgU5T9fu4",
+        "balance": 206618100,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:30:59.467Z",
+        "family": "JigSaw",
+        "transactions": [
+            {
+                "hash": "62d003e337e4535fb9759fad6f8b705556b5f1c5e9492dccbe347c13e2a2cfac",
+                "time": 1479272281,
+                "amount": 33000000,
+                "amountUSD": 245.58533934000002
+            },
+            {
+                "hash": "389ec397c15db5738a6a58b7239ec3b2db0bcf411208bc6dd914cffb013fed49",
+                "time": 1467937669,
+                "amount": 151238100,
+                "amountUSD": 1008.0367363868099
+            },
+            {
+                "hash": "0549dd666fd5433226321c49e5357213db0d86458ccdaa4959986768f6ba00b1",
+                "time": 1462042723,
+                "amount": 22380000,
+                "amountUSD": 100.3335668334
+            }
+        ],
+        "updatedAt": "2021-09-11T15:50:08.447Z",
+        "balanceUSD": 1353.95564256021
+    }
+]

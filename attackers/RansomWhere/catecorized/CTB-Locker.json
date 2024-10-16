@@ -1,0 +1,65 @@
+[
+    {
+        "address": "1MScgv8kvbVLwGbciuw44gvy23rocaNCc8",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:30:55.099Z",
+        "family": "CTB-Locker",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:50:06.869Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "1E4jsfwFsKVaAVFNfrmGVgDY1HRU8qf7PV",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:30:55.242Z",
+        "family": "CTB-Locker",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:50:06.927Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "1KoqtdoZG8Hz8ienYr8KBcdFP3vYwhZLGA",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:30:56.955Z",
+        "family": "CTB-Locker",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:50:07.508Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "1Hf2vPmYNxzFYWiaURs75h8JoyCczLXCG2",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:30:57.097Z",
+        "family": "CTB-Locker",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:50:07.551Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "1A6GJMhpPhCcM557o62scEtuVXNAFe74fa",
+        "balance": 20000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:30:57.482Z",
+        "family": "CTB-Locker",
+        "transactions": [
+            {
+                "hash": "dea6e1ca9dc75b2e049d6da8c8939b2dadff04da78cbacabcdeb5695819cd8ec",
+                "time": 1460979194,
+                "amount": 10000,
+                "amountUSD": 0.0428591003
+            },
+            {
+                "hash": "993cac57366a6305b739316b8c5e0265fd60b204cd37a5130e239214064f7464",
+                "time": 1457909885,
+                "amount": 10000,
+                "amountUSD": 0.0414065002
+            }
+        ],
+        "updatedAt": "2021-09-11T15:50:07.693Z",
+        "balanceUSD": 0.08426560050000001
+    }
+]

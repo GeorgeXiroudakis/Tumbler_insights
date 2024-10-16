@@ -1,0 +1,25 @@
+[
+    {
+        "address": "17rJmFiKyYbNZmt9xiz8yTScX1QvWpt7pz",
+        "balance": 9000037117,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-08T06:43:12.007Z",
+        "transactions": [
+            {
+                "hash": "744f39c17192c360a4a7efd80d1fe40cdf97f87d5c5fb2501d80343eca95ee12",
+                "time": 1597628932,
+                "amount": 5999955749,
+                "amountUSD": 735258.7179444188
+            },
+            {
+                "hash": "cbf898f9f57be82949c3882e44eb1306b835878def491f89c9a20cc7d6f24528",
+                "time": 1597335969,
+                "amount": 3000081368,
+                "amountUSD": 353533.71936715965
+            }
+        ],
+        "updatedAt": "2021-09-22T20:54:06.278Z",
+        "family": "Bitpaymer / DoppelPaymer",
+        "balanceUSD": 1088792.4373115785
+    }
+]

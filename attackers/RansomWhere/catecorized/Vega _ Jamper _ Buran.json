@@ -1,0 +1,55 @@
+[
+    {
+        "address": "bc1qqxnp9z0ff8x852dyflp5r9r6rzse8jl5hzmqz8",
+        "balance": 5424094,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-09-06T16:01:20.371Z",
+        "family": "Vega / Jamper / Buran",
+        "transactions": [
+            {
+                "hash": "e7ecc3e6671c564bbfbeb42fb57b7c1fde3cb6969146a874fca0a5ccff7d5035",
+                "time": 1630600868,
+                "amount": 182000,
+                "amountUSD": 89.77645523392
+            },
+            {
+                "hash": "715a606116c894e8a2ebf08ab896cc4ea165a5cd39eef87b26cee6247ac39d07",
+                "time": 1630540157,
+                "amount": 550000,
+                "amountUSD": 268.65865039199997
+            },
+            {
+                "hash": "983d4ef504f85906476110ed34261d84a710508b2b6bc53c02ca0093f9d63622",
+                "time": 1630531175,
+                "amount": 620000,
+                "amountUSD": 302.8515695328
+            },
+            {
+                "hash": "76e234632ba870f1a2931c4695e45194e1f780af499068797da9bfcf976ab0d0",
+                "time": 1630079229,
+                "amount": 1310268,
+                "amountUSD": 642.800027624057
+            },
+            {
+                "hash": "c256c866894b12d43115b5eeb9b8d1994c5f7e66c92abf0967599680f250ac9a",
+                "time": 1629630550,
+                "amount": 1129826,
+                "amountUSD": 557.2488518121214
+            },
+            {
+                "hash": "cdc9175e0613f80e281a676ad9512c800a2fca082c32f8a4445648d7508bf058",
+                "time": 1628957943,
+                "amount": 1080000,
+                "amountUSD": 508.6470093804
+            },
+            {
+                "hash": "720f2625e887149c37d42dab53245af1d1af5b0293924d1ce3c250274f295b19",
+                "time": 1628545226,
+                "amount": 552000,
+                "amountUSD": 255.93702093888
+            }
+        ],
+        "updatedAt": "2021-09-11T15:59:58.707Z",
+        "balanceUSD": 2625.9195849141784
+    }
+]

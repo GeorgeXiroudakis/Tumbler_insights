@@ -1,0 +1,19 @@
+[
+    {
+        "address": "1EEHF6uucK2UNtbwxTyAzZ74wNudApYWQm",
+        "balance": 100000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:40:29.159Z",
+        "family": "XLocker",
+        "transactions": [
+            {
+                "hash": "d66b7afa28a59b360254a64aa69a4025e786406f2395342ca0bfe5912a5530cb",
+                "time": 1495654093,
+                "amount": 100000000,
+                "amountUSD": 2443.639893
+            }
+        ],
+        "updatedAt": "2021-09-11T15:58:01.690Z",
+        "balanceUSD": 2443.639893
+    }
+]

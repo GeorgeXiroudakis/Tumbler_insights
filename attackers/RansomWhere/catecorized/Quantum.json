@@ -1,0 +1,19 @@
+[
+    {
+        "address": "bc1qenh0h6vvm00krm5re7ycst98unulgp4x04dn2u",
+        "balance": 1269307800,
+        "blockchain": "bitcoin",
+        "createdAt": "2023-06-20T00:14:57.428Z",
+        "family": "Quantum",
+        "transactions": [
+            {
+                "hash": "763eb9ac06900912ca3ade5d09a5166bbedc9dce3d26a2a4321abb2afb67f051",
+                "time": 1654641618,
+                "amount": 1269307800,
+                "amountUSD": 395458.9189309122
+            }
+        ],
+        "updatedAt": "2023-06-20T00:14:57.428Z",
+        "balanceUSD": 395458.9189309122
+    }
+]

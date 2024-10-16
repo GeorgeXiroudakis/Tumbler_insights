@@ -1,0 +1,25 @@
+[
+    {
+        "address": "bc1ql5f3m75qx3ueu2pz5eeveyqsw6pdjs3ufk8r20",
+        "balance": 3235294118,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-09-23T00:11:20.090Z",
+        "family": "HelloKitty",
+        "transactions": [
+            {
+                "hash": "3afc329e0d491bed832bb56f0123e2fc1347880efde890cc1c716200ee1be1b8",
+                "time": 1626096439,
+                "amount": 3135294118,
+                "amountUSD": 1039533.3413316087
+            },
+            {
+                "hash": "f19df75397d212a3600e731c41d47969aa8a8e930e109efb2e41ee825b1afaff",
+                "time": 1626092837,
+                "amount": 100000000,
+                "amountUSD": 33155.847656
+            }
+        ],
+        "updatedAt": "2021-09-23T00:11:20.090Z",
+        "balanceUSD": 1072689.1889876088
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "address": "1MfVk1utxgvGjMFV3K3CzXsDRDZznj5tey",
+        "balance": 896000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:30:58.284Z",
+        "family": "Bucbi",
+        "transactions": [
+            {
+                "hash": "7a8f930d191c040d361dc6f245372cde208a21fe868feaf74a487bcf7d1112a0",
+                "time": 1459620482,
+                "amount": 896000,
+                "amountUSD": 3.77102195456
+            }
+        ],
+        "updatedAt": "2021-09-11T15:50:07.973Z",
+        "balanceUSD": 3.77102195456
+    }
+]

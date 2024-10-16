@@ -1,0 +1,227 @@
+[
+    {
+        "address": "bc1qj4hglg9vceql2qj3kad67vh8sgq83535mwvhhk",
+        "balance": 3005460,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-06-02T02:58:38.035Z",
+        "family": "DeadBolt",
+        "transactions": [
+            {
+                "hash": "662c35a6e93ac5cf71ff44226a590a998c96c703dfc786930846106581bed9a6",
+                "time": 1643312052,
+                "amount": 3000000,
+                "amountUSD": 1114.14703125
+            },
+            {
+                "hash": "366670d5309dbc2745b988bd92e6df901628c7a4497591d6fe38171028927f34",
+                "time": 1643312052,
+                "amount": 5460,
+                "amountUSD": 2.027747596875
+            }
+        ],
+        "updatedAt": "2022-09-04T16:21:08.202Z",
+        "balanceUSD": 1116.1747788468751
+    },
+    {
+        "address": "bc1qcn8wp3283l9j3udwz6eydd87emjwmrnyflerck",
+        "balance": 3015673,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-06-02T02:58:38.053Z",
+        "family": "DeadBolt",
+        "transactions": [
+            {
+                "hash": "9fcb00429ad7fe38f138551fdfff4afec645b3920b90051914649ed11942b525",
+                "time": 1645081603,
+                "amount": 5460,
+                "amountUSD": 2.2133754398574
+            },
+            {
+                "hash": "4dfa1ff4436e547c279c74911dde6232d2a475e8a4ea6815a7d2017c29b884a7",
+                "time": 1645041976,
+                "amount": 10010,
+                "amountUSD": 4.400582123437499
+            },
+            {
+                "hash": "d76c3dced941b2315bf187714006a80154233271752d0a7e3f51e89565257d5f",
+                "time": 1645032109,
+                "amount": 3000203,
+                "amountUSD": 1318.9450238245313
+            }
+        ],
+        "updatedAt": "2022-09-04T16:21:08.218Z",
+        "balanceUSD": 1325.5589813878262
+    },
+    {
+        "address": "bc1qd3hk7g8dnsyw7sxledlje2twz9vk3fex95prlr",
+        "balance": 3305460,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-06-02T02:58:38.085Z",
+        "family": "DeadBolt",
+        "transactions": [
+            {
+                "hash": "3dd12c04212990ca8abf02184b1229d0c33d42549d428977eaf34ceea32629d4",
+                "time": 1643455622,
+                "amount": 5460,
+                "amountUSD": 2.0823446109647996
+            },
+            {
+                "hash": "c684734e5c7e0488f6a7ae6b5fd181f5ebfe09a8a951527ca2911ec8e6abc945",
+                "time": 1643455622,
+                "amount": 3000000,
+                "amountUSD": 1144.14539064
+            },
+            {
+                "hash": "66040e350d3445907ca7b612dd0ace92e726dcd6f4204160d20d0c1b6a284142",
+                "time": 1643454998,
+                "amount": 300000,
+                "amountUSD": 114.414539064
+            }
+        ],
+        "updatedAt": "2022-09-04T16:21:08.286Z",
+        "balanceUSD": 1260.6422743149647
+    },
+    {
+        "address": "bc1qr64flf6c6pvaczuzmnv99tjd6g04nm07cqjx4k",
+        "balance": 3005460,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-06-02T02:58:38.118Z",
+        "family": "DeadBolt",
+        "transactions": [
+            {
+                "hash": "3551ed18797f9842d75c82a7778e422a5b542f4719b77a0a491ba4c3e0980dbf",
+                "time": 1643419306,
+                "amount": 5460,
+                "amountUSD": 2.0823446109647996
+            },
+            {
+                "hash": "5492e8e8883ea61bc2d266148330bcffaa1eea5e6f951e7e4f5407d7c05f6124",
+                "time": 1643419306,
+                "amount": 3000000,
+                "amountUSD": 1144.14539064
+            }
+        ],
+        "updatedAt": "2022-09-04T16:21:08.341Z",
+        "balanceUSD": 1146.2277352509648
+    },
+    {
+        "address": "bc1q62vek72l4aahdhd84fkk8c2s2nv3sj8qgqv25g",
+        "balance": 3005460,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-06-02T02:58:38.136Z",
+        "family": "DeadBolt",
+        "transactions": [
+            {
+                "hash": "37cf15af0bf1559727d469ca714456157e44af9385dde4cd1be33a5e6c0a5f8c",
+                "time": 1643397685,
+                "amount": 5460,
+                "amountUSD": 2.0630245288926
+            },
+            {
+                "hash": "a27d5d5aed4376946f2979708931ef0d048ea4fb8b4322e19a70aaec4b0890a9",
+                "time": 1643397682,
+                "amount": 3000000,
+                "amountUSD": 1133.5299609299998
+            }
+        ],
+        "updatedAt": "2022-09-04T16:21:08.359Z",
+        "balanceUSD": 1135.5929854588924
+    },
+    {
+        "address": "bc1qcdve3qn83g44gmzrmqsces3rh2r6qm93j9jcul",
+        "balance": 6005460,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-06-02T02:58:38.220Z",
+        "family": "DeadBolt",
+        "transactions": [
+            {
+                "hash": "a8038a830b15c1f0f7c4684b36cd5ac33d6d6edd85678c0c1c16ebbb9018fd0f",
+                "time": 1649246773,
+                "amount": 3000000,
+                "amountUSD": 1296.2021484299999
+            },
+            {
+                "hash": "49791711c452eb2f8899ed4c408a0beba380a455f1fb88101489f79ba745eedb",
+                "time": 1643806928,
+                "amount": 5460,
+                "amountUSD": 2.017632946875
+            },
+            {
+                "hash": "dd7c5f7a67e2d2ecdbd9b02e2202cb9c7a9809804d0fb3327973b30b97a98ff1",
+                "time": 1643791811,
+                "amount": 3000000,
+                "amountUSD": 1108.58953125
+            }
+        ],
+        "updatedAt": "2022-09-04T16:21:08.762Z",
+        "balanceUSD": 2406.809312626875
+    },
+    {
+        "address": "bc1qphqcave2suh5zvjacfwnpkhqrt8j9huufyujww",
+        "balance": 3005460,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-06-02T02:58:38.256Z",
+        "family": "DeadBolt",
+        "transactions": [
+            {
+                "hash": "a27e367152de67036e64ccc54bc9d32fd6e6b230bd3c1cda1f4925d6da85544b",
+                "time": 1648314141,
+                "amount": 3000000,
+                "amountUSD": 1335.02484375
+            },
+            {
+                "hash": "07b26ff368da7a84149d0fba1cf67364e9ea9e4d27ca2ae3342d0e92c060a7a4",
+                "time": 1648314181,
+                "amount": 5460,
+                "amountUSD": 2.429745215625
+            }
+        ],
+        "updatedAt": "2022-09-04T16:21:08.789Z",
+        "balanceUSD": 1337.454588965625
+    },
+    {
+        "address": "bc1qwhz97zmtjhf44c336sx5gfk8l0rdkaa4ax3skd",
+        "balance": 3005460,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-06-02T02:58:38.324Z",
+        "family": "DeadBolt",
+        "transactions": [
+            {
+                "hash": "6f7e42c0a897f9cc0abb373061337cc8696bc907474f6a272441bb7d1bc1a6e8",
+                "time": 1643281975,
+                "amount": 5460,
+                "amountUSD": 2.027747596875
+            },
+            {
+                "hash": "4951190c32466151ae09029aa0f7d1fe85e36031f2b1db9938af498db872e411",
+                "time": 1643281975,
+                "amount": 3000000,
+                "amountUSD": 1114.14703125
+            }
+        ],
+        "updatedAt": "2022-09-04T16:21:08.875Z",
+        "balanceUSD": 1116.1747788468751
+    },
+    {
+        "address": "bc1qj5vz6sc7n90ylq393h9khsa8essryylj65fvdm",
+        "balance": 3005460,
+        "blockchain": "bitcoin",
+        "createdAt": "2022-06-02T02:58:38.358Z",
+        "family": "DeadBolt",
+        "transactions": [
+            {
+                "hash": "b06530a29befc0f419735b46a47e8431374f93c21cabda51cdb7ebaab804cddf",
+                "time": 1643197454,
+                "amount": 5460,
+                "amountUSD": 2.0121258117324
+            },
+            {
+                "hash": "e28852904fe51ef17502f083e70b9b6ce08d173acc3a51a40135798f6418adf7",
+                "time": 1643197454,
+                "amount": 3000000,
+                "amountUSD": 1105.56363282
+            }
+        ],
+        "updatedAt": "2022-09-04T16:21:08.932Z",
+        "balanceUSD": 1107.5757586317325
+    }
+]

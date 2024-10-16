@@ -1,0 +1,19 @@
+[
+    {
+        "address": "bc1q65f238kv6gc235smuzcehshxcqljn2g7l5sz7j",
+        "balance": 2410000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-14T16:48:43.337Z",
+        "family": "Avaddon",
+        "transactions": [
+            {
+                "hash": "ff2afddf6edac79092d2d52c056305a28532bf9267ee3ca28fda7a0ed1ce8c22",
+                "time": 1620819415,
+                "amount": 2410000,
+                "amountUSD": 1184.5278972596
+            }
+        ],
+        "updatedAt": "2021-09-22T20:55:26.373Z",
+        "balanceUSD": 1184.5278972596
+    }
+]

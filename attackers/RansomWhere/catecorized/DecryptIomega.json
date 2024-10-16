@@ -1,0 +1,19 @@
+[
+    {
+        "address": "1GMwS2BgKbfHxZBGk4n3uy5GGevS4DtB1M",
+        "balance": 1000000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-08-11T02:19:53.237Z",
+        "family": "DecryptIomega",
+        "transactions": [
+            {
+                "hash": "b7688a256ae930d1f8ffc8f9721ebde14263cda0ede340413f3c3543a08a4e3f",
+                "time": 1563448848,
+                "amount": 1000000,
+                "amountUSD": 106.66482422
+            }
+        ],
+        "updatedAt": "2021-09-11T15:59:59.138Z",
+        "balanceUSD": 106.66482422
+    }
+]

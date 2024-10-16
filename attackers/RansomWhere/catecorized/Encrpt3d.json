@@ -1,0 +1,31 @@
+[
+    {
+        "address": "19B5Bt11oUqYnwSXfBgRpwwDGg5Ajirbjn",
+        "balance": 11071314,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-08-11T02:18:10.982Z",
+        "family": "Encrpt3d",
+        "transactions": [
+            {
+                "hash": "fc51032d6ad1323c3ad44d5fc650b68997d652881f0fc19b4497e3d9c65fc317",
+                "time": 1625051704,
+                "amount": 2866,
+                "amountUSD": 1.0042703579830798
+            },
+            {
+                "hash": "0677e900b2624ee6b2015e36ba13c9361449bc0b28cb067987994fd9a04cbd36",
+                "time": 1583507955,
+                "amount": 11061782,
+                "amountUSD": 1009.1161400867024
+            },
+            {
+                "hash": "c7641f504e892395e1d4ccffebee3f0eaf42694ebd8d063dd12c4fcb41b19e17",
+                "time": 1575912095,
+                "amount": 6666,
+                "amountUSD": 0.49334395493724004
+            }
+        ],
+        "updatedAt": "2021-09-11T15:58:00.967Z",
+        "balanceUSD": 1010.6137543996227
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "address": "1JHxr5sbXDoZuDsx624TmZ2MWyDdD9ag8K",
+        "balance": 0,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:30:55.043Z",
+        "family": "Chimera",
+        "transactions": [],
+        "updatedAt": "2021-09-11T15:50:06.854Z",
+        "balanceUSD": 0
+    },
+    {
+        "address": "1GaVKrVT17DN4dnWbTqGB9qG3rQrk1JBe9",
+        "balance": 50000,
+        "blockchain": "bitcoin",
+        "createdAt": "2021-07-15T03:30:57.805Z",
+        "family": "Chimera",
+        "transactions": [
+            {
+                "hash": "faf5b0b30b1de6dbf06254c71b9151729d4e49678d4a925c25fbb6a4b7d9984b",
+                "time": 1447002177,
+                "amount": 40000,
+                "amountUSD": 0.14934720440000002
+            },
+            {
+                "hash": "865578525c92d147d1730b233a9fa5e550674ef70b401224ab474fc315412e44",
+                "time": 1446915840,
+                "amount": 10000,
+                "amountUSD": 0.0386481995
+            }
+        ],
+        "updatedAt": "2021-09-11T15:50:07.773Z",
+        "balanceUSD": 0.18799540390000002
+    }
+]
